@@ -133,7 +133,7 @@ function extractHooks(text, title){
 }
 
 /* =========================
-   Domain detection → better templates
+   Domain detection → better moves
    ========================= */
 function detectDomain(text="", section=""){
   const s = (section||"").toLowerCase();
@@ -163,67 +163,102 @@ async function loadRecentOpeners(limit = 200) {
   } catch { return []; }
 }
 
-const FIRST_WORD_CAP = 3; // don't start teaser with same word >3 times per run
-const BANNED_PHRASES = /(discover|find out|learn|see how|see why|reveal|unveil|uncover)/i;
-const QUESTIONY_OPENERS = /^(what|which|how|why|where|who|when|does|do|can|should|will|is|are|could|would|did)\b/i;
+/* =========================
+   Style constraints
+   ========================= */
+const BANNED_PHRASES = [
+  "discover","find out","learn","see how","see why","read how","read why",
+  "here’s how","here's how","here’s why","here's why","this is why","this is how",
+  "unveil","unveils","unveiled","reveal","reveals","revealed","uncover","explore"
+];
+const QUESTIONY_OPENERS = ["what","which","how","why","where","who","when","does","do","can","should","will","is","are","could","would","did"];
+const FIRST_WORD_CAP = 2;
 
 /* =========================
-   Teaser builder (bullet #3) — deterministic, no model
+   Move templates by domain (declarative only)
    ========================= */
-function buildTeaser(hooks, domain){
-  const actor = hooks.actors[0];
-  const num   = hooks.numbers[0];
-  const date  = hooks.dates[0];
-
-  const T = {
-    sports: [
-      actor ? `Read ${actor}’s key line in context.` : null,
-      date ? `Next on the calendar (${date})—details inside.` : null,
-      num ? `See the number that defines the deal (${num}).` : null,
-      `How the move changes the lineup is broken down inside.`
-    ],
-    entertainment: [
-      `Production timeline and who’s attached are inside.`,
-      `Read the quote shaping reactions.`,
-      `Release window and episode plan are in the story.`
-    ],
-    gov: [
-      date ? `Next step is scheduled (${date})—agenda details inside.` : `Next step is scheduled—agenda details inside.`,
-      `Inside: the board’s role—and what happens next.`,
-      `A budget line carries the weight—the amount is listed.`
-    ],
-    courts: [
-      date ? `Key filings and the next court date (${date}) are listed inside.` : `Key filings and the next court date are listed inside.`,
-      `Read the line lawyers are leaning on.`,
-      `What’s at stake if the motion fails is outlined.`
-    ],
-    realestate: [
-      num ? `See the ranking’s key number (${num}).` : `See the ranking and what moved it.`,
-      `Neighborhoods driving the shift are shown on the map.`,
-      `Price bands and who’s buying are broken down.`
-    ],
-    general: [
-      actor ? `Read what ${actor} said.` : null,
-      num ? `One figure reframes the story—see the number (${num}).` : `One figure reframes the story—see the number.`,
-      `What happens next is laid out inside.`
-    ]
-  };
-
-  const list = T[domain] || T.general;
-  let line = list.find(Boolean) || `What happens next is laid out inside.`;
-
-  // Guardrails: no questions/ban words/ellipsis
-  line = line.replace(/\?+/g, "").replace(/\.\.\.$/, "").trim();
-  if (QUESTIONY_OPENERS.test(line) || BANNED_PHRASES.test(line)) {
-    line = `What happens next is laid out inside.`;
+const MOVES = {
+  sports: {
+    quote:   h => `Read ${h.actor || "the player"}’s key line in context.`,
+    stat:    h => `See the figure that defines the deal${h.number ? ` (${h.number})` : ""}.`,
+    next:    h => `Next on the calendar${h.when ? `: ${h.when}` : ""}—details inside.`,
+    analysis:h => `How the move changes the lineup is broken down inside.`
+  },
+  entertainment: {
+    timeline:h => `Production timeline and who’s attached are inside.`,
+    quote:   h => `Read the line that’s shaping reactions.`,
+    role:    h => `See how the role is framed—and what it signals.`,
+    release: h => `Release window and episode plan are in the story.`
+  },
+  gov: {
+    next:    h => `Next step is scheduled${h.when ? ` (${h.when})` : ""}—agenda details inside.`,
+    money:   h => `A budget line carries the weight—the amount is listed.`,
+    map:     h => `Where the plan faces its toughest test is mapped inside.`,
+    board:   h => `Inside: the board’s role—and what happens next.`
+  },
+  courts: {
+    docket:  h => `Key filings and next court date are listed inside.`,
+    quote:   h => `Read the line lawyers are leaning on.`,
+    stakes:  h => `What’s at stake if the motion fails is outlined.`
+  },
+  realestate: {
+    rank:    h => `See the ranking and the number that moves the list.`,
+    map:     h => `Neighborhoods driving the shift are shown on the map.`,
+    money:   h => `Price bands and who’s buying are broken down.`
+  },
+  general: {
+    readWhat:h => `Read what ${h.actor || "officials"} said${h.when ? ` on ${h.when}` : ""}.`,
+    number:  h => `One figure reframes the story—see the number.`,
+    next:    h => `What happens next is laid out inside.`,
+    quote:   h => `A single line is driving pushback—read it in the piece.`
   }
-  return line;
+};
+
+function pickMoveForDomain(domain, hooks){
+  switch(domain){
+    case "sports": return hooks.numbers[0] ? "stat" : (hooks.quotes[0] ? "quote" : "analysis");
+    case "entertainment": return hooks.dates[0] ? "timeline" : (hooks.quotes[0] ? "quote" : "role");
+    case "gov": return hooks.dates[0] ? "next" : (/\bboard\b/i.test(hooks.impacts.join(" ")) ? "board" : (hooks.numbers[0] ? "money" : "map"));
+    case "courts": return hooks.dates[0] ? "docket" : (hooks.quotes[0] ? "quote" : "stakes");
+    case "realestate": return hooks.numbers[0] ? "rank" : "map";
+    default: return hooks.actors[0] ? "readWhat" : (hooks.numbers[0] ? "number" : "next");
+  }
 }
 
 /* =========================
-   Summarization (model for bullets 1–2 only)
+   Validators / rewrite logic
    ========================= */
-async function summarizeItem(item, recentOpeners, openerFreq){
+function isQuestionish(s = "") {
+  const lower = s.trim().toLowerCase();
+  if (lower.includes("?")) return true;
+  const first = lower.split(/\s+/)[0] || "";
+  return QUESTIONY_OPENERS.includes(first);
+}
+
+function needsRewrite(b3, recentOpeners) {
+  if (!b3) return true;
+  const lower = b3.toLowerCase();
+  if (isQuestionish(lower)) return true;
+  if (BANNED_PHRASES.some(p => lower.includes(p))) return true;
+  const open2 = firstTwoWords(lower);
+  if (open2 && recentOpeners.includes(open2)) return true;
+  return false;
+}
+
+function applyCapsAndRecord(line, recentOpeners, usedOpeners, firstWordFreq){
+  let s = (line || "").replace(/\?+/g,"").trim();
+  const op2 = firstTwoWords(s);
+  const first = s.split(/\s+/)[0]?.toLowerCase() || "";
+  usedOpeners.add(op2);
+  firstWordFreq[first] = (firstWordFreq[first] || 0) + 1;
+  if (!recentOpeners.includes(op2)) recentOpeners.push(op2);
+  return s;
+}
+
+/* =========================
+   Summarization
+   ========================= */
+async function summarizeItem(item, recentOpeners, usedOpeners, firstWordFreq){
   const { title, link, contentSnippet, isoDate, pubDate, categories } = item;
   const { text, image } = await extractArticle(link);
   const hooks   = extractHooks(text, title);
@@ -231,12 +266,14 @@ async function summarizeItem(item, recentOpeners, openerFreq){
   const section = (item.categories || [])[0] || "";
   const domain  = detectDomain(text, section);
 
-  // Ask model for exactly TWO bullets (factual, specific; no curiosity language)
+  const avoidList = Array.from(new Set([...recentOpeners, ...BANNED_PHRASES])).slice(0, 100);
+
   const system = `
-You are a Boston-area news copy editor.
-Return strict JSON: {"bullets":["...", "..."]}.
-Write EXACTLY TWO bullets (<=22 words each), specific and neutral, summarizing the article’s most important facts.
-No curiosity-gap phrasing. No questions. No ellipses. No hype.
+You are a Boston-area news copy editor. Produce EXACTLY three bullets (<= 22 words each).
+- Bullet 1–2: clear, specific, neutral.
+- Bullet 3: MUST be declarative/imperative (no questions, no '?'), a specific curiosity cue in Boston.com tone.
+- Use concrete nouns, names, places, or numbers when available. No hype. No ellipses. No stock phrasing ("discover/find out/learn/see how/why/reveal").
+Return strict JSON: {"bullets": ["...", "...", "..."]}.
 `.trim();
 
   const user = `
@@ -244,49 +281,65 @@ TITLE: ${title}
 URL: ${link}
 PUBLISHED: ${isoDate || pubDate || ""}
 SECTION: ${section}
+DOMAIN: ${domain}
+
+HOOKS:
+- numbers: ${hooks.numbers.join(", ") || "—"}
+- quotes: ${hooks.quotes.join(" | ") || "—"}
+- dates: ${hooks.dates.join(", ") || "—"}
+- actors: ${hooks.actors.join(", ") || "—"}
+- impacts: ${hooks.impacts.join(" | ") || "—"}
+- comparisons: ${hooks.comparisons.join(" | ") || "—"}
 
 ARTICLE (truncated):
 ${clip(articleText)}
+
+Constraints for bullet 3:
+- Declarative/imperative only; do NOT use a question mark.
+- Avoid these (case-insensitive): ${avoidList.join(", ")}
 `.trim();
 
-  let two = [];
+  const resp = await client.chat.completions.create({
+    model: MODEL,
+    response_format: { type: "json_object" },
+    messages: [
+      { role: "system", content: system },
+      { role: "user", content: user }
+    ]
+  });
+
+  let bullets = [];
   try {
-    const resp = await client.chat.completions.create({
-      model: MODEL,
-      response_format: { type: "json_object" },
-      messages: [
-        { role: "system", content: system },
-        { role: "user", content: user }
-      ]
-    });
     const obj = JSON.parse(resp.choices[0]?.message?.content || "{}");
-    two = Array.isArray(obj.bullets) ? obj.bullets.slice(0,2) : [];
-  } catch (e) {
-    console.warn("Model 2-bullet summarize fail:", link, e.message);
-    two = (articleText.match(/[^.!?]+[.!?]/g) || []).slice(0,2).map(s => s.trim());
+    bullets = Array.isArray(obj.bullets) ? obj.bullets.slice(0,3) : [];
+  } catch {
+    const raw = (resp.choices[0]?.message?.content || "")
+      .split(/\n|•|-|\*/).map(s => s.trim()).filter(Boolean).slice(0,3);
+    bullets = raw;
   }
 
-  two = two.map(b => b.replace(/\s+/g," ").replace(/\.\.\.$/, "").trim());
+  bullets = (bullets || []).map(b => b.replace(/\s+/g, " ").replace(/\.\.\.$/, "").trim()).slice(0,3);
+  if (bullets.length < 3) while (bullets.length < 3) bullets.push("Further context is in the full story.");
 
-  // Local teaser (#3)
-  let teaser = buildTeaser(hooks, domain);
-
-  // Variety across page & runs
-  const opener = firstTwoWords(teaser);
-  const firstWord = teaser.split(/\s+/)[0].toLowerCase();
-  if (recentOpeners.includes(opener) || (openerFreq[firstWord] || 0) >= FIRST_WORD_CAP) {
-    // If duplicate, rotate templates within domain
-    const alt = buildTeaser({ ...hooks, actors: hooks.actors.slice(1), numbers: hooks.numbers.slice(1), dates: hooks.dates.slice(1) }, domain);
-    if (alt && firstTwoWords(alt) !== opener) {
-      teaser = alt;
-    } else {
-      teaser = "What happens next is laid out inside.";
-    }
+  // Validate/enforce bullet #3 with domain-aware phrasing
+  if (needsRewrite(bullets[2], recentOpeners)) {
+    const moveKey = pickMoveForDomain(domain, hooks);
+    const moveSet = MOVES[domain] || MOVES.general;
+    const templ   = moveSet[moveKey] || MOVES.general.next;
+    const candidate = templ({ actor: hooks.actors[0], number: hooks.numbers[0], when: hooks.dates[0] });
+    bullets[2] = candidate;
   }
-  openerFreq[firstWord] = (openerFreq[firstWord] || 0) + 1;
-  if (!recentOpeners.includes(opener)) recentOpeners.push(opener);
 
-  const bullets = [two[0] || "", two[1] || "", teaser];
+  // Cap first-word repetition & record opener
+  const first = (bullets[2] || "").split(/\s+/)[0].toLowerCase();
+  if ((firstWordFreq[first] || 0) >= FIRST_WORD_CAP) {
+    bullets[2] = "What happens next is laid out inside.";
+  }
+  bullets[2] = applyCapsAndRecord(bullets[2], recentOpeners, usedOpeners, firstWordFreq);
+
+  // Debug log to verify choices
+  console.log("Move/domain:", domain, "title:", title, "actor:", hooks.actors[0] || "-", "date:", hooks.dates[0] || "-");
+
   return { bullets, image };
 }
 
@@ -295,7 +348,8 @@ ${clip(articleText)}
    ========================= */
 async function main(){
   const recentOpeners  = await loadRecentOpeners(220);
-  const openerFreq     = Object.create(null);
+  const usedOpeners    = new Set();
+  const firstWordFreq  = Object.create(null);
 
   const feed   = await parser.parseURL(RSS_URL);
   const items  = dedupe(feed.items || []).slice(0, MAX_ARTICLES);
@@ -303,7 +357,7 @@ async function main(){
 
   for (const item of items) {
     try {
-      const s = await summarizeItem(item, recentOpeners, openerFreq);
+      const s = await summarizeItem(item, recentOpeners, usedOpeners, firstWordFreq);
       results.push({
         title: item.title || "",
         url: item.link,
