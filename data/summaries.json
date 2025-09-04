@@ -1,5 +1,44 @@
 [
   {
+    "title": "Man arrested in Somerville fire that destroyed home under construction",
+    "url": "https://www.boston.com/news/local-news/2025/09/04/man-arrested-in-somerville-fire-that-destroyed-home-under-construction/",
+    "author": "Sana Muneer",
+    "section": "News",
+    "published": "2025-09-04T22:16:20.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2025/04/handcuffs-680956d16ac3a-scaled.jpeg",
+    "bullets": [
+      "John Grasso, 35, was arrested for destruction of property related to a fire at a Somerville construction site.",
+      "The August 20 fire destroyed a house on 75 Thurston St., damaging neighboring buildings and displacing residents.",
+      "Somerville Police and Fire Departments collaborated with the Massachusetts State Fire Marshal in Grasso's arrest."
+    ]
+  },
+  {
+    "title": "Bill Belichick reportedly bans Patriots scouts from UNC practices",
+    "url": "https://www.boston.com/sports/new-england-patriots/2025/09/04/bill-belichick-unc-patriots-scouts-banned-nfl-north-carolina-football-robert-kraft/",
+    "author": "Conor Ryan",
+    "section": "Sports",
+    "published": "2025-09-04T22:16:04.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/North_Carolina_Belichick_Football_38650-68ba0cbda241f-768x432.jpg",
+    "bullets": [
+      "Bill Belichick reportedly bans New England Patriots scouts from University of North Carolina practices, restricting direct observation.",
+      "Patriots scouts can request player films and contact UNC staff for prospect information despite practice access ban.",
+      "Belichick's relationship with Patriots owner Robert Kraft has been strained since leaving the team after the 2023 season."
+    ]
+  },
+  {
+    "title": "Mass. schools placed in lockdown due to hunter with unloaded gun, police say",
+    "url": "https://www.boston.com/news/local-news/2025/09/04/mass-schools-placed-in-lockdown-due-to-hunter-with-unloaded-gun-police-say/",
+    "author": "Sana Muneer",
+    "section": "News",
+    "published": "2025-09-04T21:44:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
+    "bullets": [
+      "Upton Police locked down two schools due to reports of a man with a gun near Nipmuc High and Blackstone Valley Technical.",
+      "The suspect, later identified as a hunter with an unloaded firearm, was returning to his car after legally hunting.",
+      "Schools were released from lockdown after police confirmed there was no threat; community cooperation was praised by authorities."
+    ]
+  },
+  {
     "title": "Missing daughter of Worcester mother in ICE detention found, police say",
     "url": "https://www.boston.com/news/local-news/2025/09/04/missing-daughter-of-worcester-mother-in-ice-detention-found-police-say/",
     "author": "Molly Farrar",
@@ -7,9 +46,9 @@
     "published": "2025-09-04T21:06:13.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/O22RHRGYIHU7MEY6CTYMWFVBDY-1-68b9fb8a14e0e-768x432.jpg",
     "bullets": [
-      "13-year-old daughter of detained Worcester mother Rosane Ferreira De Oliveira found safe in Massachusetts, now in DCF custody.",
-      "17-year-old Nayara Ferreira De Moura, also missing since July, remains unaccounted for, last seen in early June.",
-      "Rosane Ferreira De Oliveira detained in New Hampshire by ICE, arrest involved neighbor protests and Councilor Etel Haxhiaj."
+      "The 13-year-old daughter of Rosane Ferreira De Oliveira, in ICE custody, was found safe and is back with DCF.",
+      "The 17-year-old daughter, Nayara Ferreira De Moura, remains missing; last seen in Lancaster, reportedly in Brazil.",
+      "Ferreira De Oliveira was arrested in May, allegedly lured by ICE using her grandchild, leading to community protests."
     ]
   },
   {
@@ -20,9 +59,9 @@
     "published": "2025-09-04T20:39:21.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/Sex-ed-pamphlet-68b9f57fc3bec-768x432.jpg",
     "bullets": [
-      "HHS demands Massachusetts remove 'gender ideology' from sex ed to retain up to $2.36 million in federal funding.",
-      "The Trump administration views references to gender identity in sex education as outside PREP's authorizing statute.",
-      "Massachusetts among 46 states urged to align federally funded sex ed with traditional gender definitions or risk funding loss."
+      "The Trump administration demands Massachusetts remove 'gender ideology' references from federally funded sex ed materials.",
+      "Massachusetts has 60 days to revise materials or risk losing up to $2.36 million in federal funding.",
+      "U.S. Department of Health and Human Services identifies problematic references to gender identity and expression in materials."
     ]
   },
   {
@@ -33,9 +72,9 @@
     "published": "2025-09-04T19:21:29.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/Filipa-Patao-4-68b9d01dbc5fa-768x432.jpg",
     "bullets": [
-      "Filipa Patão, former Benfica manager, was appointed as the inaugural head coach of Boston Legacy FC in June 2025.",
-      "Patão, 36, led Benfica to multiple titles and aims to build a legacy with Boston Legacy FC in the NWSL.",
-      "Patão and general manager Domènec Guasch, formerly of Barcelona, share a similar soccer philosophy for team strategy."
+      "Filipa Patão appointed as inaugural head coach of Boston Legacy FC, leaves Portuguese club Benfica.",
+      "Patão aims to create a legacy with Boston, aligning with general manager Domènec Guasch from Barcelona.",
+      "Patão acclimates to Boston life, trying local lobster rolls and noting the city's sports passion."
     ]
   },
   {
@@ -46,9 +85,9 @@
     "published": "2025-09-04T19:13:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackipatriots907-68b9e19c29afe-768x432.jpg",
     "bullets": [
-      "Jeremy Swayman enters the 2025-26 season without contract issues, signing an eight-year, $66 million deal last October.",
-      "Swayman's 2024-25 season saw struggles with the Bruins after missing training camp, leading to a career-low .892 save percentage.",
-      "Swayman aims to bounce back, utilizing a summer focused on training and improved performance, including a strong showing at the IIHF Worlds."
+      "Jeremy Swayman enters the 2025-26 NHL season with a cleared contract situation after last year's contentious negotiations.",
+      "Swayman struggled last season post-contract dispute, posting a career-low .892 save percentage with the Bruins.",
+      "A strong World Championship performance and full participation in training camp have rejuvenated Swayman for the upcoming season."
     ]
   },
   {
@@ -59,9 +98,9 @@
     "published": "2025-09-04T18:36:45.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/ZJFOQYAUYIZ5H2TWNSJQU53XUA-68b9d011baf98-768x432.jpg",
     "bullets": [
-      "Josh McDaniels will face his former team, the Raiders, as Patriots offensive coordinator in Sunday's home opener.",
-      "McDaniels reflects on his 9-16 record with the Raiders and plans to learn from past experiences in Las Vegas.",
-      "The Patriots' opener will feature new players like Drake Maye and Stefon Diggs at Gillette Stadium on Sunday."
+      "Josh McDaniels, Patriots' offensive coordinator, will face his former team, the Raiders, in Sunday's home opener.",
+      "McDaniels, previously head coach for the Raiders with a 9-16 record, expresses no ill will towards them.",
+      "New Patriots players Drake Maye and Stefon Diggs will be key in McDaniels' offensive strategy against the Raiders."
     ]
   },
   {
@@ -72,9 +111,9 @@
     "published": "2025-09-04T18:03:29.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/08/2571e74e-35bb-11f0-9283-3fe9419a953a-68af4dd92bdff-768x432.jpg",
     "bullets": [
-      "Elizabeth Banks will star and executive produce a limited series on Karen Read's case for Prime Video.",
-      "Banks' casting received mixed reactions; 48% of 250 readers agreed she's the right choice for the role.",
-      "The series explores true crime and conspiracy themes; based on the podcast 'Karen,' but Read opposes it."
+      "Elizabeth Banks will star and executive produce a Prime Video series about Karen Read's murder case.",
+      "The series, developed by Warner Bros Television, explores true crime obsession and institutional trust issues.",
+      "A Boston.com poll showed 48% support Banks' casting, with readers suggesting other actresses like Anne Hathaway."
     ]
   },
   {
@@ -85,48 +124,9 @@
     "published": "2025-09-04T17:39:51.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2014/06/22e56f14ba4a4148a479e426d215bf58-22e56f14ba4a4148a479e426d215bf58-0-13395-scaled-768x432.jpg",
     "bullets": [
-      "Mohegan Sun in Uncasville, Conn., ranked No. 2 in USA Today's list of top non-Vegas casinos.",
-      "Foxwoods Resort Casino in Mashantucket, Conn., ranked No. 3 in the same USA Today list.",
-      "USA Today's list highlights casinos with expansive gaming options and exceptional guest experiences."
-    ]
-  },
-  {
-    "title": "What to know about Seisiún, the two-day Irish music festival coming to Boston",
-    "url": "https://www.boston.com/culture/music/2025/09/04/seisiun-boston-music-festival/",
-    "author": "Kevin Slane",
-    "section": "Culture",
-    "published": "2025-09-04T17:38:45.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/Seisiun-music-festival-boston-68b9c16ab4d82-768x432.jpg",
-    "bullets": [
-      "Seisiún, a two-day Irish music festival, will be held at Suffolk Downs in Boston, featuring Dropkick Murphys and The Pogues.",
-      "The Pogues, appearing in the U.S. for the first time in over 20 years, will headline the festival's second day.",
-      "Single-day and two-day tickets for Seisiún are available through AXS, with prices ranging from $75 to $403."
-    ]
-  },
-  {
-    "title": "CommonWealth Kitchen staff, members speak out over toxic nonprofit: Globe report",
-    "url": "https://www.boston.com/food/food-news/2025/09/04/commonwealth-kitchen-internal-strife-globe/",
-    "author": "Katelyn Umholtz",
-    "section": "Food",
-    "published": "2025-09-04T17:34:58.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs__CFood__2-68b9a8d728c8d-768x432.jpg",
-    "bullets": [
-      "CommonWealth Kitchen staff and members accuse leadership of creating a toxic workplace and failing to provide promised support.",
-      "Gourmet Kreyol owner claimed CWK overcharged for services, used her story for fundraising, and attempted to poach an employee.",
-      "Executive Director Jen Faigel acknowledged challenges post-pandemic; CWK held town halls and reformed its board amid high staff turnover."
-    ]
-  },
-  {
-    "title": "44 proposed Mass. ballot questions, including rent control, move to next step — and 3 don&#8217;t make the cut",
-    "url": "https://www.boston.com/news/politics/2025/09/04/44-proposed-mass-ballot-questions-including-rent-control-move-to-next-step-and-3-dont-make-the-cut/",
-    "author": "Madison Lucchesi",
-    "section": "News",
-    "published": "2025-09-04T17:26:45.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2019_11_05_BostonGlobe.com_Metro_Images_RinaldiNewtonVotes04-68b9b1b5ab01a-768x432.jpg",
-    "bullets": [
-      "44 Massachusetts proposed ballot questions, including rent control, advance to the next step; three proposals were rejected.",
-      "By Dec. 3, teams must collect 74,574 registered voter signatures to potentially reach ballots; Legislature reviews until May.",
-      "For constitutional amendments, 25% of two joint legislative sessions needed for November 2028 ballot approval."
+      "Mohegan Sun in Uncasville, Conn., ranked No. 2 in USA Today's list of best non-Vegas casinos.",
+      "Foxwoods Resort Casino in Mashantucket, Conn., was ranked No. 3 by USA Today readers.",
+      "Mohegan Sun also ranked No. 1 for slots and No. 2 for best casino hotel nationwide."
     ]
   }
 ]
