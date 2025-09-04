@@ -1,53 +1,100 @@
+/* ===== Boston-style system palette ===== */
 :root{
-  --red:#d71920;
-  --navy:#0b2d5c;
-  --ink:#111111;
-  --gray-050:#fafafa;
-  --gray-100:#f5f5f5;
-  --gray-300:#e6e6e6;
-  --gray-600:#666;
-  --card-bg:#fff;
-  --link:#0b2d5c;
-  --maxw: 860px;
+  --red:#d71920;           /* headline/kicker accent */
+  --navy:#0b2d5c;          /* links / brand */
+  --ink:#111111;           /* body text */
+  --muted:#666;            /* meta */
+  --bg:#f6f6f7;            /* page background */
+  --border:#e3e3e3;        /* card borders */
+  --card:#ffffff;          /* card background */
+  --maxw:980px;            /* desktop readable width */
 }
+
+/* ===== Base ===== */
 *{box-sizing:border-box}
-html,body{margin:0;padding:0;background:var(--gray-050);color:var(--ink);font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans";line-height:1.35}
+html,body{
+  margin:0; padding:0; background:var(--bg); color:var(--ink);
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; line-height:1.35;
+}
+
+a{color:inherit}
+img{max-width:100%; display:block}
+
+/* ===== Header / brand ===== */
 .site-header{
-  position:sticky;top:0;z-index:50;
-  display:flex;align-items:center;justify-content:space-between;
-  padding:.75rem .9rem;background:#fff;border-bottom:1px solid var(--gray-300)
+  position:sticky; top:0; z-index:50;
+  display:flex; align-items:center; justify-content:space-between;
+  padding:.65rem .9rem; background:#fff; border-bottom:1px solid var(--border);
 }
-.brand{font-weight:900;letter-spacing:.6px;text-decoration:none;color:var(--ink);font-size:1.15rem}
-.brand span{color:var(--red)}
-.menu,.search-ghost{width:36px;text-align:center;color:var(--navy);opacity:.8;background:none;border:none;font-size:1.2rem}
+.brand{
+  font-weight:900; letter-spacing:.6px; text-decoration:none; color:var(--ink);
+  font-size:1.05rem;
+}
+.brand span{ color:var(--red) }
+.menu,.search-ghost{ width:36px; height:28px; display:grid; place-items:center; color:var(--navy); opacity:.9; background:none; border:0; font-size:1.15rem }
+
+/* ===== Section tabs (thin, newsy) ===== */
 .section-tabs{
-  display:flex;gap:.5rem;align-items:center;overflow:auto;
-  padding:.5rem .9rem;border-bottom:1px solid var(--gray-300);background:#fff
+  display:flex; align-items:center; gap:.6rem; overflow:auto;
+  padding:.5rem .9rem; background:#fff; border-bottom:1px solid var(--border);
 }
-.section-tabs .tab{font-size:.82rem;color:var(--navy);white-space:nowrap}
-.section-tabs .tab.active{font-weight:700}
-.section-tabs .dot{width:4px;height:4px;background:var(--red);border-radius:50%}
-.container{max-width:var(--maxw);margin:0 auto;padding:.75rem .9rem}
-.stories{display:grid;gap:.9rem}
-.empty{color:var(--gray-600);padding:1rem;text-align:center}
+.section-tabs .tab{
+  font-size:.8rem; color:#1b1b1b; white-space:nowrap; opacity:.85
+}
+.section-tabs .tab.active{ font-weight:800; opacity:1 }
+.section-tabs .dot{ width:3px; height:3px; background:var(--red); border-radius:50% }
+
+/* ===== Layout ===== */
+.container{ max-width:var(--maxw); margin:0 auto; padding:.9rem .9rem 2rem }
+.stories{ display:grid; gap:1rem }
+@media (min-width:760px){ .stories{ grid-template-columns:1fr 1fr } }
+@media (min-width:1100px){ .stories{ grid-template-columns:1fr 1fr 1fr } } /* 3-up on big screens */
+
+/* ===== Card ===== */
 .card{
-  background:var(--card-bg);border:1px solid var(--gray-300);
-  border-radius:12px;overflow:hidden;display:block;color:inherit;text-decoration:none;
-  transition:box-shadow .15s ease;border-top:3px solid var(--red)
+  background:var(--card); border:1px solid var(--border); border-radius:14px; overflow:hidden;
+  transition:box-shadow .15s ease, transform .06s ease;
+  box-shadow:0 1px 0 rgba(0,0,0,.02);
 }
-.card:hover{box-shadow:0 4px 18px rgba(0,0,0,.08)}
-.card-media{aspect-ratio:16/9;background:var(--gray-100);display:block;width:100%;object-fit:cover}
-.card-body{padding:.9rem}
-.kicker{color:var(--red);font-weight:800;font-size:.78rem;text-transform:uppercase;margin-bottom:.25rem}
-.title{font-size:1.05rem;font-weight:800;margin:.15rem 0 .45rem}
-.meta{font-size:.78rem;color:var(--gray-600);margin-bottom:.45rem}
-.bullets{margin:0;padding-left:1.1rem}
-.bullets li{margin:.35rem 0}
-.read-more{margin-top:.6rem;display:inline-block;font-weight:700;color:var(--link);text-decoration:none}
-.read-more::after{content:" →"}
-.site-footer{border-top:1px solid var(--gray-300);padding:1rem .9rem;text-align:center;color:var(--gray-600)}
-.site-footer a{color:var(--navy);font-weight:600}
-@media (min-width:720px){
-  .stories{grid-template-columns: 1fr 1fr}
-  .title{font-size:1.15rem}
+.card:hover{ box-shadow:0 6px 18px rgba(0,0,0,.08); transform:translateY(-1px) }
+.card::before{
+  content:""; display:block; height:3px; width:100%; background:var(--red);
 }
+
+.card-media{ aspect-ratio:16/9; background:#eee; width:100%; object-fit:cover }
+
+.card-body{ padding:.9rem .95rem 1rem }
+
+.kicker{
+  display:inline-block; font-weight:900; font-size:.72rem; letter-spacing:.3px;
+  color:var(--red); text-transform:uppercase; margin-bottom:.25rem;
+}
+
+.title{
+  font-size:1.07rem; font-weight:900; line-height:1.22; margin:.1rem 0 .35rem;
+}
+@media (min-width:760px){ .title{ font-size:1.12rem } }
+
+.meta{
+  font-size:.78rem; color:var(--muted); margin-bottom:.5rem;
+}
+
+/* Bullets: tight, readable, with bigger dots on desktop */
+.bullets{ margin:0; padding-left:1.05rem }
+.bullets li{ margin:.28rem 0; }
+@media (min-width:760px){ .bullets{ padding-left:1.15rem } .bullets li{ margin:.32rem 0 } }
+
+.read-more{
+  margin-top:.55rem; display:inline-block; font-weight:800; color:var(--navy); text-decoration:none;
+}
+.read-more::after{ content:" →" }
+
+/* ===== Footer ===== */
+.site-footer{
+  border-top:1px solid var(--border); padding:1rem .9rem; text-align:center; color:var(--muted);
+}
+.site-footer a{ color:var(--navy); font-weight:700 }
+
+/* ===== Empty state ===== */
+.empty{ color:var(--muted); padding:1rem; text-align:center }
