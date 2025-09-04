@@ -1,11 +1,10 @@
-/* ===== Boston-style palette ===== */
 :root{
-  --red:#d71920;      /* accent */
-  --navy:#0b2d5c;     /* brand/link */
-  --ink:#111;         /* text */
-  --muted:#666;       /* meta */
-  --bg:#f6f6f7;       /* page bg */
-  --border:#e5e5e5;   /* lines */
+  --red:#d71920;
+  --navy:#0b2d5c;
+  --ink:#111111;
+  --muted:#666;
+  --bg:#f6f6f7;
+  --border:#e5e5e5;
   --card:#fff;
   --maxw:980px;
 }
@@ -30,20 +29,10 @@ a{color:inherit}
 }
 .brand span{ color:var(--red) }
 
-.live-pill{
-  display:flex; align-items:center; gap:.4rem;
-  font-size:.8rem; color:var(--navy); font-weight:800;
+.update-pill{
+  display:flex; align-items:center; gap:.35rem;
+  font-size:.82rem; color:var(--navy); font-weight:800;
   padding:.28rem .6rem; background:#f0f5ff; border:1px solid #d9e6ff; border-radius:999px;
-}
-.live-pill .dot{
-  width:8px; height:8px; border-radius:999px; background:var(--red);
-  box-shadow:0 0 0 4px rgba(215,25,32,.14);
-  animation:pulse 1.8s ease-in-out infinite;
-}
-@keyframes pulse{
-  0%{ box-shadow:0 0 0 0 rgba(215,25,32,.22) }
-  70%{ box-shadow:0 0 0 10px rgba(215,25,32,0) }
-  100%{ box-shadow:0 0 0 0 rgba(215,25,32,0) }
 }
 
 /* ===== Layout ===== */
