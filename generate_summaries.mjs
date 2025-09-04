@@ -13,8 +13,8 @@ if (!OPENAI_API_KEY) { console.error("Missing OPENAI_API_KEY"); process.exit(1);
 
 const MODEL        = process.env.OPENAI_MODEL || "gpt-4o"; // set to "gpt-5" if you have access
 const RSS_URL      = process.env.RSS_URL || "https://www.boston.com/feed/bdc-msn-rss";
-const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 50); // you wanted 50
-const HISTORY_FILE = "data/summaries.json"; // used for history-aware variety
+const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 50); // your preference
+const HISTORY_FILE = "data/summaries.json";
 const UA           = "Mozilla/5.0 (compatible; BostonSpeedReadBot/1.0; +https://github.com/)";
 
 const client  = new OpenAI({ apiKey: OPENAI_API_KEY });
@@ -28,7 +28,7 @@ function clip(s, max = 7000) { return (s || "").replace(/\s+/g, " ").slice(0, ma
 function firstTwoWords(s) { return (s || "").trim().split(/\s+/).slice(0,2).join(" ").toLowerCase(); }
 
 /* =========================
-   Fetch & extract article
+   Fetch & extract
    ========================= */
 async function fetchHtml(url) {
   const r = await fetch(url, { headers: { "User-Agent": UA } });
@@ -69,7 +69,7 @@ function dedupe(items) {
 }
 
 /* =========================
-   Actor cleaning / hook extraction
+   Actor cleaning / hooks
    ========================= */
 const ACTOR_STOP = new Set([
   "Boston.com","Sports News","News","Today","Opinion","Local News","Restaurant News","Most Popular",
@@ -81,7 +81,6 @@ const QUESTIONY_OPENERS = [
   "what","which","how","why","where","who","when","does","do","can","should","will","is","are","could","would","did"
 ];
 
-// Reject dates/times/UI junk; normalize actors
 function cleanActor(raw = "") {
   let s = (raw || "").replace(/\u00A0/g," ").trim();
   if (!s) return "";
@@ -151,13 +150,17 @@ function extractHooks(text, title = ""){
 }
 
 /* =========================
-   Domain detection → template families
+   Domain detection (tight)
    ========================= */
 function detectDomain(text="", section=""){
   const s = (section||"").toLowerCase();
   const t = (text||"").toLowerCase();
+
   if (/\bsport|patriots|bruins|celtics|red sox|revs|nws l|coach|contract|game|season\b/.test(s+t)) return "sports";
-  if (/\barts|entertain|celebrity|film|series|tv|cast|director|premiere|episode\b/.test(s+t)) return "entertainment";
+
+  // Entertainment only if paired with TV/film cues (avoid generic "series")
+  if (/\b(prime video|netflix|hulu|apple tv|max|amazon studios|trailer|episode|cast|director|limited series|film|tv)\b/.test(t)) return "entertainment";
+
   if (/\bcity council|select board|board of directors|commission|hearing|vote|ordinance|zoning|mayor|governor|legislature\b/.test(t)) return "gov";
   if (/\bcourt|arraign|indicted|charges?|trial|jury|appeal|appeals\b/.test(t)) return "courts";
   if (/\breal estate|home sales|median price|zillow|bbj\b/.test(s+t)) return "realestate";
@@ -165,101 +168,59 @@ function detectDomain(text="", section=""){
 }
 
 /* =========================
-   Teaser candidates (no dates), plus variety guards
+   Teaser builder (single sentence, no dates)
    ========================= */
 const BANNED_PHRASES = /(discover|find out|learn|see how|see why|reveal|unveil|uncover)/i;
 const FIRST_WORD_CAP = 3;
 
-const ENDINGS = [
-  "Read the full context.",
-  "Full details in the story.",
-  "See the breakdown.",
-  "The rationale is explained.",
-  "Catch the specifics at the link."
-];
-
-function sentence(s){ return s.replace(/\s+/g," ").replace(/\.\.\.$/,"").replace(/\s*\.$/,"").trim() + "."; }
-
-function buildTeaserCandidates(hooks, domain, title){
-  const actor = pickBestActor(hooks, title);
-  const num   = hooks.numbers[0];
-  const hasActor = Boolean(actor);
-  const hasNum = Boolean(num);
-
-  const common = [
-    hasActor ? `Read what ${actor} said` : null,
-    hasNum ? `One figure reframes the story — ${num}` : `One figure reframes the story`,
-    `What happens next is outlined`,
-    `Here’s the key context readers are looking for`
-  ].filter(Boolean);
-
-  const sports = [
-    hasActor ? `Read what ${actor} said about the matchup` : null,
-    hasNum ? `See the number that defines the deal — ${num}` : null,
-    `How the move changes the lineup is explained`,
-  ].filter(Boolean);
-
-  const entertainment = [
-    `Production timeline and who’s attached`,
-    `Read the quote shaping reactions`,
-    `Release window and episode plan`,
-  ];
-
-  const gov = [
-    `Next step is scheduled — agenda details`,
-    `Inside: the board’s role and what happens next`,
-    `A budget line carries the weight — the amount is listed`,
-  ];
-
-  const courts = [
-    `Key filings and the next court date`,
-    `Read the line lawyers are leaning on`,
-    `What’s at stake if the motion fails`,
-  ];
-
-  const realestate = [
-    hasNum ? `See the ranking’s key number — ${num}` : `See the ranking and what moved it`,
-    `Neighborhoods driving the shift`,
-    `Price bands and who’s buying`,
-  ];
-
-  const domainMap = { sports, entertainment, gov, courts, realestate, general: common };
-  const base = domainMap[domain] || common;
-
-  // Expand with endings to avoid the same “inside” ending every card
-  const cands = [];
-  for (const lead of base) for (const end of ENDINGS) cands.push(sentence(`${lead}. ${end}`));
-  return cands;
+function oneSentence(s){
+  return s.replace(/\s+/g," ").replace(/\s*\.\s*$/,"").trim() + ".";
 }
 
-function chooseTeaser(cands, recentOpeners, openerFreq){
-  for (const c of cands) {
-    const line = c.replace(/\?+/g,"").trim();
-    if (!line) continue;
-    if (BANNED_PHRASES.test(line)) continue;
-    // no raw dates/times
-    if (/\b(January|February|March|April|May|June|July|August|September|October|November|December)\b/.test(line)) continue;
-    if (/\b\d{1,2}:\d{2}\s?(AM|PM)\b/i.test(line)) continue;
+function buildTeaser(hooks, domain, title){
+  const actor = pickBestActor(hooks, title);
+  const num   = hooks.numbers[0];
 
-    const first = line.split(/\s+/)[0].toLowerCase();
-    const open2 = firstTwoWords(line);
-    if (recentOpeners.includes(open2)) continue;
-    if ((openerFreq[first] || 0) >= FIRST_WORD_CAP) continue;
+  // Single-sentence options per domain; no dates/timestamps appended
+  const optionsByDomain = {
+    sports: [
+      actor && `Read what ${actor} said.`,
+      num   && `See the number that defines the deal — ${num}.`,
+      `How the move changes the lineup is explained.`
+    ],
+    entertainment: [
+      `Production timeline and who’s attached are inside.`,
+      `Read the quote shaping reactions.`,
+      `Release window and episode plan are in the story.`
+    ],
+    gov: [
+      `Next step is scheduled — agenda details inside.`,
+      `Inside: the board’s role — and what happens next.`,
+      `A budget line carries the weight — the amount is listed.`
+    ],
+    courts: [
+      `Key filings and the next court date are listed inside.`,
+      `Read the line lawyers are leaning on.`,
+      `What’s at stake if the motion fails is outlined.`
+    ],
+    realestate: [
+      num ? `See the ranking’s key number — ${num}.` : `See the ranking and what moved it.`,
+      `Neighborhoods driving the shift are shown on the map.`,
+      `Price bands and who’s buying are broken down.`
+    ],
+    general: [
+      actor && `Read what ${actor} said.`,
+      num ? `One figure reframes the story — ${num}.` : `One figure reframes the story.`,
+      `What happens next is laid out.`
+    ]
+  };
 
-    openerFreq[first] = (openerFreq[first] || 0) + 1;
-    recentOpeners.push(open2);
-    return line;
-  }
-  // last resort
-  const fallback = "Full details in the story.";
-  const first = fallback.split(/\s+/)[0].toLowerCase();
-  openerFreq[first] = (openerFreq[first] || 0) + 1;
-  recentOpeners.push(firstTwoWords(fallback));
-  return fallback;
+  const list = (optionsByDomain[domain] || optionsByDomain.general).filter(Boolean);
+  return list.length ? oneSentence(list[0]) : "What happens next is laid out.";
 }
 
 /* =========================
-   Summarization (model for bullets 1–2; teaser is local)
+   Summarize (model for bullets 1–2; local #3)
    ========================= */
 async function summarizeItem(item, recentOpeners, openerFreq){
   const { title, link, contentSnippet, isoDate, pubDate, categories } = item;
@@ -269,7 +230,6 @@ async function summarizeItem(item, recentOpeners, openerFreq){
   const section = (item.categories || [])[0] || "";
   const domain  = detectDomain(text, section);
 
-  // Model produces exactly TWO factual bullets (no curiosity language)
   const system = `
 You are a Boston-area news copy editor.
 Return strict JSON: {"bullets":["...", "..."]}.
@@ -305,9 +265,51 @@ ${clip(articleText)}
   }
   two = two.map(b => b.replace(/\s+/g," ").replace(/\.\.\.$/, "").trim());
 
-  // Local teaser (no dates) with variety selection
-  const candidates = buildTeaserCandidates(hooks, domain, title);
-  const teaser = chooseTeaser(candidates, recentOpeners, openerFreq);
+  // Local teaser (single sentence, no dates) with variety guards
+  let teaser = buildTeaser(hooks, domain, title);
+  teaser = teaser.replace(/\s+/g," ").trim();
+  if (BANNED_PHRASES.test(teaser)) teaser = "What happens next is laid out.";
+
+  const open2 = firstTwoWords(teaser);
+  const first = teaser.split(/\s+/)[0]?.toLowerCase() || "";
+  if (recentOpeners.includes(open2) || (openerFreq[first] || 0) >= FIRST_WORD_CAP) {
+    // rotate within domain by picking the next viable option
+    const rotated = (() => {
+      const opts = {
+        sports: [
+          hooks.numbers[1] && `See the number that defines the deal — ${hooks.numbers[1]}.`,
+          `How the move changes the lineup is explained.`
+        ],
+        entertainment: [
+          `Read the quote shaping reactions.`,
+          `Release window and episode plan are in the story.`
+        ],
+        gov: [
+          `Inside: the board’s role — and what happens next.`,
+          `A budget line carries the weight — the amount is listed.`
+        ],
+        courts: [
+          `Read the line lawyers are leaning on.`,
+          `What’s at stake if the motion fails is outlined.`
+        ],
+        realestate: [
+          `Neighborhoods driving the shift are shown on the map.`,
+          `Price bands and who’s buying are broken down.`
+        ],
+        general: [
+          (hooks.actors[1] && `Read what ${cleanActor(hooks.actors[1])} said.`),
+          `One figure reframes the story.`,
+          `What happens next is laid out.`
+        ]
+      }[domain] || [];
+      return (opts.filter(Boolean)[0] || "What happens next is laid out.");
+    })();
+
+    teaser = oneSentence(rotated);
+  }
+
+  openerFreq[first] = (openerFreq[first] || 0) + 1;
+  if (!recentOpeners.includes(open2)) recentOpeners.push(open2);
 
   const bullets = [two[0] || "", two[1] || "", teaser];
   return { bullets, image };
@@ -336,7 +338,7 @@ async function main(){
         image: s.image,
         bullets: s.bullets
       });
-      await sleep(200); // polite pacing
+      await sleep(200);
     } catch (e) {
       console.warn("Summarize fail:", item.link, e.message);
     }
