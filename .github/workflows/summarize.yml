@@ -1,0 +1,36 @@
+name: Summarize Boston.com
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      - name: Build summaries
+        run: node generate_summaries.mjs
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5
+          RSS_URL: https://www.boston.com/feed/bdc-msn-rss
+          MAX_ARTICLES: "18"
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh summaries"
+          file_pattern: data/summaries.json
