@@ -19,13 +19,13 @@ jobs:
           node-version: 20
 
       - name: Install deps
-        run: npm ci || npm i
+        run: npm install   # changed from npm ci
 
       - name: Build summaries
         run: node generate_summaries.mjs
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-5
+          OPENAI_MODEL: gpt-4o   # switched from gpt-5
           RSS_URL: https://www.boston.com/feed/bdc-msn-rss
           MAX_ARTICLES: "18"
 
