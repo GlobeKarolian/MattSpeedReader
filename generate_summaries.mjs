@@ -13,7 +13,7 @@ if (!OPENAI_API_KEY) { console.error("Missing OPENAI_API_KEY"); process.exit(1);
 
 const MODEL        = process.env.OPENAI_MODEL || "gpt-4o"; // set to "gpt-5" if you have access
 const RSS_URL      = process.env.RSS_URL || "https://www.boston.com/feed/bdc-msn-rss";
-const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 16);
+const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 50); // you wanted 50
 const HISTORY_FILE = "data/summaries.json"; // used for history-aware variety
 const UA           = "Mozilla/5.0 (compatible; BostonSpeedReadBot/1.0; +https://github.com/)";
 
@@ -22,7 +22,7 @@ const parser  = new Parser();
 const sleep   = (ms) => new Promise(r => setTimeout(r, ms));
 
 /* =========================
-   Small helpers
+   Helpers
    ========================= */
 function clip(s, max = 7000) { return (s || "").replace(/\s+/g, " ").slice(0, max); }
 function firstTwoWords(s) { return (s || "").trim().split(/\s+/).slice(0,2).join(" ").toLowerCase(); }
@@ -73,38 +73,30 @@ function dedupe(items) {
    ========================= */
 const ACTOR_STOP = new Set([
   "Boston.com","Sports News","News","Today","Opinion","Local News","Restaurant News","Most Popular",
-  "Sign Up","Read More","Newsletter","Email","Comments","Create an Account","Minutes to Read","Share","Globe","AP","Associated Press","Reuters"
+  "Sign Up","Read More","Newsletter","Email","Comments","Create an Account","Minutes to Read","Share",
+  "Globe","AP","Associated Press","Reuters"
 ]);
 
 const QUESTIONY_OPENERS = [
   "what","which","how","why","where","who","when","does","do","can","should","will","is","are","could","would","did"
 ];
 
-// Reject things that look like datestamps/times or UI junk
+// Reject dates/times/UI junk; normalize actors
 function cleanActor(raw = "") {
   let s = (raw || "").replace(/\u00A0/g," ").trim();
   if (!s) return "";
-
   if (ACTOR_STOP.has(s)) return "";
 
-  // Drop leading interrogatives from titles like "What Josh McDaniels said ..."
   const first = s.split(/\s+/)[0].toLowerCase();
   if (QUESTIONY_OPENERS.includes(first)) s = s.split(/\s+/).slice(1).join(" ").trim();
 
-  // Reject Month Day, Year or HH:MM AM/PM style strings and lone years
   if (/\b(January|February|March|April|May|June|July|August|September|October|November|December)\b/.test(s)) return "";
   if (/\b\d{1,2}:\d{2}\s?(AM|PM)\b/i.test(s)) return "";
   if (/^\d{4}$/.test(s)) return "";
-
-  // Avoid bare locations that commonly creep in as non-actors
   if (/^Las Vegas$/i.test(s)) return "";
 
-  // Remove leading articles
   s = s.replace(/^(The|A|An)\s+/i,"").trim();
-
-  // Very short single token? skip
   if (!/\s/.test(s) && s.length < 4) return "";
-
   return s;
 }
 
@@ -132,33 +124,26 @@ function extractHooks(text, title = ""){
   const hooks = { numbers: [], quotes: [], dates: [], actors: [], impacts: [], comparisons: [] };
   const t = (text || "").replace(/\s+/g, " ");
 
-  // ACTORS: prefer from TITLE, then BODY; clean each
   hooks.actors.push(...actorsFromTitle(title));
   const bodyActors = (t.match(/\b([A-Z][\p{L}’'-]+(?:\s[A-Z][\p{L}’'-]+){1,3})\b/gu) || [])
     .map(cleanActor).filter(Boolean).slice(0,6);
   hooks.actors.push(...bodyActors);
 
-  // numbers & money & percents
   (t.match(/\$[\d,.]+|\b\d{1,3}(?:,\d{3})+(?:\.\d+)?\b|\b\d+%/g) || [])
     .slice(0,4).forEach(v => hooks.numbers.push(v));
 
-  // quotes (short)
   (t.match(/“([^”]{10,140})”/g) || [])
     .slice(0,2).forEach(q => hooks.quotes.push(q.replace(/[“”]/g,"")));
 
-  // dates: Month day, (year) (optional time) — we keep for model context, but NEVER inject into teaser
   (t.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:,\s*\d{4})?(?:,\s*\d{1,2}:\d{2}\s?(?:AM|PM))?/gi) || [])
     .slice(0,2).forEach(d => hooks.dates.push(d.trim()));
 
-  // impacts
   (t.match(/\b(could|would|faces?|penalty|ban|cost|delay|risk|cut|tax|fee|fine|closure|layoffs?|suspend|probation)\b[^.]{0,60}/gi) || [])
     .slice(0,2).forEach(s => hooks.impacts.push(s.replace(/\s+/g," ").trim()));
 
-  // comparisons
   (t.match(/\b(vs\.|compared with|more than|less than|tops|lags|ranks?)\b[^.]{0,60}/gi) || [])
     .slice(0,1).forEach(s => hooks.comparisons.push(s.replace(/\s+/g," ").trim()));
 
-  // unique & trim
   hooks.actors = [...new Set(hooks.actors)].filter(Boolean).slice(0,4);
   hooks.numbers = [...new Set(hooks.numbers)];
   hooks.dates = [...new Set(hooks.dates)];
@@ -166,27 +151,7 @@ function extractHooks(text, title = ""){
 }
 
 /* =========================
-   History / repetition guard
-   ========================= */
-async function loadRecentOpeners(limit = 200) {
-  try {
-    const raw = await fs.readFile(path.resolve(HISTORY_FILE), "utf-8");
-    const arr = JSON.parse(raw);
-    const out = [];
-    for (const it of arr.slice(0, limit)) {
-      const b3 = it?.bullets?.[2] || "";
-      const open2 = firstTwoWords(b3);
-      if (open2) out.push(open2);
-    }
-    return out;
-  } catch { return []; }
-}
-
-const FIRST_WORD_CAP = 3; // don't start teaser with same word >3 times per run
-const BANNED_PHRASES = /(discover|find out|learn|see how|see why|reveal|unveil|uncover)/i;
-
-/* =========================
-   Domain detection → teaser templates
+   Domain detection → template families
    ========================= */
 function detectDomain(text="", section=""){
   const s = (section||"").toLowerCase();
@@ -200,57 +165,101 @@ function detectDomain(text="", section=""){
 }
 
 /* =========================
-   Teaser builder (bullet #3) — deterministic, no dates
+   Teaser candidates (no dates), plus variety guards
    ========================= */
-function buildTeaser(hooks, domain, title){
+const BANNED_PHRASES = /(discover|find out|learn|see how|see why|reveal|unveil|uncover)/i;
+const FIRST_WORD_CAP = 3;
+
+const ENDINGS = [
+  "Read the full context.",
+  "Full details in the story.",
+  "See the breakdown.",
+  "The rationale is explained.",
+  "Catch the specifics at the link."
+];
+
+function sentence(s){ return s.replace(/\s+/g," ").replace(/\.\.\.$/,"").replace(/\s*\.$/,"").trim() + "."; }
+
+function buildTeaserCandidates(hooks, domain, title){
   const actor = pickBestActor(hooks, title);
   const num   = hooks.numbers[0];
+  const hasActor = Boolean(actor);
+  const hasNum = Boolean(num);
 
-  // Declarative/imperative only; NEVER include raw dates/timestamps
-  const T = {
-    sports: [
-      actor ? `Read what ${actor} said.` : null,
-      num ? `See the number that defines the deal (${num}).` : null,
-      `How the move changes the lineup is broken down inside.`
-    ],
-    entertainment: [
-      `Production timeline and who’s attached are inside.`,
-      `Read the quote shaping reactions.`,
-      `Release window and episode plan are in the story.`
-    ],
-    gov: [
-      `Next step is scheduled—agenda details inside.`,
-      `Inside: the board’s role—and what happens next.`,
-      `A budget line carries the weight—the amount is listed.`
-    ],
-    courts: [
-      `Key filings and the next court date are listed inside.`,
-      `Read the line lawyers are leaning on.`,
-      `What’s at stake if the motion fails is outlined.`
-    ],
-    realestate: [
-      num ? `See the ranking’s key number (${num}).` : `See the ranking and what moved it.`,
-      `Neighborhoods driving the shift are shown on the map.`,
-      `Price bands and who’s buying are broken down.`
-    ],
-    general: [
-      actor ? `Read what ${actor} said.` : null,
-      num ? `One figure reframes the story—see the number (${num}).` : `One figure reframes the story—see the number.`,
-      `What happens next is laid out inside.`
-    ]
-  };
+  const common = [
+    hasActor ? `Read what ${actor} said` : null,
+    hasNum ? `One figure reframes the story — ${num}` : `One figure reframes the story`,
+    `What happens next is outlined`,
+    `Here’s the key context readers are looking for`
+  ].filter(Boolean);
 
-  const list = T[domain] || T.general;
-  let line = list.find(Boolean) || `What happens next is laid out inside.`;
+  const sports = [
+    hasActor ? `Read what ${actor} said about the matchup` : null,
+    hasNum ? `See the number that defines the deal — ${num}` : null,
+    `How the move changes the lineup is explained`,
+  ].filter(Boolean);
 
-  // Guardrails: no banned words, no ellipses, trim
-  line = line.replace(/\.\.\.$/,"").trim();
-  if (BANNED_PHRASES.test(line)) line = `What happens next is laid out inside.`;
-  return line;
+  const entertainment = [
+    `Production timeline and who’s attached`,
+    `Read the quote shaping reactions`,
+    `Release window and episode plan`,
+  ];
+
+  const gov = [
+    `Next step is scheduled — agenda details`,
+    `Inside: the board’s role and what happens next`,
+    `A budget line carries the weight — the amount is listed`,
+  ];
+
+  const courts = [
+    `Key filings and the next court date`,
+    `Read the line lawyers are leaning on`,
+    `What’s at stake if the motion fails`,
+  ];
+
+  const realestate = [
+    hasNum ? `See the ranking’s key number — ${num}` : `See the ranking and what moved it`,
+    `Neighborhoods driving the shift`,
+    `Price bands and who’s buying`,
+  ];
+
+  const domainMap = { sports, entertainment, gov, courts, realestate, general: common };
+  const base = domainMap[domain] || common;
+
+  // Expand with endings to avoid the same “inside” ending every card
+  const cands = [];
+  for (const lead of base) for (const end of ENDINGS) cands.push(sentence(`${lead}. ${end}`));
+  return cands;
+}
+
+function chooseTeaser(cands, recentOpeners, openerFreq){
+  for (const c of cands) {
+    const line = c.replace(/\?+/g,"").trim();
+    if (!line) continue;
+    if (BANNED_PHRASES.test(line)) continue;
+    // no raw dates/times
+    if (/\b(January|February|March|April|May|June|July|August|September|October|November|December)\b/.test(line)) continue;
+    if (/\b\d{1,2}:\d{2}\s?(AM|PM)\b/i.test(line)) continue;
+
+    const first = line.split(/\s+/)[0].toLowerCase();
+    const open2 = firstTwoWords(line);
+    if (recentOpeners.includes(open2)) continue;
+    if ((openerFreq[first] || 0) >= FIRST_WORD_CAP) continue;
+
+    openerFreq[first] = (openerFreq[first] || 0) + 1;
+    recentOpeners.push(open2);
+    return line;
+  }
+  // last resort
+  const fallback = "Full details in the story.";
+  const first = fallback.split(/\s+/)[0].toLowerCase();
+  openerFreq[first] = (openerFreq[first] || 0) + 1;
+  recentOpeners.push(firstTwoWords(fallback));
+  return fallback;
 }
 
 /* =========================
-   Summarization (model for bullets 1–2 only, teaser local)
+   Summarization (model for bullets 1–2; teaser is local)
    ========================= */
 async function summarizeItem(item, recentOpeners, openerFreq){
   const { title, link, contentSnippet, isoDate, pubDate, categories } = item;
@@ -294,23 +303,11 @@ ${clip(articleText)}
     console.warn("Model 2-bullet summarize fail:", link, e.message);
     two = (articleText.match(/[^.!?]+[.!?]/g) || []).slice(0,2).map(s => s.trim());
   }
-
   two = two.map(b => b.replace(/\s+/g," ").replace(/\.\.\.$/, "").trim());
 
-  // Local teaser (#3) — no dates
-  let teaser = buildTeaser(hooks, domain, title);
-
-  // Variety across page & runs
-  const opener = firstTwoWords(teaser);
-  const firstWord = teaser.split(/\s+/)[0].toLowerCase();
-  if (recentOpeners.includes(opener) || (openerFreq[firstWord] || 0) >= FIRST_WORD_CAP) {
-    // Try alternate actor/number; otherwise neutral
-    const altHooks = { ...hooks, actors: hooks.actors.slice(1), numbers: hooks.numbers.slice(1) };
-    const alt = buildTeaser(altHooks, domain, title);
-    teaser = (alt && firstTwoWords(alt) !== opener) ? alt : "What happens next is laid out inside.";
-  }
-  openerFreq[firstWord] = (openerFreq[firstWord] || 0) + 1;
-  if (!recentOpeners.includes(opener)) recentOpeners.push(opener);
+  // Local teaser (no dates) with variety selection
+  const candidates = buildTeaserCandidates(hooks, domain, title);
+  const teaser = chooseTeaser(candidates, recentOpeners, openerFreq);
 
   const bullets = [two[0] || "", two[1] || "", teaser];
   return { bullets, image };
@@ -339,7 +336,7 @@ async function main(){
         image: s.image,
         bullets: s.bullets
       });
-      await sleep(250); // polite pacing
+      await sleep(200); // polite pacing
     } catch (e) {
       console.warn("Summarize fail:", item.link, e.message);
     }
@@ -348,6 +345,23 @@ async function main(){
   await fs.mkdir("data", { recursive: true });
   await fs.writeFile(HISTORY_FILE, JSON.stringify(results, null, 2));
   console.log(`Wrote ${HISTORY_FILE} (${results.length} stories)`);
+}
+
+/* =========================
+   History loader
+   ========================= */
+async function loadRecentOpeners(limit = 200) {
+  try {
+    const raw = await fs.readFile(path.resolve(HISTORY_FILE), "utf-8");
+    const arr = JSON.parse(raw);
+    const out = [];
+    for (const it of arr.slice(0, limit)) {
+      const b3 = it?.bullets?.[2] || "";
+      const open2 = firstTwoWords(b3);
+      if (open2) out.push(open2);
+    }
+    return out;
+  } catch { return []; }
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
