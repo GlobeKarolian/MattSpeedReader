@@ -22,6 +22,12 @@ const parser  = new Parser();
 const sleep   = (ms) => new Promise(r => setTimeout(r, ms));
 
 /* =========================
+   Small helpers
+   ========================= */
+function clip(s, max = 7000) { return (s || "").replace(/\s+/g, " ").slice(0, max); }
+function firstTwoWords(s) { return (s || "").trim().split(/\s+/).slice(0,2).join(" ").toLowerCase(); }
+
+/* =========================
    Fetch & extract article
    ========================= */
 async function fetchHtml(url) {
@@ -54,7 +60,6 @@ async function extractArticle(url) {
   }
 }
 
-function clip(s, max = 7000) { return (s || "").replace(/\s+/g, " ").slice(0, max); }
 function dedupe(items) {
   const seen = new Set();
   return items.filter(it => {
@@ -75,7 +80,6 @@ function cleanActor(s=""){
   const t = s.replace(/\u00A0/g," ").trim();
   if (!t) return "";
   if (ACTOR_STOP.has(t)) return "";
-  // drop things that look like UI/useless
   if (/^\d{1,2}:\d{2}\s?(AM|PM)$/i.test(t)) return "";
   if (/^Read|Sign|Most|Sports$/i.test(t)) return "";
   return t;
@@ -143,10 +147,8 @@ function detectDomain(text="", section=""){
 }
 
 /* =========================
-   Repetition guard / history
+   History / repetition guard
    ========================= */
-function firstTwoWords(s) { return (s || "").trim().split(/\s+/).slice(0,2).join(" ").toLowerCase(); }
-
 async function loadRecentOpeners(limit = 200) {
   try {
     const raw = await fs.readFile(path.resolve(HISTORY_FILE), "utf-8");
@@ -331,7 +333,6 @@ Constraints for bullet 3:
   // Cap first-word repetition & record opener
   const first = (bullets[2] || "").split(/\s+/)[0].toLowerCase();
   if ((firstWordFreq[first] || 0) >= FIRST_WORD_CAP) {
-    // if over cap, switch to a neutral generic line
     bullets[2] = "What happens next is laid out inside.";
   }
   bullets[2] = applyCapsAndRecord(bullets[2], recentOpeners, usedOpeners, firstWordFreq);
@@ -341,11 +342,6 @@ Constraints for bullet 3:
 
   return { bullets, image };
 }
-
-/* =========================
-   History
-   ========================= */
-function firstTwoWords(s) { return (s || "").trim().split(/\s+/).slice(0,2).join(" ").toLowerCase(); }
 
 /* =========================
    Main
