@@ -1,5 +1,57 @@
 [
   {
+    "title": "A family-friendly guide to apple picking in New England",
+    "url": "https://www.boston.com/travel/travel/2025/09/12/a-family-friendly-guide-to-apple-picking-in-new-england/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2025-09-12T17:57:11.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/09/hpho1-66e47e71d65a3-768x432.jpg",
+    "bullets": [
+      "Honey Pot Hill Orchards in Stow, MA, offers apple picking, mazes, and a petting zoo, praised for its cider doughnuts.",
+      "Cider Hill Farm in Amesbury, MA, features over 60 apple varieties, family activities, and a hard cider bar for adults.",
+      "Applecrest Farm Orchards in Hampton Falls, NH, has live music, petting zoo, hayrides, and themed events during fall festivals."
+    ]
+  },
+  {
+    "title": "Judge tosses ordinance limiting tear gas, rubber bullet use by Boston police",
+    "url": "https://www.boston.com/news/local-news/2025/09/12/judge-tosses-ordinance-limiting-tear-gas-rubber-bullet-use-boston-police/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2025-09-12T17:28:18.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/12/MRUPU6WH3N32DSOI4TYI2V4BFU-676050d893196-768x432.jpg",
+    "bullets": [
+      "Judge Jackie Cowin ruled Boston City Council exceeded its authority with a 2021 ordinance limiting police weapon use.",
+      "The invalidated ordinance required stringent conditions before using tear gas and rubber bullets in crowd control situations.",
+      "Boston police unions challenged the ordinance; Cowin determined it conflicted with powers granted to the Police Commissioner."
+    ]
+  },
+  {
+    "title": "Did a Brooklyn couple kill a neighbor’s trees for a better view in Maine?",
+    "url": "https://www.boston.com/news/local-news/2025/09/12/did-a-brooklyn-couple-kill-a-neighbors-trees-for-a-better-view-in-maine/",
+    "author": "New York Times Service",
+    "section": "News",
+    "published": "2025-09-12T17:14:33.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___nytapi.wieck_.com_feed-photos_6mT6A07m-68c45114896fe-768x432.jpg",
+    "bullets": [
+      "Stephen Antonson and Kathleen Hackett are accused of poisoning a neighbor's trees in Rockport, Maine, for a harbor view.",
+      "The couple denies involvement, though tests found herbicidal poison in trees directly aligned with their property.",
+      "Ruth Graham, the 95-year-old neighbor, previously declined the couple's request to clear the land for better views."
+    ]
+  },
+  {
+    "title": "Pharma giant with large Mass. footprint to slash 9,000 jobs globally",
+    "url": "https://www.boston.com/news/business/2025/09/12/pharma-giant-with-large-mass-footprint-to-slash-9000-jobs-globally/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2025-09-12T17:12:46.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___news-service.s3.amazonaws.com_novo-bg-L6PHAEZU2ZGDBAVRRQYPBUCCPA-68c44e63339b5-768x432.jpg",
+    "bullets": [
+      "Novo Nordisk announced it will cut 9,000 global jobs by the end of 2026, citing organizational complexity.",
+      "Boston operations remain uncertain, but Novo Nordisk's Massachusetts sites, with 450 employees, could be affected differently.",
+      "The company aims for annual savings of $1.25 billion, focusing on diabetes and obesity market growth opportunities."
+    ]
+  },
+  {
     "title": "Police officer, suspect shot in Roxbury during chase",
     "url": "https://www.boston.com/news/crime/2025/09/12/police-officer-suspect-shot-in-roxbury-during-chase/",
     "author": "Abby Patkin",
@@ -7,9 +59,9 @@
     "published": "2025-09-12T16:41:29.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2024/09/Police_Staffing_Shortages_64169-66e3a9b64a9f4.jpg",
     "bullets": [
-      "A Boston police officer and suspect were shot during a foot chase in Roxbury early Friday morning.",
-      "The officer was shot in the arm, while the suspect was hit multiple times in the legs; both are hospitalized.",
-      "A high-capacity firearm was recovered; Mayor Wu expressed gratitude for responders and concerns over gun violence."
+      "A Boston police officer and a suspect were shot in Roxbury during a foot chase early Friday morning.",
+      "The suspect allegedly fired at officers, injuring one, before police returned fire, striking the suspect multiple times.",
+      "Both the officer and suspect were hospitalized with non-life-threatening injuries, and a high-capacity firearm was recovered."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2025-09-12T16:27:48.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/APTOPIX_Charlie_Kirk_Shot_56517-68c2be20b3151-768x432.jpg",
     "bullets": [
-      "Charlie Kirk was assassinated during a rally at Utah Valley University on September 10, 2025.",
-      "Hunter Kozak, a liberal TikToker, was the last to speak with Kirk, questioning him on mass shootings.",
-      "The gunman is still at large, prompting Kozak to worry about his and his family's safety post-event."
+      "Charlie Kirk was assassinated at a rally in Utah; the last to question him was TikToker Hunter Kozak.",
+      "Hunter Kozak, a liberal TikToker, discussed free speech and mass shootings with Kirk before the shooting occurred.",
+      "Kozak expresses concerns for his safety as conspiracies emerge online after the deadly incident at Utah Valley University."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2025-09-12T15:48:16.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/NIU67MEQK6ZWMG4TB54N4JL4NY-68c43c4671a6a-768x432.jpg",
     "bullets": [
-      "North Andover Officer Kelsey Fitzsimmons was ordered back to jail after failing to comply with alcohol testing conditions.",
-      "Fitzsimmons was shot by a colleague during an incident involving a restraining order filed by her fiancé.",
-      "Judge ruled her non-compliance with alcohol testing conditions posed a public safety risk, prompting return to jail."
+      "North Andover officer Kelsey Fitzsimmons was ordered back to jail, held without bail, for non-compliance with court conditions.",
+      "The judge revoked Fitzsimmons's release due to her inability to complete required alcohol testing after sustaining serious injuries.",
+      "Fitzsimmons, facing assault charges, and her lawyers suggest using alternative testing methods like urine samples instead."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2025-09-12T15:41:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_07_11_BostonGlobe.com_Lifestyle_Images_ryan_dino1_met-68c07feaca532-768x432.jpg",
     "bullets": [
-      "TB Holdings LLC is suing Saugus, alleging town officials delayed their Essex Landing development and pressured for a $200,000 payment.",
-      "The lawsuit claims Town Manager Scott Crabtree demanded a $200,000 'grant' to Saugus parks to advance the project approval.",
-      "Despite ongoing litigation, TB Holdings plans to proceed with the Essex Landing development, including condos and an assisted living facility."
+      "TB Holdings LLC is suing Saugus, claiming Town Manager Scott Crabtree pressured them to pay a $200,000 donation.",
+      "The lawsuit alleges Crabtree demanded the donation to advance Essex Landing development, claiming arbitrary and discriminatory treatment.",
+      "TB Holdings seeks damages, citing $18 million invested and ongoing project delays despite paying the donation."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2025-09-12T15:12:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/ZIDNMOVWSVA4BIO7YAATZ3HFKQ-68c40e2793200-768x432.jpg",
     "bullets": [
-      "Heidi Watney returns to Fenway Park with Apple TV+ for Yankees-Red Sox game coverage.",
-      "Watney was part of NESN's Red Sox coverage from 2008-2011 before joining MLB Network.",
-      "She values the balance between career and family, enjoying Apple TV+ role with her sons."
+      "Heidi Watney returns to Fenway Park with Apple TV+ for Red Sox-Yankees series, calling it a homecoming.",
+      "Watney, a former NESN Red Sox reporter, worked with MLB Network for nine years before joining Apple TV+.",
+      "She left NESN in 2011 to be closer to family, now balancing career and family life with Apple TV+."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2025-09-12T14:58:32.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/11/FZYRMNEV354L43OKK2BZHK7MWM-672d02e0081ee-768x432.jpg",
     "bullets": [
-      "Brian Walshe was stabbed at Norfolk County Correctional Center while awaiting trial for allegedly murdering his wife Ana in 2023.",
-      "The assault occurred Thursday night; Walshe was treated at Beth Israel Deaconess Medical Center and returned to jail.",
-      "The Norfolk County Sheriff's Office confirmed a makeshift weapon was used and an investigation into the incident is ongoing."
-    ]
-  },
-  {
-    "title": "Former Patriots players share drastic measures Bill Belichick would take for team&#8217;s trips to Miami",
-    "url": "https://www.boston.com/sports/morning-sports-update/2025/09/12/patriots-dolphins-miami-bill-belichick/",
-    "author": "Conor Roche",
-    "section": "Sports",
-    "published": "2025-09-12T14:48:24.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/IFRJWZK66KAPKGLNXCDU7MUFZM-68c42e15e3e66-768x432.jpg",
-    "bullets": [
-      "Patriots have struggled against Dolphins in Miami, losing last five games, including under Bill Belichick.",
-      "Belichick employed varied travel strategies, like arriving five days early and staying at different hotels, to improve Miami performance.",
-      "Former players Hoyer and Andrews couldn't pinpoint a reason for losses, noting challenges of Miami's environment."
-    ]
-  },
-  {
-    "title": "Amid former Celtic Terry Rozier&#8217;s gambling investigation, Hornets cancel &#8216;Sports Betting&#8217; theme night",
-    "url": "https://www.boston.com/sports/nba/2025/09/12/former-celtic-roziers-betting-scandal-hornets-cancel-sports-betting-night/",
-    "author": "Aidan Buchanan",
-    "section": "Sports",
-    "published": "2025-09-12T14:43:05.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/01/Heat_Nets_Basketball_99397-679d222d7a012-768x432.jpg",
-    "bullets": [
-      "Terry Rozier, Miami Heat guard, is under investigation for irregular betting patterns during his time with the Hornets.",
-      "The Charlotte Hornets canceled 'Sports Betting Night' against the Heat, following Rozier's ongoing gambling investigation.",
-      "Rozier played only 10 minutes in a 2023 game where suspicious bets totaling $14,000 were placed on his performance."
-    ]
-  },
-  {
-    "title": "Former Boston Children’s Hospital doctor pleads guilty to child porn charges",
-    "url": "https://www.boston.com/news/crime/2025/09/12/former-boston-childrens-hospital-doctor-pleads-guilty-to-child-porn-charges/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2025-09-12T14:26:40.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/WHSEY3PTLJD3FLSYJI52QXIRRQ-686e7f2b44e54-768x432.jpg",
-    "bullets": [
-      "Christopher Sheerer, 37, a former Boston Children's Hospital fellow, pleaded guilty to federal child pornography charges.",
-      "Sheerer was charged with distribution, possession, and sexual exploitation of children; sentencing is scheduled for December 18.",
-      "Authorities found abusive images and chats on Sheerer's devices during a search at his Boston residence in July 2024."
-    ]
-  },
-  {
-    "title": "Wu responds to Kraft&#8217;s decision to drop out of mayoral race",
-    "url": "https://www.boston.com/news/local-news/2025/09/12/wu-responds-to-krafts-decision-to-drop-out-of-mayoral-race/",
-    "author": "Ross Cristantiello",
-    "section": "News",
-    "published": "2025-09-12T13:52:04.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/JZQEP5ET4B3V5SSMBSPTJFYGSY-68c41fe4b5e70-768x432.jpg",
-    "bullets": [
-      "Mayor Michelle Wu thanked Josh Kraft after he dropped out of the Boston mayoral race.",
-      "Kraft decided to donate $3 million to local charities instead of continuing his campaign.",
-      "Kraft's withdrawal may allow the next-highest vote-getter, Domingos DaRosa, onto the ballot."
+      "Brian Walshe was stabbed in Norfolk County Jail while awaiting trial for allegedly murdering his wife in 2023.",
+      "The incident occurred Thursday night; Walshe was treated for non-life-threatening injuries and returned to jail.",
+      "The Norfolk County Sheriff's Office is investigating; a makeshift weapon was recovered and another inmate subdued."
     ]
   }
 ]
