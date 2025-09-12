@@ -1,5 +1,31 @@
 [
   {
+    "title": "Police officer, suspect shot in Roxbury during chase",
+    "url": "https://www.boston.com/news/crime/2025/09/12/police-officer-suspect-shot-in-roxbury-during-chase/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2025-09-12T16:41:29.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2024/09/Police_Staffing_Shortages_64169-66e3a9b64a9f4.jpg",
+    "bullets": [
+      "A Boston police officer and suspect were shot during a foot chase in Roxbury early Friday morning.",
+      "The officer was shot in the arm, while the suspect was hit multiple times in the legs; both are hospitalized.",
+      "A high-capacity firearm was recovered; Mayor Wu expressed gratitude for responders and concerns over gun violence."
+    ]
+  },
+  {
+    "title": "The last person to question Charlie Kirk",
+    "url": "https://www.boston.com/news/national-news/2025/09/12/the-last-person-to-question-charlie-kirk/",
+    "author": "Jack Healy and Reid J. Epstein, The New York Times",
+    "section": "News",
+    "published": "2025-09-12T16:27:48.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/APTOPIX_Charlie_Kirk_Shot_56517-68c2be20b3151-768x432.jpg",
+    "bullets": [
+      "Charlie Kirk was assassinated during a rally at Utah Valley University on September 10, 2025.",
+      "Hunter Kozak, a liberal TikToker, was the last to speak with Kirk, questioning him on mass shootings.",
+      "The gunman is still at large, prompting Kozak to worry about his and his family's safety post-event."
+    ]
+  },
+  {
     "title": "North Andover officer shot by colleague back in jail just days after release",
     "url": "https://www.boston.com/news/local-news/2025/09/12/north-andover-officer-shot-by-colleague-back-in-jail-just-days-after-release/",
     "author": "Ross Cristantiello",
@@ -7,9 +33,9 @@
     "published": "2025-09-12T15:48:16.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/NIU67MEQK6ZWMG4TB54N4JL4NY-68c43c4671a6a-768x432.jpg",
     "bullets": [
-      "Kelsey Fitzsimmons, a North Andover police officer, was ordered back to jail for failing to comply with alcohol testing.",
-      "Fitzsimmons, shot by a fellow officer, was unable to use a breathalyzer due to severe injuries from the incident.",
-      "Her attorneys suggest alternative urine testing, citing her health and safety concerns in Correctional Center as reasons for release."
+      "North Andover Officer Kelsey Fitzsimmons was ordered back to jail after failing to comply with alcohol testing conditions.",
+      "Fitzsimmons was shot by a colleague during an incident involving a restraining order filed by her fiancé.",
+      "Judge ruled her non-compliance with alcohol testing conditions posed a public safety risk, prompting return to jail."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2025-09-12T15:41:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_07_11_BostonGlobe.com_Lifestyle_Images_ryan_dino1_met-68c07feaca532-768x432.jpg",
     "bullets": [
-      "TB Holdings LLC is suing Saugus in federal court over alleged project delays and a $200,000 payment demand.",
-      "Developers allege Town Manager Scott Crabtree demanded payment to the parks department to progress Essex Landing developments.",
-      "TB Holdings seeks damages and claims constitutional violations due to slowed development and unresponsive public records requests."
+      "TB Holdings LLC is suing Saugus, alleging town officials delayed their Essex Landing development and pressured for a $200,000 payment.",
+      "The lawsuit claims Town Manager Scott Crabtree demanded a $200,000 'grant' to Saugus parks to advance the project approval.",
+      "Despite ongoing litigation, TB Holdings plans to proceed with the Essex Landing development, including condos and an assisted living facility."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2025-09-12T15:12:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/ZIDNMOVWSVA4BIO7YAATZ3HFKQ-68c40e2793200-768x432.jpg",
     "bullets": [
-      "Heidi Watney returns to Fenway Park with Apple TV+ for the Red Sox vs. Yankees series.",
-      "Watney was a NESN Red Sox reporter from 2008 to 2011, now with Apple TV+'s Friday Night Baseball.",
-      "She values her Boston roots, recalling fond memories with Don Orsillo and Jerry Remy at NESN."
+      "Heidi Watney returns to Fenway Park with Apple TV+ for Yankees-Red Sox game coverage.",
+      "Watney was part of NESN's Red Sox coverage from 2008-2011 before joining MLB Network.",
+      "She values the balance between career and family, enjoying Apple TV+ role with her sons."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2025-09-12T14:58:32.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/11/FZYRMNEV354L43OKK2BZHK7MWM-672d02e0081ee-768x432.jpg",
     "bullets": [
-      "Brian Walshe was stabbed at Norfolk County Jail while awaiting trial for allegedly murdering his wife in 2023.",
-      "He was treated for non-life-threatening injuries at Beth Israel Deaconess Medical Center and returned to the jail.",
-      "The incident, involving a makeshift weapon, is under investigation; Walshe's trial is scheduled for next month."
+      "Brian Walshe was stabbed at Norfolk County Correctional Center while awaiting trial for allegedly murdering his wife Ana in 2023.",
+      "The assault occurred Thursday night; Walshe was treated at Beth Israel Deaconess Medical Center and returned to jail.",
+      "The Norfolk County Sheriff's Office confirmed a makeshift weapon was used and an investigation into the incident is ongoing."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2025-09-12T14:48:24.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/IFRJWZK66KAPKGLNXCDU7MUFZM-68c42e15e3e66-768x432.jpg",
     "bullets": [
-      "Bill Belichick frequently changed the Patriots' travel plans to Miami, experimenting with different hotels to improve performance.",
-      "The Patriots have struggled in Miami, losing their last five games there with only rare wins in previous seasons.",
-      "Ex-players Brian Hoyer and David Andrews discussed the challenges of playing in Miami despite diverse strategies by Belichick."
+      "Patriots have struggled against Dolphins in Miami, losing last five games, including under Bill Belichick.",
+      "Belichick employed varied travel strategies, like arriving five days early and staying at different hotels, to improve Miami performance.",
+      "Former players Hoyer and Andrews couldn't pinpoint a reason for losses, noting challenges of Miami's environment."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2025-09-12T14:43:05.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/01/Heat_Nets_Basketball_99397-679d222d7a012-768x432.jpg",
     "bullets": [
-      "Miami Heat's Terry Rozier is under investigation for irregular betting patterns during his time with the Hornets.",
-      "The Charlotte Hornets canceled their 'Sports Betting Night' after announcing it would coincide with Rozier's return.",
-      "In a previous game, bets totaling nearly $14,000 were placed on Rozier, leading to a sports betting scandal probe."
+      "Terry Rozier, Miami Heat guard, is under investigation for irregular betting patterns during his time with the Hornets.",
+      "The Charlotte Hornets canceled 'Sports Betting Night' against the Heat, following Rozier's ongoing gambling investigation.",
+      "Rozier played only 10 minutes in a 2023 game where suspicious bets totaling $14,000 were placed on his performance."
     ]
   },
   {
@@ -86,8 +112,8 @@
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/WHSEY3PTLJD3FLSYJI52QXIRRQ-686e7f2b44e54-768x432.jpg",
     "bullets": [
       "Christopher Sheerer, 37, a former Boston Children's Hospital fellow, pleaded guilty to federal child pornography charges.",
-      "Sheerer admitted to distribution and possession of child pornography and sexual exploitation of children.",
-      "Authorities found multiple sexual abuse images and videos on Sheerer's devices during a search of his Boston residence."
+      "Sheerer was charged with distribution, possession, and sexual exploitation of children; sentencing is scheduled for December 18.",
+      "Authorities found abusive images and chats on Sheerer's devices during a search at his Boston residence in July 2024."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2025-09-12T13:52:04.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/JZQEP5ET4B3V5SSMBSPTJFYGSY-68c41fe4b5e70-768x432.jpg",
     "bullets": [
-      "Mayor Michelle Wu expressed gratitude for Josh Kraft's city dedication after he exited the mayoral race.",
-      "Kraft decided to donate $3 million to local charities instead of continuing his campaign against Wu.",
-      "Kraft's withdrawal leaves uncertainty about ballot changes before the November 4 general election."
-    ]
-  },
-  {
-    "title": "Travis Barker and Kourtney Kardashian toured Salem",
-    "url": "https://www.boston.com/culture/celebs/2025/09/12/travis-barker-and-kourtney-kardashian-toured-salem/",
-    "author": "Megan Johnson",
-    "section": "Culture",
-    "published": "2025-09-12T13:13:38.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/01/YO2VWREBDTJVI6UEBNK7S3ESFE-65a5df486ae39-768x432.jpg",
-    "bullets": [
-      "Travis Barker and Kourtney Kardashian visited Salem after Blink-182's concert in Gilford, NH, on Tuesday.",
-      "The couple joined a Witch City Walking Tour, exploring local sites like Old Town Hall and the Bewitched Sculpture.",
-      "They dined at Gulu-Gulu Cafe in Salem with their son, Rocky, and remained largely unnoticed by other patrons."
-    ]
-  },
-  {
-    "title": "Suspect in Charlie Kirk killing had become &#8216;more political&#8217; and likely acted alone, authorities say",
-    "url": "https://www.boston.com/news/national-news/2025/09/12/charlie-kirk-suspect-caught/",
-    "author": "The Associated Press",
-    "section": "News",
-    "published": "2025-09-12T12:24:20.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/Charlie_Kirk_Shot_07386-68c43fe7897a5-768x432.jpg",
-    "bullets": [
-      "Tyler Robinson, 22, arrested for the shooting of Charlie Kirk, signaled responsibility to a family friend, per Utah Gov. Spencer Cox.",
-      "Robinson opposed Kirk's viewpoints, acted alone, and left engravings on bullets; investigation by state and FBI continues.",
-      "Charlie Kirk was shot during an event at Utah Valley University; his death prompts bipartisan condemnation of political violence."
+      "Mayor Michelle Wu thanked Josh Kraft after he dropped out of the Boston mayoral race.",
+      "Kraft decided to donate $3 million to local charities instead of continuing his campaign.",
+      "Kraft's withdrawal may allow the next-highest vote-getter, Domingos DaRosa, onto the ballot."
     ]
   }
 ]
