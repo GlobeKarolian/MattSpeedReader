@@ -1,5 +1,57 @@
 [
   {
+    "title": "Boston ranks among best U.S. cities for Thanksgiving — and tops New England",
+    "url": "https://www.boston.com/news/local-news/2025/11/11/best-cities-thanksgiving-boston/",
+    "author": "Frances Klemm",
+    "section": "News",
+    "published": "2025-11-11T18:08:10.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/5AG7AI4KW5GXPMHUTKT6EYIY5Q-690a17d350c8e-768x432.jpg",
+    "bullets": [
+      "Boston ranked 18th in WalletHub's list of top 100 U.S. cities for Thanksgiving.",
+      "Boston's restaurant scene contributed to its lone New England city ranking in the top 20.",
+      "The city excelled in volunteerism and charity, boosting its 'Giving Thanks' score."
+    ]
+  },
+  {
+    "title": "Five years after debuting &#8216;Java with Jimmy,&#8217; host James Hills isn&#8217;t slowing down",
+    "url": "https://www.boston.com/news/local-news/2025/11/11/five-years-after-debuting-java-with-jimmy-host-james-hills-isnt-slowing-down/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2025-11-11T17:43:39.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_bostonWhileBlackElectionRETONE_abs_001-6908b1e9a66d4-768x432.jpg",
+    "bullets": [
+      "James 'Jimmy' Hills started 'Java with Jimmy' to engage with the community during the COVID-19 pandemic five years ago.",
+      "Hills interviews political figures and community leaders on his show, which now includes regular calls from Mayor Michelle Wu.",
+      "Hills expresses a long-term commitment to 'Java with Jimmy' and aspires to expand into a community-focused platform."
+    ]
+  },
+  {
+    "title": "Roman Anthony earns a third place finish for AL Rookie of the Year",
+    "url": "https://www.boston.com/sports/boston-red-sox/2025/11/11/roman-anthony-earns-a-third-place-finish-for-al-rookie-of-the-year/",
+    "author": "Aidan Buchanan",
+    "section": "Sports",
+    "published": "2025-11-11T17:40:58.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/DINBLWURTLXAZMS427GFRBPNXA-1-6913543ac5ef2-768x432.jpg",
+    "bullets": [
+      "Roman Anthony finished third in the AL Rookie of the Year voting, behind Athletics' Nick Kurtz and Jacob Wilson.",
+      "Anthony debuted on June 9, hitting .292 with eight home runs and 32 RBIs in 71 games before an oblique injury.",
+      "Despite finishing third, Anthony signed an eight-year, $130 million extension with the Red Sox in August."
+    ]
+  },
+  {
+    "title": "Federal judge orders release of Fitchburg woman detained by ICE in viral video",
+    "url": "https://www.boston.com/news/local-news/2025/11/11/federal-judge-orders-release-fitchburg-woman-detained-by-ice/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2025-11-11T17:23:39.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/PX4ZEQ5HJGEUR66SXEAGOAGEEM-6912cc499b318-768x432.jpg",
+    "bullets": [
+      "A federal judge ordered the release of Juliana Milena Ojeda Montoya, detained by ICE in Fitchburg, Massachusetts.",
+      "Ojeda Montoya's arrest video went viral, leading to her habeas corpus petition and questioning the applicability of the Laken Riley Act.",
+      "The Department of Homeland Security accused her husband of faking a medical emergency during the arrest; she faces assault charges."
+    ]
+  },
+  {
     "title": "How Mass. lawmakers are reacting to the deal that could end the government shutdown",
     "url": "https://www.boston.com/news/politics/2025/11/11/how-mass-lawmakers-are-reacting-to-the-deal-that-could-end-the-government-shutdown/",
     "author": "Ross Cristantiello",
@@ -7,9 +59,9 @@
     "published": "2025-11-11T16:16:07.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner081925METRO20wubondiresponse535-69135b1a8224c-768x432.jpg",
     "bullets": [
-      "Massachusetts lawmakers criticize Senate deal ending shutdown, faulting lack of health care subsidy provisions.",
-      "Sen. Ed Markey and Sen. Elizabeth Warren oppose deal, emphasizing risk of increased health costs.",
-      "Reps. Moulton, Pressley, and Clark plan to vote against, citing insufficient support for working families."
+      "Massachusetts lawmakers criticize the Senate's funding deal due to lack of health care subsidy extensions.",
+      "Rep. Seth Moulton calls for new Senate leadership over health care concessions in the shutdown deal.",
+      "Reps. Katherine Clark and Jim McGovern oppose the deal, citing harmful economic impacts on families."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2025-11-11T15:40:08.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2025/11/Screenshot-2025-11-11-at-10.32.42-AM-691357f001c44-scaled.png",
     "bullets": [
-      "Boston Fire Department extinguished a two-alarm fire at 25 Train St. in Dorchester by 9:30 a.m. Tuesday.",
-      "The fire displaced two residents and caused an estimated $500,000 in damages.",
-      "One firefighter was hospitalized; the fire's cause is under investigation by the Boston Fire Investigation Unit."
+      "A two-alarm fire at 25 Train St. in Dorchester displaced two residents on Tuesday morning, with no injuries reported.",
+      "The Boston Fire Department extinguished the fire by 9:30 a.m.; damages are estimated at $500,000.",
+      "One firefighter was hospitalized, and the cause of the fire is under investigation by the Boston Fire Investigation Unit."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2025-11-11T15:16:37.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2025/11/Screenshot-2025-11-11-at-8.55.35-AM-691352ca41a03.jpg",
     "bullets": [
-      "Jon Stewart criticized Senate Democrats for their handling of the government shutdown vote.",
-      "Stewart described the Democrats' decision as a 'world class collapse' in his remarks.",
-      "The Senate took initial steps to end the federal government shutdown with new legislation."
+      "Jon Stewart criticized Senate Democrats for ending the government shutdown, calling their action a 'world class collapse.'",
+      "The Senate Democrats voted to end the federal government shutdown, which drew commentary from entertainment figures like Jon Stewart.",
+      "The Senate has taken initial legislative steps to conclude the federal government shutdown, sparking reactions from public figures."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2025-11-11T14:35:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/Patrice-Bergeron-Bruins_Sturm_Hockey_09161-69134325bf6a8-768x432.jpg",
     "bullets": [
-      "Former Bruins captain Patrice Bergeron remains humble about his potential 2026 Hockey Hall of Fame induction.",
-      "Bergeron retired in 2023 after a 19-season NHL career, winning six Selke Trophies and two Olympic golds.",
-      "Bergeron supported Zdeno Chara's Hall of Fame induction, praising Chara's leadership during their time in Boston."
+      "Patrice Bergeron, former Bruins captain, may be eligible for the 2026 Hockey Hall of Fame induction.",
+      "Bergeron retired in 2023 after 19 NHL seasons, winning six Selke Trophies and a Stanley Cup with the Bruins.",
+      "Bergeron humbly supports Zdeno Chara and Joe Thornton's Hall of Fame inductions, downplaying his own candidacy."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2025-11-11T14:30:09.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/B-3-Missing-Person-Briyana-Jacques-Collage-691339989063b-768x314.webp",
     "bullets": [
-      "15-year-old Briyana Jacques was last seen in Dorchester, reportedly near Ashmont station and 1300 Blue Hill Ave on Saturday.",
-      "Briyana Jacques is 5'5\", with brown hair, blonde highlights, a nose piercing, last wearing a black jacket and grey sweatpants.",
-      "Boston police urge anyone with information on Briyana Jacques' whereabouts to call 911 or 617-343-4712."
+      "Boston police request public assistance in locating missing 15-year-old Briyana Jacques from Dorchester.",
+      "Briyana Jacques was last seen near Ashmont station and 1300 Blue Hill Ave. on Saturday afternoon.",
+      "She is described as a Black female, 5'5\", thin build, with brown hair and blonde highlights, wearing a black jacket and grey sweatpants."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2025-11-11T14:21:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/veteransillo-691245c1d1001-768x432.jpg",
     "bullets": [
-      "Military families are increasingly reaching out to Globe Santa for assistance due to financial difficulties during the holiday season.",
-      "Many service members struggle financially, with some relying on food stamps and taking multiple jobs to cover expenses.",
-      "The high cost of living in Massachusetts and recent government shutdown have exacerbated financial challenges for military families."
-    ]
-  },
-  {
-    "title": "Here&#8217;s what Boston meteorologists are saying about Tuesday&#8217;s wind chill, potential for flurries",
-    "url": "https://www.boston.com/weather/weather/2025/11/11/boston-ma-weather-cold-potential-snowflakes/",
-    "author": "Heather Alterisio",
-    "section": "Weather",
-    "published": "2025-11-11T14:02:28.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2025/11/XE3CGYEILC6O2RX36WDNI6DKVE-69133ba74b505-scaled.jpg",
-    "bullets": [
-      "Boston faces unseasonably cold and windy conditions with wind chills in the 20s, according to the National Weather Service.",
-      "NWS forecasts brief passing flurries or snow showers, with minor accumulations expected in the Berkshires.",
-      "Wind gusts may exceed 30 mph today, with temperatures struggling to reach 40°F in Boston, say local meteorologists."
-    ]
-  },
-  {
-    "title": "Love Letters notes on Veterans Day",
-    "url": "https://www.boston.com/love-letters/love-letters/2025/11/11/love-letters-notes-on-veterans-day/",
-    "author": "Meredith Goldstein",
-    "section": "Love Letters",
-    "published": "2025-11-11T13:49:18.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "'Love Letters' by Meredith Goldstein takes a break for Veterans Day.",
-      "Upcoming Globe Summit featuring an exclusive event with author Elin Hilderbrand announced.",
-      "Latest Love Letters podcast episode features a conversation with sports columnist Christopher L. Gasper."
-    ]
-  },
-  {
-    "title": "After loss to Warren, Republican John Deaton announces another run for Senate",
-    "url": "https://www.boston.com/news/local-news/2025/11/10/after-loss-to-warren-republican-john-deaton-announces-another-run-for-senate/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2025-11-11T04:54:11.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryandeaton10met-6912b833496f6-768x432.jpg",
-    "bullets": [
-      "Republican John Deaton announces Senate run against Ed Markey after losing to Elizabeth Warren.",
-      "Deaton, a Marine veteran and lawyer, emphasizes his youth and energy in a new campaign video.",
-      "Deaton is the first Republican to enter the 2026 race, focusing on economic and political issues."
-    ]
-  },
-  {
-    "title": "What will the Red Sox target this offseason? Craig Breslow maps out Boston’s priorities.",
-    "url": "https://www.boston.com/sports/boston-red-sox/2025/11/10/boston-red-sox-offseason-targets-rumors-mlb-baseball-craig-breslow/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2025-11-11T04:20:33.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/H63JYQ6IZLLGK4GT224JCZ6RQY-6912b44201357-768x432.jpg",
-    "bullets": [
-      "Red Sox eye a top pitcher to pair with Garrett Crochet, looking at trade or free-agent options like Dylan Cease.",
-      "Boston seeks to add power to lineup; potential targets include Kyle Schwarber and Pete Alonso as free agents.",
-      "Red Sox plan to balance immediate postseason contention with future prospects development, per Craig Breslow."
+      "Military families facing financial hardship are seeking assistance from Globe Santa for holiday gifts.",
+      "Rising living costs, unemployment, and inadequate stipends are causing financial strain for families stationed in Massachusetts.",
+      "Globe Santa, run by the Boston Globe Foundation, has supported children in need for 70 years."
     ]
   }
 ]
