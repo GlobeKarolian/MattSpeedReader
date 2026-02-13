@@ -1,15 +1,106 @@
 [
   {
-    "title": "Mass. woman killed while sunbathing after car drives through residential pool area in Florida",
+    "title": "Your Cape Cod winter guide: 20 things to do during the cold months",
+    "url": "https://www.boston.com/travel/travel/2026/02/13/your-cape-cod-winter-guide/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-02-13T20:20:44.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2017/05/cliche14-768x432.jpg",
+    "bullets": [
+      "The Cape Cod winter guide suggests 20 activities across various interests including museums, outdoor trails, restaurants, and breweries.",
+      "Visitors can explore the Sandwich Glass Museum, Cape Cod Museum of Art, and Wydah Pirate Museum.",
+      "Outdoor options include trails like the Great Island Trail, Nauset Beach, and Herring Cove Beach at Cape Cod National Seashore."
+    ]
+  },
+  {
+    "title": "She&#8217;s running Boston for people like her with Type 1 Diabetes",
+    "url": "https://www.boston.com/community/boston-marathon/2026/02/13/kristine-lapczynski-breakthrough-t1d/",
+    "author": "Kelly Chan",
+    "section": "Community",
+    "published": "2026-02-13T20:10:14.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/image1-698e1ceb966bb-768x432.jpeg",
+    "bullets": [
+      "Kristine Lapczynski, 30, a Boston Marathon runner, aims to inspire others with Type 1 Diabetes through her participation.",
+      "Lapczynski was diagnosed with Type 1 Diabetes over 23 years ago and has faced life-threatening diabetic ketoacidosis.",
+      "She is running for Breakthrough T1D to support research and advocacy for Type 1 Diabetes patients."
+    ]
+  },
+  {
+    "title": "She picked up running at age 45. Now at 61, she&#8217;s on track for her Six Star medal.",
+    "url": "https://www.boston.com/community/boston-marathon/2026/02/13/andrea-nwamarah-meb-foundation/",
+    "author": "Kelly Chan",
+    "section": "Community",
+    "published": "2026-02-13T20:04:46.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/andrew-nwamarah-698e19ba093f2-768x432.jpg",
+    "bullets": [
+      "Andrea Nwamarah, 61, from Simpsonville, S.C., started running at 45 and is aiming for her Six Star medal.",
+      "Nwamarah will run the Boston Marathon for the MEB Foundation, promoting youth health and leadership through sports.",
+      "She sees running Boston as a prestigious honor and aims to give back through her fundraising efforts."
+    ]
+  },
+  {
+    "title": "Boston Marathon runner inspired by aunt’s blindness raises money for the visually impaired",
+    "url": "https://www.boston.com/community/boston-marathon/2026/02/13/paige-stopperich-massachusetts-association-blind-visually-impaired/",
+    "author": "Kelly Chan",
+    "section": "Community",
+    "published": "2026-02-13T20:02:09.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/paige-stopperich-698e10f4b825b-768x432.jpg",
+    "bullets": [
+      "Paige Stopperich, 29, from Somerville, runs the 2026 Boston Marathon inspired by her aunt's blindness.",
+      "She runs for the Massachusetts Association for the Blind and Visually Impaired as part of 'Team With A Vision.'",
+      "MABVI offers low-vision rehabilitation, assistive technology, and mobility training to help those with vision loss."
+    ]
+  },
+  {
+    "title": "Drake Maye says he doesn’t regret marrying young. What readers said.",
+    "url": "https://www.boston.com/community/readers-say/2026/02/13/drake-maye-marrying-young-reader-experiences/",
+    "author": "Annie Jonas",
+    "section": "Community",
+    "published": "2026-02-13T19:33:41.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Super_Bowl_Football_61488-698f6978ca444-768x432.jpg",
+    "bullets": [
+      "Drake Maye, Patriots quarterback, endorses early marriage, sharing he does not regret marrying young to Anne Michael Maye.",
+      "Boston.com readers offered mixed reactions to young marriages, ranging from successful decades-long unions to warnings against it.",
+      "Comments highlighted that early marriage can be stabilizing but acknowledged it isn't a universal solution for everyone."
+    ]
+  },
+  {
+    "title": "Driver accused of killing art collector in Back Bay hit-and-run deemed mentally incompetent",
+    "url": "https://www.boston.com/news/crime/2026/02/13/driver-accused-of-killing-art-collector-in-back-bay-hit-and-run-deemed-mentally-incompetent/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-02-13T19:29:12.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/IG5CTPDXM4U7F2OVUGH6AFEDUI-698f495f8bed8-768x432.jpg",
+    "bullets": [
+      "William R. Haney Jr. deemed mentally incompetent to stand trial for killing art collector John Axelrod in hit-and-run.",
+      "Haney, diagnosed with schizophrenia, faced charges of murder and animal cruelty for striking Axelrod and his dog.",
+      "Haney remanded to Bridgewater State Hospital for further evaluation to restore mental competency for trial."
+    ]
+  },
+  {
+    "title": "Mass. pols decry the SAVE America Act. Will it really disenfranchise voters?",
+    "url": "https://www.boston.com/news/politics/2026/02/13/massachusetts-politicians-decry-save-america-act-voter-id/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-02-13T19:15:47.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_11_06_BostonGlobe.com_Metro_Images_Rinaldi07voting106-698f58b906ccf-768x432.jpg",
+    "bullets": [
+      "The SAVE America Act requiring strict voter ID policies passed the U.S. House, facing criticism from Massachusetts politicians.",
+      "The Act mandates proof of citizenship, such as a passport or birth certificate, for federal voter registration.",
+      "Critics argue it could disenfranchise millions, especially women and minorities, while supporters claim it's to prevent voter fraud."
+    ]
+  },
+  {
+    "title": "Mass. woman killed while sunbathing after car drives into residential pool area in Florida",
     "url": "https://www.boston.com/news/local-news/2026/02/13/mass-woman-killed-florida-jeep-crashes-pool-area/",
     "author": "Samantha Genzer",
     "section": "News",
     "published": "2026-02-13T18:22:35.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-at-11.23.02-AM-698f4ff7555c4.png",
     "bullets": [
-      "A Massachusetts woman, 65-year-old Anastasia Fiona Allman, was killed when a Jeep crashed into a pool area in Fort Pierce, Florida.",
-      "The 38-year-old Jeep driver may have experienced a medical episode; she drove off-road and struck Allman while sunbathing.",
-      "The Fort Pierce incident remains under investigation; the driver was treated at a hospital and released in stable condition."
+      "Massachusetts woman Anastasia Fiona Allman, 65, was killed in Fort Pierce, Florida, after a Jeep entered her residential pool area.",
+      "The driver, a 38-year-old woman, crashed through fencing and landscaping, trapping Allman beneath the vehicle.",
+      "Preliminary investigation suggests the driver may have suffered a medical episode; she was hospitalized and later released."
     ]
   },
   {
@@ -20,9 +111,9 @@
     "published": "2026-02-13T18:17:56.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_14brandi-8-698f65315a6ab-768x432.jpg",
     "bullets": [
-      "Brandi Carlile performed her first arena tour show in Boston at TD Garden on February 12, 2026.",
-      "Massachusetts Governor Maura Healey declared the day as 'Brandi Carlile Day' during Carlile's Boston concert.",
-      "Carlile's setlist featured songs from her 2025 album, 'Human,' and fan-requested performances, ending with an encore."
+      "Brandi Carlile performed at TD Garden in Boston for her 'Human Tour,' her first arena tour, on February 12, 2026.",
+      "Governor Maura Healey declared February 12 as 'Brandi Carlile Day' in Massachusetts during Carlile's concert.",
+      "Carlile involved fans by taking song requests and shared personal stories, creating a close-knit concert atmosphere."
     ]
   },
   {
@@ -33,100 +124,9 @@
     "published": "2026-02-13T18:17:36.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/09/4QWATHSE7MXKGO4ODTANKSTWLI-66fb38000579c-768x432.jpg",
     "bullets": [
-      "Delta Air Lines to resume Boston to Honolulu nonstop flights starting December 19, 2026.",
-      "Flights will initially be daily during the peak holiday, then reduce to four times weekly.",
-      "The route, on an Airbus A330-300, was previously suspended in 2025 due to low demand."
-    ]
-  },
-  {
-    "title": "A renovated Lake Winnipesaukee escape, plus new nonstop flights to Canada",
-    "url": "https://www.boston.com/travel/scenic-six/2026/02/13/a-renovated-lake-winnipesaukee-escape-plus-new-nonstop-flights-to-canada/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-02-13T17:37:36.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/a-aa-698e352353879-768x432.webp",
-    "bullets": [
-      "Mill Falls Resort on Lake Winnipesaukee finishes a years-long renovation, offering a stay in a historic 19th-century linen mill.",
-      "Porter Airlines will launch two nonstop routes from Boston to Montréal and Toronto in May, expanding Canada travel options.",
-      "Portland Harbor Hotel offers a Girlfriends Getaway Package featuring dining credits, valet parking, and complimentary bikes."
-    ]
-  },
-  {
-    "title": "Brayan Bello reflects on rough playoff start, enters Red Sox camp with new pitch",
-    "url": "https://www.boston.com/sports/morning-sports-update/2026/02/13/red-sox-brayan-bello-new-pitch-spring-training/",
-    "author": "Conor Roche",
-    "section": "Sports",
-    "published": "2026-02-13T17:10:58.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/DKNBXIWWZ4KJEPYHWFC2HIAJJE-698f522edfb49-768x432.jpg",
-    "bullets": [
-      "Brayan Bello added a curveball to his pitch repertoire at Red Sox spring training after a rough 2025 postseason.",
-      "Bello had a rocky final month in 2025, going 1-3 with a 5.40 ERA over five starts in September.",
-      "The Red Sox bolstered their rotation with Sonny Gray and Ranger Suarez, who will pitch ahead of Bello in 2026."
-    ]
-  },
-  {
-    "title": "A popular Vermont ski resort is under new ownership",
-    "url": "https://www.boston.com/travel/skiing/2026/02/13/a-popular-vermont-ski-resort-is-under-new-ownership/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-02-13T16:41:08.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/PBQV6HX2TENAVJGWMDUZIUG7EU-698cb7cc6c91a-768x432.jpg",
-    "bullets": [
-      "Smugglers' Notch Resort in Jeffersonville was acquired by Vermont-based Bear Den Partners from Bill Stritzler.",
-      "Bear Den Partners plans to maintain the resort's family-friendly focus and improve infrastructure and guest experience.",
-      "The Stritzler family retains a stake; Bill Stritzler's daughter, Lisa Howe, will serve as an advisor."
-    ]
-  },
-  {
-    "title": "Mass. senators push bill that could allow residents to sue ICE agents",
-    "url": "https://www.boston.com/news/local-news/2026/02/13/mass-senators-push-bill-that-could-allow-residents-to-sue-ice-agents/",
-    "author": "Ross Cristantiello",
-    "section": "News",
-    "published": "2026-02-13T15:50:46.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Immigration_Enforcement_Massachusetts_69422-698f40d97bb45-768x432.jpg",
-    "bullets": [
-      "Massachusetts senators introduce bill allowing lawsuits against federal officers for constitutional violations, focusing on ICE agents.",
-      "The bill is part of Massachusetts Senate's 'Response 2025' against Trump administration's immigration policies.",
-      "The legislation maintains 'qualified immunity' but applies liability to federal officers for excessive force use."
-    ]
-  },
-  {
-    "title": "Six arrested in Springfield drug and gun trafficking busts",
-    "url": "https://www.boston.com/news/crime/2026/02/13/six-arrested-in-springfield-drug-and-gun-trafficking-busts/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-02-13T15:09:43.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/632070573_1224159639849109_6359648062429095396_n-698f389c2ff1d-768x432.jpg",
-    "bullets": [
-      "Massachusetts State Police arrested six people in Springfield during two operations targeting drug and gun trafficking.",
-      "Authorities seized 15 handguns, six rifles, fentanyl, 8.5 kg of cocaine, and $63,000 in cash.",
-      "Operations involved multiple agencies, including the FBI, focusing on trafficking rings linked to Massachusetts and Puerto Rico."
-    ]
-  },
-  {
-    "title": "Dropkick Murphys cut ties with Wasserman agency after CEO’s name appears in Epstein files",
-    "url": "https://www.boston.com/news/entertainment/2026/02/13/dropkick-murphys-cut-ties-with-wasserman-agency-after-ceos-name-appears-in-epstein-files/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-02-13T14:39:43.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/ONLHVT2UOU5JPRC74TW7XTIZZI-698f2f869cdbd-768x432.jpg",
-    "bullets": [
-      "Dropkick Murphys cut ties with Wasserman agency due to founder Casey Wasserman's name appearing in Epstein-related files.",
-      "Emails between Casey Wasserman and Ghislaine Maxwell surfaced, prompting entertainers like Chappell Roan and Orville Peck to leave Wasserman.",
-      "Despite calls for resignation, Wasserman continues as LA28 Chair after a board review of his interactions with Epstein and Maxwell."
-    ]
-  },
-  {
-    "title": "Video: Water pours into South Station from newly renovated ceiling",
-    "url": "https://www.boston.com/news/local-news/2026/02/13/video-water-pours-into-south-station/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-02-13T14:21:59.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/https___nytapi.wieck_.com_feed-photos_QmT4ewkn-698f30610e0eb-768x432.jpg",
-    "bullets": [
-      "A maintenance worker damaged a sprinkler line, causing water to pour into South Station's exterior concourse.",
-      "The incident occurred under the newly renovated ceiling, but train service remained unaffected, according to the MBTA.",
-      "The station cleanup was completed by Thursday, with the worker employed by Hines Development, the tower's developer."
+      "Delta Air Lines will resume nonstop flights from Boston to Honolulu starting December 19, 2026.",
+      "The route, previously canceled due to low demand, will operate daily during peak holiday season, then four times weekly.",
+      "Passengers will fly on an Airbus A330-300 as part of Delta's winter seasonal schedule from Logan International Airport."
     ]
   }
 ]
