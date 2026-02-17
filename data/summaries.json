@@ -1,5 +1,83 @@
 [
   {
+    "title": "Police seek suspect in $15K purse theft",
+    "url": "https://www.boston.com/news/crime/2026/02/17/police-seek-suspect-in-15k-purse-theft/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-02-17T15:11:13.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Untitled-design-12-699480a09fe8c-768x432.png",
+    "bullets": [
+      "Worcester Police seek public help identifying suspect in $15,000 purse theft from Sweet Jane's Designer Consignment.",
+      "Incident occurred last week; suspect images show a person in a winter coat and hat holding items.",
+      "Police released a car photo linked to the crime; tips can be submitted by phone or text to WPD."
+    ]
+  },
+  {
+    "title": "Push for more housing in Union Square hinges on zoning change",
+    "url": "https://www.boston.com/news/local-news/2026/02/17/push-for-more-housing-in-union-square-hinges-on-zoning-change/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-02-17T14:52:14.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2020_02_20_BostonGlobe.com_Regional_Images_ryanunionsq2biz-698f68d87760d-768x432.jpg",
+    "bullets": [
+      "The Hamilton Company seeks zoning amendment for a 180-unit development in Union Square, Somerville.",
+      "Proposed buildings include two six-story mixed-use structures, combining residential, retail, and commercial spaces.",
+      "Approval required from Somerville City Council with input from the Planning Board for zoning change."
+    ]
+  },
+  {
+    "title": "Hanover, Mass. woman killed while sunbathing in Florida is identified",
+    "url": "https://www.boston.com/news/local-news/2026/02/17/hanover-mass-woman-killed-while-sunbathing-in-florida-is-identified/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-02-17T14:22:20.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Untitled-design-10-69946aa2ba224-768x432.png",
+    "bullets": [
+      "Anastasia Fiona Ullman, 65, was killed in Fort Pierce, Florida, when a Jeep crashed into a residential pool area.",
+      "Ullman was in Florida caring for her mother; the accident occurred on February 7, confirmed by Fort Pierre Police.",
+      "Ullman, active in Hanover, Mass., leaves behind two children and a partner of 24 years; her funeral is on Saturday."
+    ]
+  },
+  {
+    "title": "Here&#8217;s what Boston meteorologists are saying about the &#8216;super active&#8217; weather pattern ahead",
+    "url": "https://www.boston.com/weather/weather/2026/02/17/heres-what-boston-meteorologists-are-saying-about-the-super-active-weather-pattern-ahead/",
+    "author": "John Waller",
+    "section": "Weather",
+    "published": "2026-02-17T14:19:30.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_WALKER_020726_snow_04429x-699478da69cf4-scaled.jpg",
+    "bullets": [
+      "Boston is expected to experience a 'super active' weather pattern with frequent snow and rain through early next week.",
+      "Forecasters predict snow accumulation from 1 to 3 inches on Wednesday, with roads becoming slick after dark.",
+      "A potential coastal storm is being monitored for Sunday night into Monday, which may bring additional snowfall."
+    ]
+  },
+  {
+    "title": "Tiffani Faison opens new restaurant Tigerbaby at High Street Place",
+    "url": "https://www.boston.com/food/restaurants/2026/02/17/tiffani-faison-opens-tigerbaby-high-street-place/",
+    "author": "Katelyn Umholtz",
+    "section": "Food",
+    "published": "2026-02-17T14:01:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/HIGH-STREET-PLACE_BRIAN-SAMUELS-PHOTOGRAPHY_FEBRUARY-2026-IMG_FOOD_11-698f819a15707-768x432.jpg",
+    "bullets": [
+      "Tiffani Faison's new restaurant, Tigerbaby, opened on Feb. 17 at High Street Place food hall, downtown Boston.",
+      "Tigerbaby offers a quick-service menu featuring Southeast Asian-inspired dishes like Thai basil chicken and Singapore street noodles.",
+      "Tigerbaby is Faison's fifth concept at High Street Place, alongside Bubble Bath, Charming Gardener, Dive Bar, and Tenderoni’s."
+    ]
+  },
+  {
+    "title": "6 maps predicting Wednesday&#8217;s snowfall totals",
+    "url": "https://www.boston.com/weather/weather/2026/02/17/boston-ma-snow-maps-wednesday-feb-18-2026/",
+    "author": "John Waller",
+    "section": "Weather",
+    "published": "2026-02-17T14:00:13.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_WALKER_021126_standalone_06058x-699474445aab7-scaled.jpg",
+    "bullets": [
+      "Meteorologists predict rain will switch to snow in Boston from midday Wednesday, affecting road conditions after dark.",
+      "Forecast suggests 1-3 inches of snow accumulation in Boston, with higher elevations north and west potentially receiving more.",
+      "Boston expects a narrow band of steadier snow by Wednesday evening, potentially impacting areas from north to south."
+    ]
+  },
+  {
     "title": "Former commercial building in Pittsfield is now a $325K industrial-style home for someone to &#8216;love&#8217;",
     "url": "https://www.boston.com/real-estate/real-estate/2026/02/17/pittsfield-western-massachusetts-love-mural-house/",
     "author": "Megan Johnson",
@@ -7,9 +85,9 @@
     "published": "2026-02-17T12:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/DSC_9846-698d1bd3c5454-768x432.jpg",
     "bullets": [
-      "A commercial building at 17-19 Linden St., Pittsfield, transformed into a $324,900 industrial-style residence.",
-      "Originally a 1925 grocery store, the building now features three bedrooms and the iconic 'Love' mural.",
-      "Updated home includes modern amenities like butcher block countertops, stainless steel appliances, and a private in-law suite."
+      "Former Pittsfield commercial building at 17-19 Linden St. now listed as a $325,000 industrial-style home.",
+      "The property features three bedrooms, three bathrooms, open-concept living, exposed brick walls, and a private patio.",
+      "The distinctive 'Love' mural by Mike Carty remains a popular landmark included in Pittsfield's walking mural tour."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-02-17T03:59:38.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/02/Screenshot-2026-02-16-at-10.55.49-PM-6993e6dc8deb5.png",
     "bullets": [
-      "Ninety-seven cats rescued from a 1200-square-foot apartment in Woonsocket, Rhode Island by the RISPCA.",
-      "Some rescued cats have illnesses and are undersocialized, requiring medical treatment and behavioral assessments.",
-      "RISPCA requests item donations or monetary contributions via Venmo or PayPal to support the cats' care."
+      "Ninety-seven cats were rescued from a 1,200-square-foot apartment in Woonsocket, RI by the Rhode Island SPCA.",
+      "Some of the rescued cats are pregnant and many have colds; they are receiving medical treatment and care.",
+      "The RI SPCA is requesting donations to cover supplies and medical expenses for the rescued cats."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-02-17T03:45:26.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN021626Spring-Training-Day-7_SPT19-6993b7fba6061-768x432.jpg",
     "bullets": [
-      "Jarren Duran, 29, may face more designated hitter reps as the Red Sox manage an outfield logjam in 2026.",
-      "Duran has not been approached about a primary DH role, despite the team's depth in outfield positions.",
-      "Duran dismisses offseason trade rumors, highlighting his parents’ persistent curiosity about potential trades."
+      "Jarren Duran, 29, may see more DH reps due to Red Sox's outfield competition with four impact talents.",
+      "Duran remains unfazed by trade rumors, focusing on flexibility and readiness for any role required by team.",
+      "Despite strong 2025 performance, Duran aims to improve after declining batting average and OPS last season."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-02-17T03:17:52.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackipatriots017-1-6993a60630f96-768x432.jpg",
     "bullets": [
-      "Jordan Harris, a Boston Bruins defenseman, is working to make hockey more accessible in Massachusetts through his Harris' Huskies program.",
-      "Harris partnered with SCORE Boston, a nonprofit providing equipment and ice time to children without access to play hockey.",
-      "Harris, recovering from a fractured ankle, aims to inspire youth by sharing his hockey experiences and supporting local community initiatives."
-    ]
-  },
-  {
-    "title": "When will Jayson Tatum return for Celtics? Bill Simmons makes his prediction.",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/02/16/boston-celtics-jayson-tatum-nba-basketball-bill-simmons-injury-return/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-02-17T02:03:27.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Bulls_Celtics_Basketball_20227-6993a37e20666-768x432.jpg",
-    "bullets": [
-      "Jayson Tatum's return to the Celtics is speculated for March 1, following recovery from an Achilles injury.",
-      "NBC's trailer for a Tatum docuseries and a Celtics vs. 76ers game schedule adjustment suggest an imminent return.",
-      "Bill Simmons predicts Tatum could return either March 1 or March 6, based on recent developments."
-    ]
-  },
-  {
-    "title": "State Police trooper seriously injured after cruiser hit on North Shore highway",
-    "url": "https://www.boston.com/news/local-news/2026/02/16/state-police-trooper-seriously-injured-after-cruiser-hit-on-north-shore-highway/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-02-17T01:53:03.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/IMG_4683-6993b4780dd7b-768x432.jpeg",
-    "bullets": [
-      "A State Police trooper was seriously injured when his cruiser was hit on I-95 South in Salisbury.",
-      "The driver, Josue Levi Cuevas Santana, 24, faces charges including negligent operation and using a mobile device.",
-      "The trooper has been discharged from Portsmouth Regional Hospital to continue recovering at home."
-    ]
-  },
-  {
-    "title": "Fleet goalie Aerin Frankel sets Olympic record, helps Team USA advance to gold-medal game",
-    "url": "https://www.boston.com/sports/pwhl/2026/02/16/boston-fleet-aerin-frankel-team-usa-womens-hockey-sweden-canada/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-02-17T00:55:45.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Milan_Cortina_Olympics_Ice_Hockey_53610-69939ce204c8e-768x432.jpg",
-    "bullets": [
-      "Aerin Frankel leads Team USA to a 5-0 win over Sweden, reaching the Olympic gold-medal game.",
-      "Frankel sets an Olympic record with three shutouts in a single women's hockey tournament.",
-      "Team USA has maintained five consecutive shutout victories, outscoring opponents 36-1 in the Olympics."
-    ]
-  },
-  {
-    "title": "Woman found dead, search for husband suspended after couple falls through ice in Eastham, officials say",
-    "url": "https://www.boston.com/news/local-news/2026/02/16/woman-found-dead-search-for-husband-suspended-after-couple-falls-through-ice-in-eastham-officials-say/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-02-17T00:31:52.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_eastham-6993a19d814c0-768x432.jpg",
-    "bullets": [
-      "A woman died after falling through ice at First Encounter Beach in Eastham on February 14 during a dog walk.",
-      "Search for the woman's husband, who also fell through the ice, was suspended after two unsuccessful attempts over the weekend.",
-      "Police and fire officials used drones and dive teams in their search; the couple's dog was safely retrieved by family."
-    ]
-  },
-  {
-    "title": "‘Just pick up a glove’: Tom Werner was disappointed in Rafael Devers saga",
-    "url": "https://www.boston.com/sports/boston-red-sox/2026/02/16/boston-red-sox-rafael-devers-mlb-baseball-tom-werner-trade-giants/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-02-17T00:09:34.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Rockies_Giants_Baseball_56767-69939d60a5fa2-768x432.jpg",
-    "bullets": [
-      "Rafael Devers was traded from the Red Sox to the Giants in June after refusing to switch positions.",
-      "Tom Werner expressed disappointment over Devers' unwillingness to play first base following an injury on the team.",
-      "Red Sox officials, including Sam Kennedy, acknowledged potential mishandling of Devers' position change last year."
-    ]
-  },
-  {
-    "title": "What Sam Kennedy said about Bregman, Devers, and ‘hurtful’ narrative about Red Sox",
-    "url": "https://www.boston.com/red-sox/boston-red-sox/2026/02/16/sam-kennedy-boston-red-sox-alex-bregman-rafael-devers-spending-offseason-free-agents-mlb/",
-    "author": "Conor Ryan",
-    "section": "Red Sox",
-    "published": "2026-02-16T22:54:38.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN021526Spring-Training-Day-6-Full-Squad_SPT3-69938d585e7d2-768x432.jpg",
-    "bullets": [
-      "Sam Kennedy addressed concerns about the Red Sox's desire to win, emphasizing ownership's ongoing commitment to success.",
-      "Rafael Devers was traded after conflicts over his position, while Alex Bregman signed with the Cubs in free agency.",
-      "Kennedy highlighted the Red Sox's $256.1 million payroll as evidence of the team's investment in competing."
+      "Jordan Harris is enhancing hockey accessibility through the Harris' Huskies initiative with SCORE Boston.",
+      "SCORE Boston provides equipment and ice time to children lacking access to hockey, aided by NHL and Bruins Foundation.",
+      "Harris emphasizes the importance of visibility and representation in hockey through his work with young players."
     ]
   }
 ]
