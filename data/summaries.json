@@ -1,5 +1,57 @@
 [
   {
+    "title": "Did you have to go into work during the blizzard?",
+    "url": "https://www.boston.com/community/tell-us/2026/02/23/did-you-have-to-go-into-work-during-the-blizzard/",
+    "author": "Annie Jonas",
+    "section": "Community",
+    "published": "2026-02-23T17:30:13.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/4TM5VZ45GFDTRDAIFEE3VXQ5KU-699c7ffc32066-768x432.jpg",
+    "bullets": [
+      "Gov. Maura Healey declared a state of emergency in Massachusetts due to a major blizzard with up to 20 inches of snow forecast.",
+      "Some non-essential workers are expected to report to work despite state recommendations to stay off roads and work remotely.",
+      "Certain employers offer accommodations like hotel rooms for essential staff to maintain operations during the storm."
+    ]
+  },
+  {
+    "title": "Mass. plow driver survives near-impalement when tree limb crashes through truck windshield",
+    "url": "https://www.boston.com/news/local-news/2026/02/23/mass-plow-driver-survives-near-impalement-tree-limb/",
+    "author": "Heather Alterisio",
+    "section": "News",
+    "published": "2026-02-23T17:28:13.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/641036297_1225891526388407_6883533367163556183_n-699c7b532545c-768x432.jpg",
+    "bullets": [
+      "A Kingston plow driver's truck was nearly impaled by a falling tree branch during a severe winter storm.",
+      "The branch pierced the windshield, narrowly missing the driver and causing no injuries, Kingston Police confirmed.",
+      "Blizzard conditions have caused widespread power outages and service interruptions in Massachusetts, with up to 24 inches of snow expected."
+    ]
+  },
+  {
+    "title": "Citing &#8216;hate&#8217; and child exploitation, AG Campbell logs off X",
+    "url": "https://www.boston.com/news/local-news/2026/02/23/citing-hate-and-child-exploitation-ag-campbell-logs-off-x/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-02-23T16:53:09.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouseXxCampbellHarris2-699c7645c4949-768x432.jpg",
+    "bullets": [
+      "Attorney General Andrea Campbell leaves X, citing platform's promotion of hate and child exploitation.",
+      "Campbell criticized X's lack of accountability and highlighted issues with AI chatbot Grok's misuse.",
+      "Massachusetts AG plans to use social media alternatives like Bluesky and Threads for future communications."
+    ]
+  },
+  {
+    "title": "Pregnant woman hospitalized after ICE detention in Burlington",
+    "url": "https://www.boston.com/news/local-news/2026/02/23/pregnant-woman-hospitalized-after-ice-detention-in-burlington/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-02-23T16:41:09.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackiice109-1-6998b52389d71-768x432.jpg",
+    "bullets": [
+      "Djeniffer Benvinda Ribeiro Semedo, a 22-year-old pregnant woman, was detained by ICE in Burlington, MA, causing a health crisis.",
+      "Ribeiro Semedo was hospitalized for complications during detention, leading to her eventual release after legal intervention.",
+      "ICE's detention of Ribeiro Semedo violated a 2021 policy against detaining pregnant individuals, according to court documents."
+    ]
+  },
+  {
     "title": "Amtrak service between Boston and New York suspended due to nor&#8217;easter",
     "url": "https://www.boston.com/travel/new-england-travel/2026/02/23/amtrak-service-between-boston-and-new-york-suspended-due-to-noreaster/",
     "author": "Kristi Palma",
@@ -7,9 +59,9 @@
     "published": "2026-02-23T16:32:01.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/I7F4AY2TRBFDBJ3VG35YTAZUWE-6984af7149ec0-768x432.jpg",
     "bullets": [
-      "Amtrak has suspended service between Boston and New York due to a nor'easter, effective until at least 4 p.m. Monday.",
-      "Wind gusts of 60-70 mph and 18-24 inches of snow are expected in New England, prompting a state of emergency.",
-      "Nearly 1,000 flights at Logan Airport were canceled Monday morning as the storm affected travel across the region."
+      "Amtrak suspended service between New York and Boston due to a nor'easter with 60-70 mph winds affecting the region.",
+      "Gov. Maura Healey declared a state of emergency as 18-24 inches of snow is expected in New England.",
+      "Logan Airport canceled nearly 1,000 flights Monday morning due to the severe weather conditions."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2026-02-23T15:56:38.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Joe-Mazzulla-Celtics-Pat-Riley-1-699c7649f16d4-768x432.jpg",
     "bullets": [
-      "Joe Mazzulla expressed delight upon learning of Pat Riley's trash-talk against Boston before the Celtics-Lakers game.",
-      "The Celtics emerged victorious over the Lakers, winning 111-89, despite Riley's comments aimed at energizing Los Angeles.",
-      "Mazzulla emphasized focus, stating the team must maintain perspective going into their next game against the Phoenix Suns."
+      "Joe Mazzulla enjoyed Pat Riley's trash talk about the Celtics, saying it was 'fun' and 'awesome'.",
+      "Pat Riley made fiery comments before a Lakers statue dedication, saying it was time to 'kick some Boston ass'.",
+      "Celtics defeated the Lakers 111-89 after Riley's comments, with Mazzulla emphasizing focus on upcoming games."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2026-02-23T15:34:48.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/ETWSKXNKMZADZY7DIPAEREJGEM-699c6e7420c83-768x432.jpg",
     "bullets": [
-      "Foxborough reported 19.3 inches of snow as of 8:44 a.m. during a heavy nor'easter affecting much of the Northeast.",
-      "Boston's Logan Airport recorded 5 inches of snowfall by 7 a.m. according to the National Weather Service.",
-      "The storm is expected to bring 18-24 inches of snow, with significant impacts in southeastern Massachusetts predicted."
+      "Foxborough recorded 19.3 inches of snow, the highest total in Massachusetts by Monday morning.",
+      "Boston's Logan Airport reported 5 inches of snow by 7 a.m. during the ongoing nor'easter.",
+      "Meteorologists predict 18 to 24 inches of snow, with heavy wet snow possibly causing power outages."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2026-02-23T14:28:19.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.07.34-AM-699c5f5eca73c.png",
     "bullets": [
-      "Jim Cantore experienced thundersnow live on air in Plymouth on Monday morning, expressing excitement at the meteorological event.",
-      "Cantore, known for his love of thundersnow, had previously encountered the phenomenon in Plymouth in the winter of 2015.",
-      "Locals were alerted to the storm's severity as Cantore was spotted in Plymouth, a sign of significant weather events."
+      "Jim Cantore experienced thundersnow live on The Weather Channel from Plymouth on Monday morning.",
+      "This isn't the first time Cantore has experienced thundersnow in Plymouth, with a similar event occurring in 2015.",
+      "A video comparing his reactions from both events was released by The Weather Channel on Monday."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2026-02-23T14:27:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/VS2GSVPXATBNN4SF4QCAG4C2JY-699b8a20ded2d-768x432.jpg",
     "bullets": [
-      "Logan Airport cancelled nearly 1,000 flights Monday due to a nor'easter impacting Massachusetts.",
-      "Governor Maura Healey declared a state of emergency as the storm brought severe winds and heavy snow.",
-      "JetBlue and other airlines at Logan are waiving change fees amid widespread flight cancellations."
+      "Nearly 1,000 flights cancelled at Logan Airport due to a nor'easter affecting Massachusetts.",
+      "Gov. Maura Healey declared a state of emergency with expected 18-24 inches of snow and strong winds.",
+      "JetBlue is waiving change fees for flights affected by the severe weather from February 22 to 26."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-02-23T14:01:25.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/DRMMQ2Z27WWJEWZL6TSN542XPA-699c5cbf3346c-768x432.jpg",
     "bullets": [
-      "More than 113,000 in Massachusetts face power outages due to a strong nor'easter with high winds and heavy snow.",
-      "Approximately 14,000 Rhode Island and nearly 200 New Hampshire residents are experiencing power outages as of 8:30 a.m.",
-      "Cape and Islands areas are especially affected by power loss from snow and wind reaching over 70 mph."
-    ]
-  },
-  {
-    "title": "Police investigating after piece of a pig turns up in Newton park",
-    "url": "https://www.boston.com/news/local-news/2026/02/22/police-investigating-after-piece-of-a-pig-turns-up-in-newton-park/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-02-23T04:54:59.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/02/639557769_1201288278841820_3379725199229693541_n-2-699bda0bc2a65.jpg",
-    "bullets": [
-      "A pig flank was found near Flowed Meadow, Auburndale Park, Newton, prompting a police investigation.",
-      "Newton police noted a red flag and a note left next to the pork piece in the park.",
-      "Hunting in Newton parks is banned; Newton Animal Control and Mass. Environmental Police are investigating."
-    ]
-  },
-  {
-    "title": "Jaylen Brown, Payton Pritchard dominate in blowout win over Lakers: 7 takeaways",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/02/22/jaylen-brown-payton-pritchard-dominate-in-blowout-win-over-lakers-7-takeaways/",
-    "author": "Tom Westerholm",
-    "section": "Sports",
-    "published": "2026-02-23T04:34:42.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Celtics-699bd6a96a72f-768x432.jpg",
-    "bullets": [
-      "Jaylen Brown scored a game-high 32 points, despite shooting 10-for-28, in the Celtics' 111-89 victory over the Lakers.",
-      "Payton Pritchard excelled off the bench, scoring 30 points, maintaining his strong performance during the Celtics' recent winning streak.",
-      "The Celtics improved to 37-19, moving closer to a 40-win season before reaching 20 losses, despite challenges ahead."
-    ]
-  },
-  {
-    "title": "These Mass. schools are closed on Monday, Feb. 23",
-    "url": "https://www.boston.com/weather/weather/2026/02/22/these-mass-schools-are-closed-on-monday-feb-23/",
-    "author": "Audrey Cooney",
-    "section": "Weather",
-    "published": "2026-02-23T02:49:24.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_20250120_SnowFT_BP_01-699bb5802a1cb-768x432.jpg",
-    "bullets": [
-      "A major snowstorm has led to school closures in dozens of Massachusetts school districts on Monday, Feb. 23.",
-      "Closed districts include Boston, Cambridge, Springfield, Worcester, and numerous surrounding towns like Brookline and Concord.",
-      "Residents can report additional school closures by emailing [email protected]."
-    ]
-  },
-  {
-    "title": "Fall River police searching for man accused of shooting, killing dog",
-    "url": "https://www.boston.com/news/local-news/2026/02/22/fall-river-police-searching-for-man-accused-of-shooting-killing-dog/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-02-23T02:45:14.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-8.50.38-PM-699bb27f1b323-748x432.png",
-    "bullets": [
-      "Fall River police are searching for Kyron Simmons, accused of shooting and killing a dog in early February.",
-      "Simmons faces charges including home invasion, animal cruelty, and carrying a loaded firearm without a license.",
-      "Police confirmed Simmons as the suspect through security footage and found firearm accessories at his residence."
+      "Over 113,000 Massachusetts residents face power outages due to a nor’easter expected to bring 18-24 inches of snow.",
+      "Rhode Island has 14,000 residents without power, and New Hampshire reports nearly 200 outages from the storm.",
+      "The Cape and Islands experience severe outages and wind speeds over 70 mph from the snow and wind blitz."
     ]
   }
 ]
