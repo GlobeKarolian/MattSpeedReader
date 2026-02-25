@@ -1,5 +1,18 @@
 [
   {
+    "title": "Recent homes sales in Greater Boston (Feb. 25)",
+    "url": "https://www.boston.com/real-estate/real-estate-news/2026/02/25/recent-homes-sales-in-greater-boston-feb-25/",
+    "author": "The Boston Globe",
+    "section": "Real Estate",
+    "published": "2026-02-25T10:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/10/house-green-670eeca0a22b7-768x432.jpeg",
+    "bullets": [
+      "A condo at 246 Main St. #6, Acton sold for $450,000; it offers 1,040 sq ft, 2 bedrooms, 2 baths.",
+      "A historic 1850s one-family home at 486 Main St., Amesbury, with 1,771 sq ft, sold for $880,000.",
+      "A high-rise condo at 1 Dalton St. #5301, Boston, featuring 4,064 sq ft and 4 bedrooms, sold for $14,000,000."
+    ]
+  },
+  {
     "title": "How long will Mass. residents have to wait until their power is restored?",
     "url": "https://www.boston.com/weather/weather/2026/02/24/how-long-will-mass-residents-have-to-wait-until-their-power-is-restored/",
     "author": "Carson Lyle",
@@ -7,9 +20,9 @@
     "published": "2026-02-25T04:26:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_WALKER_024126_24storm_2108x-699e6630c12b0-768x432.jpg",
     "bullets": [
-      "Over 100,000 customers in Eastern Massachusetts lost power after a blizzard on Monday caused widespread outages.",
-      "Eversource restored power to 170,000 of its customers, but 220,000 remained without power as of early Tuesday afternoon.",
-      "Both Eversource and National Grid expect some customers to remain without power until Thursday due to high winds and difficult conditions."
+      "Over 100,000 customers in Eastern Massachusetts lost power due to a blizzard, with some restorations delayed until later this week.",
+      "Eversource and National Grid are working to restore power; 220,000 Eversource and 94,000 National Grid customers initially affected.",
+      "High winds and blizzard conditions hampered efforts; crews were pre-positioned in hard-hit areas like Cape Cod and Nantucket."
     ]
   },
   {
@@ -20,9 +33,9 @@
     "published": "2026-02-25T03:55:59.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Washington_Football_32801-699e52e42177f-768x432.jpg",
     "bullets": [
-      "The Patriots hold 11 picks in the 2026 NFL Draft, including the 31st overall selection, to address roster needs.",
-      "Top prospects like WR KC Concepcion and Edge Zion Young are being eyed by New England for offensive and defensive upgrades.",
-      "Potential picks also include TE Kenyon Sadiq, known for his athletic prowess, and OT Kadyn Proctor for line reinforcement."
+      "The New England Patriots hold 11 picks, including the 31st, in the 2026 NFL Draft.",
+      "Top prospects KC Concepcion, Zion Young, and Kenyon Sadiq identified as potential targets for the Patriots in the draft.",
+      "Patriots aim to upgrade roster with potential additions at wide receiver, edge rusher, and tight end positions."
     ]
   },
   {
@@ -33,9 +46,9 @@
     "published": "2026-02-25T03:09:42.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/02/maldenschool-699e615b92398-scaled.jpg",
     "bullets": [
-      "A Malden school employee is on leave after an alleged incident involving a high school student.",
-      "Malden police are investigating the incident with no details disclosed and no arrests made so far.",
-      "The employee works at Linden STEAM Academy, and the incident allegedly occurred outside of work hours."
+      "A Malden school employee has been placed on administrative leave due to a serious incident involving a high school student.",
+      "Police are investigating the incident, which happened outside working hours; no arrests or charges have been made.",
+      "The employee works at Linden STEAM Academy, serving K-8 students; details of the incident remain undisclosed."
     ]
   },
   {
@@ -46,9 +59,9 @@
     "published": "2026-02-25T03:06:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Winter_Weather_Boston_35726-699e657e89f6f-768x432.jpg",
     "bullets": [
-      "Many Massachusetts schools remain closed Wednesday, Feb. 25, due to a historic snowstorm dumping three feet of snow.",
-      "School districts closed include Attleboro, Bridgewater-Raynham, Brockton, and many others in the South Coast and South Shore.",
-      "Several schools like Canton, King Philip Regional, and Walpole are running on a delayed schedule following the snowstorm."
+      "A historic snowstorm has closed several Massachusetts school districts for a third day, impacting the South Shore and South Coast.",
+      "School closures for Feb. 25 include Attleboro, Brockton, and Quincy, with delays in Canton and Wrentham.",
+      "The snowstorm left some areas with three feet of snow, prompting extended closures for safety and cleanup."
     ]
   },
   {
@@ -59,9 +72,9 @@
     "published": "2026-02-25T02:49:45.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner022426METRO24storm537-699e622d6c8ea-768x432.jpg",
     "bullets": [
-      "MBTA to resume regular weekday service Wednesday, except Fall River/New Bedford line operating on modified schedule.",
-      "MBTA General Manager thanks employees and riders for patience during storm recovery efforts.",
-      "Passengers advised to plan extra travel time; MBTA continuing clean-up and providing latest updates via app and social media."
+      "MBTA service largely returns to normal Wednesday, except the Fall River/New Bedford line operating on a modified schedule.",
+      "The modified Commuter Rail schedule is due to severe storm impacts in the South Coast region.",
+      "MBTA advises riders to plan for extra travel time and stay updated via T-Alerts or the MBTA Go app."
     ]
   },
   {
@@ -72,9 +85,9 @@
     "published": "2026-02-25T02:06:08.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Super_Bowl_Football_95618-699e5016f0570-768x432.jpg",
     "bullets": [
-      "Stefon Diggs' future with the Patriots is uncertain due to his $26.5 million cap hit and expiring contract.",
-      "Diggs, who had over 1,000 receiving yards in his first Patriots season, may face contract restructuring or release.",
-      "Patriots might explore acquiring a younger, cheaper wide receiver, considering Diggs' age and ongoing legal issues."
+      "Patriots uncertain if Stefon Diggs will return; $26.5M cap hit complicates his future with the team.",
+      "Diggs' contract includes $1.7M guaranteed, with potential $6M bonus if on roster by March 13.",
+      "Tom E. Curran suggests Patriots might seek younger, cheaper talent to potentially replace Diggs."
     ]
   },
   {
@@ -85,9 +98,9 @@
     "published": "2026-02-25T01:43:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/sotuboycott-699e46ff7c79e-768x432.jpg",
     "bullets": [
-      "Massachusetts Congress members, including Katherine Clark, will skip the State of the Union, citing President Trump's policies.",
-      "Rep. Ayanna Pressley plans actions highlighting immigrant children's detentions, while Ed Markey attends a People's rally.",
-      "Gov. Maura Healey reaffirms her focus on Massachusetts priorities despite Trump's State of the Union address."
+      "House Minority Whip Katherine Clark and other Massachusetts representatives will skip Trump's State of the Union address.",
+      "Rep. Ayanna Pressley and Sen. Ed Markey will participate in a rally and focus on immigration issues.",
+      "Rep. Lori Trahan criticizes Trump's policies, emphasizing legislation priorities over attending ceremonial events."
     ]
   },
   {
@@ -98,9 +111,9 @@
     "published": "2026-02-25T01:15:12.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Milan_Cortina_Olympics_Ice_Hockey_84256-699e46729aaa8-768x432.jpg",
     "bullets": [
-      "Charlie McAvoy and Jeremy Swayman's availability for Bruins' Thursday game is uncertain due to travel delays from the Olympics.",
-      "Team USA's gold medal celebration diverted McAvoy and Swayman to Miami, affecting their return to Boston.",
-      "If Swayman is unavailable, goalie options for Thursday include Joonas Korpisalo, who returned from the Olympics."
+      "Charlie McAvoy and Jeremy Swayman's return to the Bruins is uncertain after celebrating Olympic gold with Team USA.",
+      "Boston Bruins face Columbus Blue Jackets Thursday, holding the final playoff spot with a 32-20-5 record.",
+      "Weather-related travel delays diverted Team USA's return flight, affecting McAvoy and Swayman's availability."
     ]
   },
   {
@@ -111,22 +124,9 @@
     "published": "2026-02-25T00:47:19.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Titans_49ers_Football_38759-699e38fae52ea-768x432.jpg",
     "bullets": [
-      "Trent Williams could become a free-agent target for the Patriots if released by the San Francisco 49ers.",
-      "Williams, a 37-year-old left tackle, earned five All-Pro honors and has a PFF grade of 91.5.",
-      "San Francisco may cut Williams, incurring a $34 million dead cap hit, to unlock financial flexibility."
-    ]
-  },
-  {
-    "title": "Boston ends snow emergency parking ban; residents can use space savers until Thursday evening",
-    "url": "https://www.boston.com/news/local-news/2026/02/24/boston-ends-snow-emergency-parking-ban-residents-can-use-space-savers-until-thursday-evening/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-02-25T00:45:59.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner022426METRO24storm1396-699e3fdbb7ad3-768x432.jpg",
-    "bullets": [
-      "Boston's snow emergency and parking ban ended at 6 p.m. Tuesday after a blizzard dumped 17 inches of snow.",
-      "Residents using discounted garage parking must remove their vehicles by 8 p.m. to avoid regular charges.",
-      "Space savers must be removed by 6 p.m. Thursday, with enforced removal in South End and Bay Village."
+      "The Patriots face uncertainty at offensive tackle after a Super Bowl LX loss to Seattle.",
+      "San Francisco's Trent Williams may enter free agency if contract talks falter, offering potential for Patriots.",
+      "Williams would be a significant but costly short-term upgrade to New England's offensive line needs."
     ]
   }
 ]
