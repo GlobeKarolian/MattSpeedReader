@@ -1,5 +1,31 @@
 [
   {
+    "title": "Here’s why Boston streets seem clearer than after the last big storm",
+    "url": "https://www.boston.com/news/local-news/2026/02/26/boston-snow-removal-blizzard/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-02-26T20:19:35.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Boston-plow-69a0a7bc6cd6c-768x432.jpg",
+    "bullets": [
+      "Boston implemented an extended parking ban post-blizzard, aiding efficient snow removal and clear streets.",
+      "Mayor Wu reported 200 truckloads of snow removed in one day due to daytime hauling efforts.",
+      "The city considers additional fees for property owners who fail to clear sidewalks after snowstorms."
+    ]
+  },
+  {
+    "title": "This Mass. bride and groom skied Killington fresh off their vows and in wedding attire",
+    "url": "https://www.boston.com/travel/new-england-travel/2026/02/26/mass-bride-and-groom-skied-killington-in-wedding-attire/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-02-26T19:53:51.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/annemientka_-6-69a08c909a258-768x432.jpg",
+    "bullets": [
+      "Evan and Kristyn Stark skied at Killington, Vermont, in wedding attire after their ceremony on February 7.",
+      "The wedding took place at the Killington Grand Hotel, with the couple skiing before their slopeside reception.",
+      "Kristyn, a lifelong skier, and Evan bonded over skiing from their first meeting on the dating app Hinge."
+    ]
+  },
+  {
     "title": "Report: Anfernee Simons played with wrist fracture during time with Celtics",
     "url": "https://www.boston.com/sports/boston-celtics/2026/02/26/anfernee-simons-celtics-bulls-wrist-injury-comments/",
     "author": "Khari A. Thompson",
@@ -7,9 +33,9 @@
     "published": "2026-02-26T19:32:57.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/CSMPFIB3FP3VR2APHTPZXS4ZHU-69a09a43c0d11-768x432.webp",
     "bullets": [
-      "Anfernee Simons played with a wrist fracture during his time with the Boston Celtics, later aggravating it with the Bulls.",
-      "Simons averaged 14.2 points per game in 49 matches with the Celtics before being traded to the Bulls.",
-      "The Celtics traded Simons for Nikola Vucevic, who has averaged 9.9 points and 7.7 rebounds in seven games."
+      "Anfernee Simons played 49 games with the Celtics this season averaging 14.2 points without missing any games.",
+      "Simons aggravated a wrist fracture during Boston Celtics training camp and is currently out with an old injury.",
+      "Celtics traded Simons and a second-round pick to the Bulls for Nikola Vucevic, who averages 9.9 points in seven games."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-02-26T19:10:27.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/IMG_0968-69a08ed68b73c-768x432.jpeg",
     "bullets": [
-      "MBTA Commuter Rail faces delays due to ongoing snow cleanup and a vehicle incident on the Worcester line.",
-      "Fairmount, Fall River/New Bedford, Fitchburg, and other lines affected; nearly three feet of snow complicates operations.",
-      "Keolis Commuter Services continues snow removal as MBTA services face criticism for handling of harsh winter conditions."
+      "MBTA Commuter Rail faced delays due to snow cleanup on Fairmount, Fall River/New Bedford, and several other lines.",
+      "A vehicle on the Worcester line tracks was cleared, but weather-related issues persist across the network.",
+      "Nearly three feet of snow in parts of the network is hindering cleanup and affecting rail service operations."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-02-26T18:38:15.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_OGoogle_4-69a08cd26d2b9-768x432.jpg",
     "bullets": [
-      "Massachusetts residents will have free access to Google's AI training through the Grow with Google program, announced Gov. Maura Healey.",
-      "Courses cover diverse tech subjects, including cybersecurity, digital marketing, data analytics, and AI professional certificates.",
-      "The initiative aims to boost AI skills and economic development in Massachusetts, supported by $100 million in funding."
+      "Massachusetts residents will have free access to Google's AI and tech course via the Grow with Google program.",
+      "Governor Maura Healey emphasized the importance of AI, aiming to make Massachusetts an AI hub, with $100 million allocated for development.",
+      "The initiative offers AI courses for varied audiences aiming to enhance 'high-growth' skills in tech, free until end of 2027."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-02-26T18:35:50.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Milan_Cortina_Olympics_Ice_Hockey_84256-1-69a08d05df39a-768x432.jpg",
     "bullets": [
-      "Charlie McAvoy apologized for Team USA men's hockey response to Trump's joke about the US women's team.",
-      "Team USA men's hockey celebrated Olympic gold with Trump; the women's team declined his invitation due to commitments.",
-      "Both US hockey teams won gold medals, strengthening their bond during the Milano-Cortina Winter Games."
+      "Charlie McAvoy apologized for Team USA's response to a joke made by Donald Trump about the US women's hockey team.",
+      "Trump made a joke about inviting the US women's hockey team to the White House, leading to laughter from the men's team.",
+      "US women's team captain Hilary Knight called the joke \"distasteful\"; the women's team declined Trump's White House invitation."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-02-26T17:57:10.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter08062025cityview1-69a07c7508143-768x432.jpg",
     "bullets": [
-      "Somerville Mayor Jake Wilson prioritizes increasing affordable and social housing to address the city's housing crisis.",
-      "The city added 2,046 housing units from 2020 to 2025, exceeding the region's growth rate, yet prices remain high.",
-      "Wilson supports rent stabilization and greater housing density near Green Line Extension stations to stabilize costs."
+      "Mayor Jake Wilson plans to address Somerville's housing crisis with increased density, new zoning, and investment in affordable housing.",
+      "The 299 Broadway development will feature 288 units, with 132 affordable units at 30% and 60% AMI, demonstrating potential models.",
+      "Wilson supports a statewide initiative to limit rent increases, while exploring expansion of social housing to stabilize housing costs."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-02-26T17:39:44.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-11.12.48-AM-69a07109299a6.png",
     "bullets": [
-      "New Bedford streets remain snowy following Monday's blizzard, with many side streets yet to be fully plowed.",
-      "Local resident Scott Vicente drove his pickup truck through unplowed roads to check on properties and loved ones.",
-      "Vicente encourages drivers to avoid attempting snowy streets without proper vehicles, advising patience until plowing is complete."
+      "New Bedford, struggling with unplowed side streets post-blizzard, saw locals resort to DIY snow clearance.",
+      "Local Scott Vicente navigated unplowed streets with difficulty, mainly using his pickup truck to tackle snowy roads.",
+      "Residents, including Allie Crane, witnessed numerous vehicles getting stuck, highlighting community efforts during the storm."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-02-26T17:00:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Sorella-12-69a0748b89298-768x432.jpeg",
     "bullets": [
-      "Chef Douglass Williams opens La Tavernetta in East Boston, taking over the former Smoke Shop BBQ space.",
-      "Salt & Straw expands with a second New England location in Seaport, set to open late 2026.",
-      "Sorella Cucina Toscana, an Italian restaurant, opens in Burlington offering diverse pasta and crudo dishes."
+      "Chef Douglass Williams to open coastal Italian tavern La Tavernetta in East Boston by Spring 2026.",
+      "Salt & Straw ice cream expanding to Boston's Seaport, offering unique flavors like blue cheese and balsamic strawberry.",
+      "Italian eatery Sorella Cucina Toscana opens in Burlington, offering pasta, crudo, and veal osso bucco."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-02-26T16:59:05.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Terrell-Williams-Patriots-1-69a078c2870c1-768x432.jpg",
     "bullets": [
-      "Terrell Williams remains with the Patriots, but his new role on Mike Vrabel’s staff is yet to be announced.",
-      "The team removed the interim tag from Zak Kuhr, appointing him as their new defensive coordinator after a successful season.",
-      "Williams, a former defensive coordinator, has past coaching experience with the Raiders, Dolphins, Titans, and Lions."
-    ]
-  },
-  {
-    "title": "&#8216;Jeopardy!&#8217; contestants struggled with a Boston category. Can you beat them?",
-    "url": "https://www.boston.com/culture/entertainment/2026/02/26/jeopardy-boston-category/",
-    "author": "Kevin Slane",
-    "section": "Culture",
-    "published": "2026-02-26T16:58:01.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/TV_Jeopardy_62232-69820fd2468c1-768x432.jpg",
-    "bullets": [
-      "'Jeopardy!' contestants correctly answered three out of five questions in the Boston Space category on February 23.",
-      "The $600 Boston Space clue was incorrectly guessed as 'Harvard Yard' before Boston Common was correctly answered.",
-      "The $800 and $1000 Boston Space clues resulted in triple stumpers with no contestants attempting answers."
-    ]
-  },
-  {
-    "title": "What we get wrong about sex, love, and monogamy",
-    "url": "https://www.boston.com/love-letters/arts/2026/02/26/what-we-get-wrong-about-sex-love-and-monogamy/",
-    "author": "Meredith Goldstein",
-    "section": "Love Letters",
-    "published": "2026-02-26T16:57:08.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/aaaaaa-69a0793784c4a-768x432.jpg",
-    "bullets": [
-      "Kinsey Institute director Justin Garcia discusses intimacy, 'slow love,' and relationship perceptions on the Love Letters podcast.",
-      "Garcia's book explores the concepts of social and sexual monogamy and their impact on relationship satisfaction.",
-      "He describes 'slow love' as a cautious, prolonged courtship process popular among modern young people."
+      "Former Patriots defensive coordinator Terrell Williams will hold a high-ranking role on Mike Vrabel’s staff.",
+      "Williams overcame prostate cancer last season, which led to a virtual work stint and missing some games.",
+      "Zak Kuhr was promoted to defensive coordinator after leading the team to a 14-2 finish last season."
     ]
   }
 ]
