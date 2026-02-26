@@ -1,5 +1,83 @@
 [
   {
+    "title": "Watch this wild (and inspirational) video out of New Bedford following the blizzard",
+    "url": "https://www.boston.com/news/local-news/2026/02/26/video-pickup-truck-new-bedford-snow/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-02-26T17:39:44.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-11.12.48-AM-69a07109299a6.png",
+    "bullets": [
+      "A New Bedford pickup truck driver drove through unplowed streets following a blizzard, impressing local residents.",
+      "Scott Vicente navigated difficult conditions to check on properties, advising locals to avoid unplowed side streets.",
+      "Many New Bedford residents, including Allie Crane, contributed to snow removal after streets remained snow-covered."
+    ]
+  },
+  {
+    "title": "5 best new restaurant openings and dining updates in Boston (Feb. 26, 2026)",
+    "url": "https://www.boston.com/food/restaurants/2026/02/26/restaurant-openings-feb-26-2026/",
+    "author": "Katelyn Umholtz",
+    "section": "Food",
+    "published": "2026-02-26T17:00:03.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Sorella-12-69a0748b89298-768x432.jpeg",
+    "bullets": [
+      "Chef Douglass Williams will open La Tavernetta in East Boston's former The Smoke Shop BBQ space, planned for spring 2026.",
+      "Salt & Straw ice cream is expanding to a second New England location in Seaport, set to open late 2026.",
+      "Sorella Cucina Toscana has opened in Burlington, offering Italian cuisine with dishes like lobster gnocchi and veal osso bucco."
+    ]
+  },
+  {
+    "title": "Patriots still deciding what former defensive coordinator Terrell Williams&#8217;s role will be",
+    "url": "https://www.boston.com/sports/new-england-patriots/2026/02/26/patriots-terrell-williams-update-defensive-coorinator-zak-kuhr-comments/",
+    "author": "Khari A. Thompson",
+    "section": "Sports",
+    "published": "2026-02-26T16:59:05.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Terrell-Williams-Patriots-1-69a078c2870c1-768x432.jpg",
+    "bullets": [
+      "Terrell Williams will remain with the Patriots in a yet-to-be-defined high-ranking role under coach Mike Vrabel.",
+      "Williams missed part of last season due to prostate cancer, leading to Zak Kuhr taking over as interim defensive coordinator.",
+      "Kuhr has been named the permanent defensive coordinator after helping the Patriots win 14 of their last 16 games."
+    ]
+  },
+  {
+    "title": "&#8216;Jeopardy!&#8217; contestants struggled with a Boston category. Can you beat them?",
+    "url": "https://www.boston.com/culture/entertainment/2026/02/26/jeopardy-boston-category/",
+    "author": "Kevin Slane",
+    "section": "Culture",
+    "published": "2026-02-26T16:58:01.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/TV_Jeopardy_62232-69820fd2468c1-768x432.jpg",
+    "bullets": [
+      "'Jeopardy!' contestants answered three out of five questions correctly in the 'Boston Space' category on February 23, 2026.",
+      "The $800 and $1000 clues about Faneuil Hall and Back Bay resulted in triple stumpers with no contestant answers.",
+      "One contestant mistakenly identified Boston Common as Harvard Yard for the $600 question about a 50-acre pentagon."
+    ]
+  },
+  {
+    "title": "What we get wrong about sex, love, and monogamy",
+    "url": "https://www.boston.com/love-letters/arts/2026/02/26/what-we-get-wrong-about-sex-love-and-monogamy/",
+    "author": "Meredith Goldstein",
+    "section": "Love Letters",
+    "published": "2026-02-26T16:57:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/aaaaaa-69a0793784c4a-768x432.jpg",
+    "bullets": [
+      "Kinsey Institute director Justin Garcia discusses intimacy, 'slow love,' and modern relationships on the Love Letters podcast.",
+      "Garcia's book, 'The Intimate Animal,' explores social and sexual monogamy as distinct mechanisms impacting relationships.",
+      "'Slow love' describes young people's cautious and prolonged approach to relationships, differing from previous generations."
+    ]
+  },
+  {
+    "title": "Tom Brady calls FIFA president &#8216;man of the people&#8217; ahead of 2026 World Cup",
+    "url": "https://www.boston.com/sports/morning-sports-update/2026/02/26/tom-brady-calls-fifa-president-man-of-the-people-ahead-of-2026-world-cup/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-02-26T16:51:18.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Tom-Brady-FIFA-Infantino-WCup_Draw_Soccer_59448-69a066ae6a64b-768x432.jpg",
+    "bullets": [
+      "Tom Brady praises FIFA president Gianni Infantino as 'a man of the people' despite criticism from local fans and organizers.",
+      "Brady participated in the FIFA World Cup draw, expressing excitement for the increased inclusion with 48 participating countries.",
+      "Infantino's actions, including participation in controversial events, have raised questions about his alignment with common soccer fans."
+    ]
+  },
+  {
     "title": "&#8216;We just do it&#8217;: Massachusetts plow drivers recount 24-hour shift during blizzard",
     "url": "https://www.boston.com/news/local-news/2026/02/26/massachusetts-plow-drivers-blizzard/",
     "author": "Annie Jonas",
@@ -7,9 +85,9 @@
     "published": "2026-02-26T16:34:13.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackiblizzard358-699f59dd93136-768x432.jpg",
     "bullets": [
-      "Massachusetts plow drivers worked 24-hour shifts to clear snow after a Feb. 23 blizzard dropped up to 3 feet statewide.",
-      "Supply shortages of ice melt and equipment issues complicated snow removal efforts in areas like Weymouth and Boston.",
-      "Plow crews faced tough shifts due to severe weather, yet remained committed to keeping roads open and assisting the community."
+      "Massachusetts plow drivers worked 24-hour shifts following a Feb. 23 blizzard that dropped up to 3 feet of snow.",
+      "Supply shortages and equipment repairs complicated snow removal efforts across Southeast Massachusetts, with snow crews operating under challenging conditions.",
+      "Plow drivers emphasized community support and exhaustion, highlighting dedication to clear streets and provide access amid extreme weather."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-02-26T16:08:43.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2022/12/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_23_BostonGlobe.com_Business_Images_AdobeStock_71289049-63a4591448826-scaled.jpeg",
     "bullets": [
-      "Four people, including a Boston man and three from Florida, were charged with conspiracy to commit wire fraud in a COVID-19 relief scam.",
-      "The group allegedly obtained $7 million by submitting fraudulent Paycheck Protection Program applications and collecting kickbacks from ineligible borrowers.",
-      "Jean-Jacques and Pierre face additional charges for conspiracy to commit wire and bank fraud in a separate mortgage and lease scheme."
+      "Lorne Johnson, Sniders Jean-Jacques, Tanya Pierre, and Ashley Spike charged in $7 million PPP fraud scheme.",
+      "Defendants allegedly submitted false PPP applications, securing loans for unqualified borrowers and creating fake tax documents.",
+      "Jean-Jacques and Pierre face additional charges for a separate mortgage fraud scheme."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-02-26T15:42:34.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/N25AVB5RCAQ5ZNS25FOWWSEASU-699f094ea2696-768x432.jpg",
     "bullets": [
-      "The MBTA will suspend Orange Line service between Back Bay and Forest Hills for nine days starting February 28.",
-      "Free shuttle buses and commuter rail service will be available, potentially adding 30 minutes to travel times for riders.",
-      "The shutdown supports signal upgrades, replacing analog systems with digital infrastructure to enhance efficiency and reliability."
+      "The MBTA will suspend Orange Line service between Back Bay and Forest Hills from February 28 to March 8.",
+      "Free shuttle buses and fare-free commuter rail service will be available during the nine-day Orange Line shutdown.",
+      "The shutdown supports ongoing upgrades replacing the Orange Line's analog signal system with new digital infrastructure."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-02-26T15:30:05.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Untitled-design-20-69a04ff1bf29d-768x432.png",
     "bullets": [
-      "Brendan L. Rogers, 45, was found dead in a wooded area off the Fore River after going missing Monday.",
-      "Rogers disappeared during a nor’easter that brought over 18 inches of snow to Weymouth, Massachusetts.",
-      "Weymouth Police, assisted by state and environmental police, found Rogers's body without any signs of foul play."
-    ]
-  },
-  {
-    "title": "68-year-old man pronounced dead after reported neighbor dispute in Middleborough",
-    "url": "https://www.boston.com/news/local-news/2026/02/26/68-year-old-man-pronounced-dead-after-reported-neighbor-dispute-in-middleborough/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-02-26T15:22:23.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2025/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-6-67dc68d4f3751-scaled.jpg",
-    "bullets": [
-      "A 68-year-old man was pronounced dead after a reported neighbor dispute at 21 School St. in Middleborough.",
-      "Authorities arrested another man at the scene, charging him with assault and battery on a police officer.",
-      "The Massachusetts State Police and Middleborough Police are investigating; the death cause is pending from the medical examiner."
-    ]
-  },
-  {
-    "title": "Here&#8217;s Dave Epstein on what to expect — generally — this March",
-    "url": "https://www.boston.com/weather/local-news/2026/02/26/boston-ma-march-weather/",
-    "author": "David Epstein",
-    "section": "Weather",
-    "published": "2026-02-26T14:57:03.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackiblizzard1656-69a05ebf57d12-768x432.jpg",
-    "bullets": [
-      "March in Boston will start with one last Arctic air burst, feeling like winter.",
-      "The first week of March may bring more snow due to a possible storm system.",
-      "Second week of March is anticipated to be milder, potentially reaching temperatures of 60 degrees or higher."
-    ]
-  },
-  {
-    "title": "Third victim reportedly dies after Pawtucket ice rink shooting",
-    "url": "https://www.boston.com/news/crime/2026/02/26/third-victim-reportedly-dies-after-pawtucket-ice-rink-shooting/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-02-26T05:03:42.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanshooting7met-699fcd0b8fea0-768x432.jpg",
-    "bullets": [
-      "Gerald Dorgan, 75, died after being hospitalized for injuries from the February 16 shooting at Dennis M. Lynch Arena.",
-      "The shooter, Robert Dorgan, attacked his ex-wife and family members in a targeted dispute before dying by suicide.",
-      "A GoFundMe page supports surviving family members Ava Dorgan and a high school senior after the incident."
-    ]
-  },
-  {
-    "title": "Cat saved after days stuck in a tree following the blizzard that blanketed Rhode Island",
-    "url": "https://www.boston.com/news/local-news/2026/02/25/cat-saved-after-days-stuck-in-a-tree-following-the-blizzard-that-blanketed-rhode-island/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-02-26T04:17:19.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/IMG_3618-699fc490ba6d4-768x432.jpg",
-    "bullets": [
-      "Matt Lyons rescued cat Pixie from a 50-foot tree after Rhode Island's record blizzard.",
-      "The cat was stuck for two days; emergency services advised seeking tree services for help.",
-      "Neighbor Heather MacKinnon shared the situation on Nextdoor, leading Lyons to climb and save Pixie."
-    ]
-  },
-  {
-    "title": "4 questions facing Bruins as they return from Olympic break",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/02/25/boston-bruins-questions-storylines-trade-deadline-nhl-roster-stanley-cup-playoffs/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-02-26T03:22:33.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN111125Bruins-Leafs_SPT13-699f8e5f8de29-768x432.jpg",
-    "bullets": [
-      "Boston Bruins resume play Thursday against Columbus Blue Jackets after a three-week Olympic break.",
-      "Bruins hold second Wild Card spot with a 32-20-5 record and face 25 games to end the season.",
-      "Team's focus includes improving penalty kill and potential trades before March 6 trade deadline."
-    ]
-  },
-  {
-    "title": "Fire erupts at MCI-Norfolk prison, no major injuries reported",
-    "url": "https://www.boston.com/news/local-news/2026/02/25/fire-erupts-at-mci-norfolk-prison-no-major-injuries-reported/",
-    "author": "Darin Zullo",
-    "section": "News",
-    "published": "2026-02-26T02:52:25.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/mcinorfolk-699fb1abdf97a-768x432.jpg",
-    "bullets": [
-      "Fire broke out in MCI-Norfolk's housing unit, quickly extinguished, no major injuries reported.",
-      "Three incarcerated individuals treated for smoke inhalation; staff member went to hospital as precaution.",
-      "Norfolk Fire Department responded at 1:30 p.m.; cause of fire remains under investigation."
+      "Brendan L. Rogers, 45, was found dead in a wooded area near the Fore River after going missing during a blizzard.",
+      "Rogers was last seen on foot leaving his Weymouth home Monday morning with no foul play suspected in his death.",
+      "An extensive search involved multiple police units, with authorities expressing condolences to Rogers's family and friends."
     ]
   }
 ]
