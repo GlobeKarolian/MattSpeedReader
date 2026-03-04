@@ -1,5 +1,83 @@
 [
   {
+    "title": "Bucket truck overturns into oncoming traffic; worker seriously injured",
+    "url": "https://www.boston.com/news/local-news/2026/03/04/bucket-truck-overturns-into-oncoming-traffic-worker-seriously-injured/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-04T19:30:56.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-6-67dc68d4f3751-scaled.jpg",
+    "bullets": [
+      "A bucket truck overturned into oncoming traffic on Memorial Drive, Cambridge, injuring a worker seriously.",
+      "The injured worker, in the bucket at the time, was hospitalized; their identity remains undisclosed.",
+      "Memorial Drive remains closed for several hours for recovery and investigation by OSHA and State Police."
+    ]
+  },
+  {
+    "title": "Healey congratulates WHOOP on plans to expand, add 600 jobs",
+    "url": "https://www.boston.com/news/business/2026/03/04/healey-congratulates-whoop-on-plans-to-expand-add-600-jobs/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-03-04T19:15:43.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_daviswhoop1-69a8815cd0601-768x432.jpg",
+    "bullets": [
+      "WHOOP plans to add 600 jobs, with most based at its Kenmore Square headquarters in Boston.",
+      "Governor Maura Healey applauded WHOOP's expansion, highlighting Massachusetts as a hub for innovation and talent.",
+      "Founded by Will Ahmed, WHOOP offers health monitoring memberships and is expanding globally with $400M in venture backing."
+    ]
+  },
+  {
+    "title": "Here&#8217;s the Eagles&#8217; reported asking price for a Patriots A.J. Brown trade",
+    "url": "https://www.boston.com/sports/new-england-patriots/2026/03/04/heres-the-eagles-reported-asking-price-for-a-patriots-a-j-brown-trade/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-03-04T19:11:29.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/AJ-Brown-Trade-Patriots-Eagles_Cowboys_Football_09833-69a87ef8e368d-768x432.jpg",
+    "bullets": [
+      "Eagles' asking price for A.J. Brown involves a potential first-round and second-round pick deal.",
+      "A.J. Brown recorded 78 catches, 1,003 yards, and seven touchdowns during the 2025 season.",
+      "Mike Vrabel's past connection to A.J. Brown could influence Patriots' trade negotiations."
+    ]
+  },
+  {
+    "title": "Here are the Mass. snow totals from Tuesday&#8217;s wintry mix",
+    "url": "https://www.boston.com/weather/local-news/2026/03/04/here-are-the-mass-snow-totals-from-tuesdays-wintry-mix/",
+    "author": "Peter Chianca",
+    "section": "Weather",
+    "published": "2026-03-04T19:10:19.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner030326METROweather940-69a880b1582ac-768x432.jpg",
+    "bullets": [
+      "Several Massachusetts towns reported over 6 inches of snow from Tuesday's fast-moving storm.",
+      "Freezing rain followed the snow, with Haverhill receiving 0.1 inches and Sterling 0.13 inches.",
+      "Reported snow totals included 6.5 inches in SW Northfield and 6 inches in Warwick."
+    ]
+  },
+  {
+    "title": "The best movies on Netflix right now (March 2026)",
+    "url": "https://www.boston.com/culture/streaming/2026/03/04/best-movies-on-netflix-march-2026/",
+    "author": "Kevin Slane",
+    "section": "Culture",
+    "published": "2026-03-04T18:50:52.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/the-lego-movie-streaming-on-netflix-69a878203b658-768x432.jpg",
+    "bullets": [
+      "Netflix's best movies list includes 'The Lego Movie,' 'Misery,' and 'Zombieland' for March 2026.",
+      "Genres covered on the list include drama, comedy, horror, action, documentary, and family movies.",
+      "'Erin Brockovich,' 'Ex Machina,' and 'The Irishman' are highlighted as top drama picks on Netflix."
+    ]
+  },
+  {
+    "title": "After losing her brother to suicide, she&#8217;s running Boston to help others feel less alone",
+    "url": "https://www.boston.com/community/boston-marathon/2026/03/04/jen-hoye-samaritans/",
+    "author": "Autumn Sloboda",
+    "section": "Community",
+    "published": "2026-03-04T18:47:22.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_6615-1-69a865d3e5be0-768x432.jpg",
+    "bullets": [
+      "Jen Hoye is running the Boston Marathon in memory of her brother Teddy, who died by suicide in 2017.",
+      "Hoye, 53, from Taunton, runs to support Samaritans and their work with the 988 crisis lifeline and suicide loss survivors.",
+      "She dedicates the last mile of the marathon to Teddy, making the race deeply personal and meaningful."
+    ]
+  },
+  {
     "title": "Residents voice frustrations with snow removal during City Council hearing",
     "url": "https://www.boston.com/news/local-news/2026/03/04/residents-voice-frustrations-with-snow-removal-during-city-council-hearing/",
     "author": "Ross Cristantiello",
@@ -7,9 +85,9 @@
     "published": "2026-03-04T18:12:46.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter02272026snowfarm3-69a867ca1c46b-768x432.jpg",
     "bullets": [
-      "Residents and City Council members expressed frustration over Boston's snow removal efforts after major winter storms in 2026.",
-      "Concerns included uncleared sidewalks and bus stops, hindering accessibility for people with disabilities and creating safety issues.",
-      "Officials discussed proposals for improving snow removal, including using snow melting machines and establishing a volunteer 'snow corps'."
+      "Residents expressed frustration with Boston's snow removal efforts during a City Council hearing following two major snowstorms.",
+      "Complaints focused on inadequate sidewalk clearing, impacting people with disabilities and leaving curb cuts blocked by snowbanks.",
+      "The city considered options like purchasing snow melting machines and creating a volunteer 'snow corps' to assist during storms."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-03-04T17:57:12.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Dunkin_Donuts_25078-699e190716843-768x432.jpg",
     "bullets": [
-      "Health Secretary RFK Jr. criticized Dunkin' and Starbucks over high-sugar drinks at a rally in Austin, Texas.",
-      "Gov. Maura Healey responded to RFK Jr.'s comments by sharing a meme supporting Dunkin's iconic status in Massachusetts.",
-      "Social media reacted with humor, referencing New England's revolutionary history and emphasizing regional loyalty to Dunkin'."
+      "RFK Jr. criticized Dunkin' for high sugar content in drinks during an 'Eat Real Food' rally in Austin, Texas.",
+      "Governor Maura Healey responded humorously to Kennedy's remarks, sharing a Dunkin' meme saying 'come and take it.'",
+      "Kennedy's criticism prompted social media reactions with references to New England's revolutionary history and a recent Dunkin' campaign."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-03-04T17:49:37.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_IMG_6795-69a8699b942ac-768x432.jpeg",
     "bullets": [
-      "Stats Bar & Grille in South Boston is closing at the end of March, with plans to reopen in 2027.",
-      "The new Stats 2.0 will be part of a mixed-use development at its current Dorchester Street location.",
-      "The redeveloped building will feature 15 residential units and a two-story restaurant housing the new Stats."
+      "Stats Bar & Grille in South Boston is closing at the end of March but plans to reopen in 2027.",
+      "The new Stats location will be part of a five-story, mixed-use development on Dorchester Street.",
+      "Owned by Andrew and Jim Statires, the revamped bar will occupy a two-story space, pending construction outcomes."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-03-04T17:49:33.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/ExteriorMarqueeShot_HighResColorChanged-69a6fd7683011-768x432.jpg",
     "bullets": [
-      "Parker's Restaurant at Omni Parker House in Boston is known for JFK's 1953 proposal to Jacqueline Bouvier.",
-      "Martin's Tavern in Washington, D.C., also claims JFK proposed to Jackie there, both spots marked by plaques.",
-      "Omni Parker House, established in 1855, underwent a $65 million renovation in 2025, drawing visitors for its Kennedy ties."
-    ]
-  },
-  {
-    "title": "She&#8217;s running her fifth Boston Marathon in support of Dana-Farber",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/04/amanda-bathory-dana-farber/",
-    "author": "Autumn Sloboda",
-    "section": "Community",
-    "published": "2026-03-04T17:26:55.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-at-11.20.21-AM-69a5b8d0ade6d-768x432.png",
-    "bullets": [
-      "Amanda Bathory, 45, from Auburndale, runs her fifth Boston Marathon supporting Dana-Farber Cancer Institute in 2026.",
-      "Bathory runs the marathon to honor her late mother and supports cancer research and patient care initiatives.",
-      "She sees the marathon as a personal journey, transforming grief into purpose and supporting those affected by cancer."
-    ]
-  },
-  {
-    "title": "A rat race to the rescue: MSPCA-Angell seeks homes after 163 rodents surrendered",
-    "url": "https://www.boston.com/news/local-news/2026/03/04/a-rat-race-to-the-rescue-mspca-angell-seeks-homes-after-163-rodents-surrendered/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-04T16:35:22.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/There-are-dozens-of-rats-available-for-adoption-at-MSPCA-Angell-shelters-credit-MSPCA-Angell-69a8389144b5d-768x432.jpeg",
-    "bullets": [
-      "MSPCA-Angell seeks homes for 163 rats surrendered from a home in Essex County, its largest such case in five years.",
-      "53 rats remain with MSPCA-Angell for adoption, while others were dispersed to shelters in Massachusetts and New Hampshire.",
-      "The rat surrender has stretched resources, but MSPCA-Angell emphasizes care and adoption over traditional cats and dogs."
-    ]
-  },
-  {
-    "title": "&#8216;Nobody wants to see this&#8217;: Knicks fan Rich Eisen&#8217;s rant about the Celtics",
-    "url": "https://www.boston.com/sports/morning-sports-update/2026/03/04/knicks-fan-rich-eisens-rant-about-the-celtics/",
-    "author": "Hayden Bird",
-    "section": "Sports",
-    "published": "2026-03-04T16:19:18.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Rich-Eisen-Celtics-Rant-Video-69a84ac9513aa-768x432.jpg",
-    "bullets": [
-      "Rich Eisen, a Knicks fan, expressed frustration at the Celtics' success despite their roster changes and Tatum's injury.",
-      "The Celtics recently defeated the Bucks 108-81, showcasing strong performances even without Jaylen Brown or Jayson Tatum.",
-      "Eisen humorously lamented that 'nobody wants to see' the Celtics succeed, noting his son's Boston sports fandom."
-    ]
-  },
-  {
-    "title": "Boston 25 News reporter Drew Karedes leaves after nine years",
-    "url": "https://www.boston.com/news/local-news/2026/03/04/boston-25-news-reporter-drew-karedes-leaves-after-nine-years/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-04T16:09:09.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/Untitled-design-5-69a85530c9456.jpg",
-    "bullets": [
-      "Drew Karedes announced his departure from Boston 25 News after nine years via social media.",
-      "Karedes began his career 19 years ago in Green Bay, Wisconsin, and joined Boston 25 in March 2017.",
-      "During his tenure, he reported on various topics including local crime, traffic incidents, and quality-of-life issues."
-    ]
-  },
-  {
-    "title": "12 vehicles involved in series of crashes on I-95 ramp in Danvers",
-    "url": "https://www.boston.com/news/local-news/2026/03/04/12-vehicles-involved-in-series-of-crashes-on-i-95-ramp-in-danvers/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-04T15:43:39.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "12 vehicles were involved in a series of crashes on I-95 ramp in Danvers, caused by icy conditions.",
-      "Three adults sustained back injuries and were taken to local hospitals for evaluation, state police reported.",
-      "Massachusetts Department of Transportation treated the roadway; the ramp was reopened Wednesday morning."
-    ]
-  },
-  {
-    "title": "2 people, including child, hit by car in Dorchester",
-    "url": "https://www.boston.com/news/local-news/2026/03/04/2-people-including-child-hit-by-car-in-dorchester/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-04T15:41:12.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-9.45.38-AM-69a845a4f4015.png",
-    "bullets": [
-      "An adult and a child were hit by a car in Dorchester Tuesday night, police reported.",
-      "The incident occurred near Mora and Washington streets at approximately 7 p.m., according to Boston Police.",
-      "Both individuals were taken to a local hospital with minor injuries; the driver stayed at the scene."
+      "Parker's Restaurant at Omni Parker House in Boston claims JFK proposed to Jacqueline Bouvier at Table 40 in 1953.",
+      "A conflicting claim exists from Martin's Tavern in Washington, D.C., also marking a proposal site with a plaque.",
+      "Omni Parker House, opened in 1855, is the oldest continuously operating hotel in the U.S., with strong JFK ties."
     ]
   }
 ]
