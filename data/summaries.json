@@ -1,5 +1,83 @@
 [
   {
+    "title": "These were Boston’s most popular dog names in 2025",
+    "url": "https://www.boston.com/community/local-news/2026/03/05/top-boston-dog-names/",
+    "author": "Autumn Sloboda",
+    "section": "Community",
+    "published": "2026-03-05T14:27:55.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/S6UGFSFCEYGUDWPUMRE73H6PHE-69a8857b3a519-768x432.jpg",
+    "bullets": [
+      "Luna was the most popular dog name in Boston for 2025, appearing on 137 licenses.",
+      "Labrador retrievers were the most common breed registered in Boston, with 1,961 dogs in 2025.",
+      "Boston dog owners must register pets over six months old by March 31; a $50 fine applies for non-compliance."
+    ]
+  },
+  {
+    "title": "Another wintry mix? Here&#8217;s what meteorologists are saying about the timing and impacts.",
+    "url": "https://www.boston.com/weather/local-news/2026/03/05/another-wintry-mix-boston-meteorologists-timing-impacts/",
+    "author": "Heather Alterisio",
+    "section": "Weather",
+    "published": "2026-03-05T14:26:30.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouse16weather2-69a98f6a53827-scaled.jpg",
+    "bullets": [
+      "A wintry mix of rain, snow, and sleet is expected in southern New England Thursday night into Friday morning.",
+      "The National Weather Service warns of icy conditions impacting Thursday PM and Friday AM commutes, especially in higher elevations.",
+      "Northern Massachusetts may see a few inches of snow, while southeastern areas expect up to an inch of rain."
+    ]
+  },
+  {
+    "title": "One of the best brewery tours in America is in New England, according to USA Today readers",
+    "url": "https://www.boston.com/travel/new-england-travel/2026/03/05/best-brewery-tours-in-america-usa-today-readers/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-03-05T14:24:33.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2019/04/allagashbrewing-768x432.jpg",
+    "bullets": [
+      "Allagash Brewing Co. in Portland, Maine, ranked No. 6 among the best brewery tours by USA Today readers.",
+      "Schilling Beer Co. in Littleton, NH, and Hill Farmstead Brewery in Greensboro Bend, VT, also received recognition.",
+      "Tröegs Independent Brewing in Hershey, PA, was voted the No. 1 brewery tour by USA Today readers."
+    ]
+  },
+  {
+    "title": "Foul play suspected after human remains found in Shirley, police say",
+    "url": "https://www.boston.com/news/local-news/2026/03/05/foul-play-suspected-after-human-remains-found-in-shirley-police-say/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-03-05T14:22:12.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/01/EYX5EI6ZNFADBVKXBC24Y3PWYU-6966caef55055-scaled.jpg",
+    "bullets": [
+      "Human remains found in Shirley near the Maritime Veterans Memorial Bridge; foul play is suspected, officials confirm.",
+      "Discovery made by a group of young people Wednesday evening; investigation led by Middlesex DA and Shirley Police Chief.",
+      "State Police and dive team are assisting with investigation; increased police presence near Veterans Memorial Bridge expected."
+    ]
+  },
+  {
+    "title": "Boston community grapples with fear and protest after U.S.-Israeli strike in Iran",
+    "url": "https://www.boston.com/news/commentary/2026/03/05/boston-community-grapples-with-fear-and-protest-after-u-s-israeli-strike-in-iran/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-05T14:03:58.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/P6B5QCWGHPTJR3BVA3GEDLS7CY-69a87d4c96d02-768x432.jpg",
+    "bullets": [
+      "Boston protests erupted after U.S.-Israeli strike killed Iran's Supreme Leader, sparking international conflict.",
+      "Local Iranian-American residents express fear and anxiety for loved ones in Iran amid escalating tensions.",
+      "Mass. politicians and activists criticize the strike as illegal, urging legislative action against unauthorized warfare."
+    ]
+  },
+  {
+    "title": "5 best new restaurant openings and dining updates in Boston (March 5, 2026)",
+    "url": "https://www.boston.com/food/restaurants/2026/03/05/restaurant-openings-march-5-2026/",
+    "author": "Katelyn Umholtz",
+    "section": "Food",
+    "published": "2026-03-05T13:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Snails-with-Garlic-Butter-2-69a6f33204369-768x432.jpg",
+    "bullets": [
+      "LPM Restaurant will open its first Northeast location in Back Bay, Boston, in the summer of 2026.",
+      "Cafe Noodo, located near TD Garden, offers hand-pulled noodles and customizable boba tea.",
+      "Call Me Honey opens in Cambridge, transforming from Curio Coffee with liège waffles and specialty coffee."
+    ]
+  },
+  {
     "title": "3 reasons for optimism and 3 causes for concern as the Red Sox approach a new season",
     "url": "https://www.boston.com/sports/boston-red-sox/2026/03/05/red-sox-mlb-preview-optimism-concern-roman-anthony-garrett-crochet/",
     "author": "Trevor Hass",
@@ -7,9 +85,9 @@
     "published": "2026-03-05T11:34:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Roman-Anthony-69a88c2928389-768x432.jpg",
     "bullets": [
-      "Roman Anthony is a promising young talent for the Red Sox, expected to advance his game next season.",
-      "Concerns include the setback of young players like Marcelo Mayer and the absence of veteran Alex Bregman.",
-      "The World Baseball Classic offers both bonding opportunities and potential injury risks for Red Sox players."
+      "Red Sox rely on promising young talent like Roman Anthony, who hit .292 with 8 home runs last season.",
+      "Veteran pitcher Garrett Crochet aims for a Cy Young as Red Sox bolster rotation with new additions.",
+      "Team faces potential injuries and chemistry issues during World Baseball Classic participation."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-03-05T03:42:23.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/suspect-69a8ebf07a59c-768x432.png",
     "bullets": [
-      "Police seek suspect in armed robbery involving multiple victims on Jan. 22 in Dorchester's Adams and Whitten Streets area.",
-      "Suspect allegedly approached victims from behind and robbed them at gunpoint in the afternoon incident.",
-      "Public urged to provide information via Boston Police detectives at 617-343-4335 or through CrimeStoppers at 1-800-494-TIPS."
+      "Boston police are seeking a suspect in a Jan. 22 armed robbery in Dorchester.",
+      "The robbery occurred at 4:30 p.m. on Adams and Whitten Streets, involving multiple victims held at gunpoint.",
+      "Police urge anyone with information to contact detectives at 617-343-4335 or provide anonymous tips via CrimeStoppers."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-03-05T03:11:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/https___assets.bwbx_.io_images_users_i4YKw4LYfAGo_iXD0F6c3WnBY_v0_piFq5T3pJF0qzS8rF9LjsWaQ_-1x-1-69a8ebfd2adc6-768x432.jpg",
     "bullets": [
-      "Foxborough officials demand $7.8 million upfront for World Cup public safety from the Boston 2026 host committee.",
-      "The committee and Kraft Sports promise to cover shortfalls, but payments are proposed post-event, not before.",
-      "Foxborough threatens to withhold event licenses over unresolved funding, with a deadline set for March 17."
+      "Foxborough officials may withhold World Cup license due to concerns over $7.8 million required for public safety.",
+      "Boston FIFA World Cup 2026 host committee pledges to cover costs, but won't pay upfront, proposing payment within two days post-event.",
+      "Federal grant for security funding is pending; Massachusetts allocated over $46 million of $625 million total fund."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-03-05T02:33:11.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/wuofficehours-69a8e26e2483f-768x432.jpg",
     "bullets": [
-      "Mayor Michelle Wu will host Boston's inaugural 'office hours' event for residents at the Bruce C. Bolling Building in Roxbury.",
-      "Residents can discuss city issues directly with Wu and interact with staff from over a dozen city departments.",
-      "The event offers city services like voting registration and certificate printing alongside direct communication with city officials."
-    ]
-  },
-  {
-    "title": "7 players Bruins could target at 2026 NHL trade deadline",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/03/04/boston-bruins-trade-rumors-targets-nhl-hockey-don-sweeney/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-05T01:49:52.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Devils_Capitals_Hockey_14380-69a8d88466a03-768x432.jpg",
-    "bullets": [
-      "The Bruins are exploring trades before the Friday NHL trade deadline to bolster their roster for the postseason.",
-      "Potential targets include Robert Thomas, a center from St. Louis, and Simon Nemec, a defenseman from New Jersey.",
-      "Boston is focusing on acquiring players with term, avoiding rentals, to maintain long-term contention prospects."
-    ]
-  },
-  {
-    "title": "Staff member at special needs residential program in Franklin accused of breaking autistic student’s arm",
-    "url": "https://www.boston.com/news/crime/2026/03/04/staff-member-at-special-needs-residential-program-in-franklin-accused-of-breaking-autistic-students-arm/",
-    "author": "Darin Zullo",
-    "section": "News",
-    "published": "2026-03-05T01:26:57.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/norfolkcourt-69a8d5e41d4d1-768x432.jpg",
-    "bullets": [
-      "Saturs Allison, 27, was indicted for allegedly breaking an autistic student's arm at a Franklin group home.",
-      "The incident was allegedly captured on security footage, showing Allison using unauthorized restraint techniques.",
-      "Allison was suspended and faces up to five years in prison if convicted; he's due in court April 7."
-    ]
-  },
-  {
-    "title": "&#8216;Every run is about defying cancer&#8217;: This 18-year-old is running Boston for her childhood friend",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/04/amanda-lewis-dana-farber/",
-    "author": "Carson Lyle",
-    "section": "Community",
-    "published": "2026-03-05T01:03:26.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-7.19.50-PM-69a8d178e4767-768x432.png",
-    "bullets": [
-      "Amanda Lewis, 18, from Charlotte, NC, is running the Boston Marathon with the Dana-Farber Marathon Challenge.",
-      "Lewis runs in memory of her friend Lily, who died from brain cancer five years ago at age 13.",
-      "Her goal is to raise funds for cancer research and finish the marathon in honor of those affected by cancer."
-    ]
-  },
-  {
-    "title": "Fall River man sentenced for raping woman when she refused to take naked pictures of young daughter",
-    "url": "https://www.boston.com/news/local-news/2026/03/04/fall-river-man-sentenced-for-raping-woman-when-she-refused-to-take-naked-pictures-of-young-daughter/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-03-05T00:17:46.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "Elias Rodrigues Dos Santos Mendes, 55, was sentenced to 8-10 years for rape and child pornography in Fall River.",
-      "Dos Santos Mendes pleaded guilty after raping a woman who refused to take nude photos of her 12-year-old daughter.",
-      "He will be deported to Brazil upon sentence completion as he is undocumented, said District Attorney Thomas Quinn."
-    ]
-  },
-  {
-    "title": "What’s next for Patriots’ offense after releasing Stefon Diggs?",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/03/04/new-england-patriots-stefon-diggs-trade-free-agents-rumors-nfl-offseason-aj-brown-alec-pierce/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-04T23:49:33.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Super_Bowl_Football_36126-69a8b9fe09c26-768x432.jpg",
-    "bullets": [
-      "The Patriots are releasing Stefon Diggs, freeing up $17 million in cap space, and seeking a new WR1.",
-      "Alec Pierce and A.J. Brown are potential targets for New England, either through free agency or trade.",
-      "The Patriots could also draft a wide receiver at the 31st overall pick to replace Diggs long-term."
-    ]
-  },
-  {
-    "title": "Each mile is for her miracle: This Granby mom is running the Boston Marathon with her daughter in mind",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/04/brianna-poehler-milesformiracles/",
-    "author": "Carson Lyle",
-    "section": "Community",
-    "published": "2026-03-04T23:00:53.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-7.21.18-PM-69a8b507b1944-768x432.png",
-    "bullets": [
-      "Brianna Poehler from Granby, Mass., is running the 2026 Boston Marathon for Miles for Miracles.",
-      "Her daughter, a liver transplant survivor, received life-saving care at Boston Children's Hospital at 11 months old.",
-      "Poehler aims to raise funds for research and treatments supporting Boston Children's Hospital through her marathon run."
+      "Mayor Michelle Wu to host Boston's first 'office hours' event for residents at Bruce C. Bolling Building, Roxbury.",
+      "Event includes over a dozen city department staff to address questions and offer services like voting registration.",
+      "Wu announced the 'office hours' concept during her inaugural address to improve direct communication with residents."
     ]
   }
 ]
