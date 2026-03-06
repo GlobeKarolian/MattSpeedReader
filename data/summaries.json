@@ -1,5 +1,18 @@
 [
   {
+    "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+    "url": "https://www.boston.com/community/quizzes/2026/03/06/greater-boston-news-quiz-march-6-2026-dunkin-world-cup-patriots/",
+    "author": "Peter Chianca",
+    "section": "Community",
+    "published": "2026-03-06T12:03:39.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Dunkin-embarrassing2-69aa0594a97d9-768x432.jpg",
+    "bullets": [
+      "Boston.com offers a news quiz to test knowledge of recent Greater Boston stories.",
+      "The quiz includes topics like Dunkin', the World Cup, and the Patriots.",
+      "Peter Chianca, an editor since 2019, oversees general assignments and community quizzes."
+    ]
+  },
+  {
     "title": "Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods",
     "url": "https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/",
     "author": "Sana Muneer",
@@ -7,9 +20,9 @@
     "published": "2026-03-06T10:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN071625Brian_McCarter_Mass_and_Cass_MET7-69aa2afd11884-768x432.jpg",
     "bullets": [
-      "Boston experienced a 71% rise in needle pickup requests from 2022 to 2025, still 17% below 2020 levels.",
-      "Jamaica Plain saw a 149% increase in needle pickup requests from 2020 to 2025, the highest among Boston neighborhoods.",
-      "The Back Bay intersection of Blagden and Exeter streets had over 100 needle pickup requests in 2025, up from two in 2020."
+      "Boston saw a 71% increase in needle pickup requests from 2022 to 2025, though requests remain 17% below 2020 levels.",
+      "Jamaica Plain experienced a 149% increase in needle reports from 235 in 2020 to 585 in 2025.",
+      "Fenway-Kenmore reported a 54% decline in needle incidents, marking the largest decrease among Boston neighborhoods over five years."
     ]
   },
   {
@@ -20,9 +33,9 @@
     "published": "2026-03-06T04:35:39.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-10.56.31-PM-69aa508397a3f-768x432.png",
     "bullets": [
-      "Kaity Cimo from Scituate, Mass. will run the Boston Marathon for the Alzheimer's Association.",
-      "Cimo's participation is in honor of her mother, whose Alzheimer’s progression has affected family experiences.",
-      "Cimo reflects on cherished memories of her mother's cooking, symbolized by household kitchen items."
+      "Kaity Cimo from Scituate, Mass., is running the Boston Marathon for the Alzheimer's Association.",
+      "Cimo honors her mother, who has Alzheimer's, through memories of their time cooking together.",
+      "The marathon effort highlights her mother's nurturing spirit, expressed through cooking and family care."
     ]
   },
   {
@@ -33,9 +46,9 @@
     "published": "2026-03-06T04:29:49.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Bruins_Capitals_Hockey_41001-69aa52c667e05-768x432.jpg",
     "bullets": [
-      "The Bruins lost 6-3 to the Nashville Predators, falling to 11-14-4 on the road this season.",
-      "Boston remains the second Wild Card team in the Eastern Conference, with Columbus just one point behind.",
-      "General Manager Don Sweeney contemplates possible trades before the deadline to support a playoff push."
+      "The Boston Bruins lost 6-3 to the Nashville Predators, jeopardizing their playoff bid as the trade deadline nears.",
+      "Boston, currently a Wild Card team in the Eastern Conference, is only one point ahead of Columbus in the standings.",
+      "Bruins GM Don Sweeney considers roster moves at the trade deadline amidst team's inconsistent performance and playoff position."
     ]
   },
   {
@@ -46,9 +59,9 @@
     "published": "2026-03-06T04:23:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IDNGX3NXAKY3AEEIAP7BXPWGWI-1-69aa50b41234c-739x432.jpg",
     "bullets": [
-      "A judge granted Seamus Culleton a stay of removal while his petition for review is resolved, keeping him in Texas custody.",
-      "Culleton's deportation is paused for a second time as he seeks to reunite with his U.S. citizen wife from Boston.",
-      "Culleton overstayed a visa in 2009; his pending green card and work authorization don't grant legal status, per DHS."
+      "Judge David Barron pauses deportation of Seamus Culleton, an Irish man detained in Texas, pending review of his case.",
+      "Culleton was arrested after incident at Home Depot and has been held for six months in an ICE detention camp.",
+      "Culleton, married to a U.S. citizen, has no recent U.S. criminal record but faces old drug-related charges in Ireland."
     ]
   },
   {
@@ -59,9 +72,9 @@
     "published": "2026-03-06T03:47:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/SRLAA7FJ33U65CVBOSP6GVHH3I-69a799173337f-768x432.jpg",
     "bullets": [
-      "George Schubert, 81, and his dog died in a house fire on Granite Street, Foxborough.",
-      "The fire erupted around 3 a.m.; firefighters from Mansfield and Plainville assisted in extinguishing it.",
-      "The fire cause is under investigation; the house sustained serious damage in the blaze."
+      "George Schubert, 81, was identified as the victim of a house fire on Granite Street in Foxborough.",
+      "The fire, which began around 3 a.m. Tuesday, also killed Schubert's dog and caused significant damage.",
+      "Foxborough, Mansfield, and Plainville firefighters extinguished the blaze within an hour; the cause is under investigation."
     ]
   },
   {
@@ -72,9 +85,9 @@
     "published": "2026-03-06T03:37:11.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/treecanopy-69aa2e9917fe7-768x432.jpg",
     "bullets": [
-      "Boston's tree coverage expanded by 151 acres from 2019 to 2024, reaching 28.5% excluding Logan Airport.",
-      "The University of Vermont conducted the assessment using aerial imagery to inform Boston's climate goals.",
-      "Largest canopy gains were in East Boston, Jamaica Plain, South Boston, and West Roxbury, while Hyde Park and Mattapan saw losses."
+      "Boston's tree canopy expanded by 151 acres from 2019 to 2024, increasing citywide coverage to 28.5%.",
+      "East Boston, Jamaica Plain, South Boston, and West Roxbury saw the largest net gains in tree canopy.",
+      "The expansion supports Boston's climate goals, including reducing greenhouse emissions, as outlined in the 2030 Climate Action Plan."
     ]
   },
   {
@@ -85,9 +98,9 @@
     "published": "2026-03-06T03:22:28.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/4ZOPYB2GDACQEIH62VJX3CFNXU-69aa4112274bf-768x432.jpg",
     "bullets": [
-      "Robert Kraft's group agrees to provide funds for $7.8 million security costs for World Cup events at Gillette Stadium.",
-      "Foxborough town officials express dissatisfaction, indicating security concerns are not fully addressed despite recent funding commitments.",
-      "Foxborough Select Board set a March 17 deadline to decide on granting an event license for the World Cup."
+      "Robert Kraft's group committed to cover $7.8 million in security costs for World Cup events at Gillette Stadium.",
+      "Foxborough officials remain unsatisfied, citing unresolved concerns with Boston Soccer 2026's financial plan for security funding.",
+      "Foxborough faces a March 17 deadline to decide on granting an event license for the World Cup matches."
     ]
   },
   {
@@ -98,9 +111,9 @@
     "published": "2026-03-06T03:00:54.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_7929-1-69aa33d41aca2-768x432.jpeg",
     "bullets": [
-      "Two Saints Tavern in Fenway is closing after nearly a decade, citing rising insurance costs as the primary reason.",
-      "The tavern, popular with Northeastern students, was originally named Our House East before becoming Two Saints in 2017.",
-      "Managing partner Chuck Hitchcock noted the decline in socializing among younger generations as a factor in the decision to close."
+      "Two Saints Tavern in Fenway is closing this weekend after nearly a decade of operation.",
+      "Rising insurance costs, especially liquor liability, led to the decision to close the bar.",
+      "The tavern, popular with Northeastern students, started as Our House East and was purchased in 2017."
     ]
   },
   {
@@ -111,22 +124,9 @@
     "published": "2026-03-06T02:22:25.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/FAWY5CMFIT2EEJTFIERWAT3WYA-2-69aa2b3e2d95d-768x432.jpg",
     "bullets": [
-      "Jayson Tatum is listed as 'Questionable' for his potential return against the Dallas Mavericks after a ruptured Achilles tendon.",
-      "Celtics coach Joe Mazzulla faces lineup adjustments as Tatum returns, likely impacting players like Sam Hauser and Baylor Scheierman.",
-      "Tatum's return expected to alleviate scoring pressure on Jaylen Brown while possibly limiting young guards' minutes in upcoming games."
-    ]
-  },
-  {
-    "title": "How did Jayson Tatum&#8217;s Achilles&#8217; tendon recovery unfold? Recapping the Celtics star&#8217;s journey.",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/03/05/jayson-tatum-recovery-timeline-achilles-injury-celtics-comments/",
-    "author": "Khari A. Thompson",
-    "section": "Sports",
-    "published": "2026-03-06T02:03:30.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/WSP7Q7R4KPTNL37SZUWR2UZ35U-69aa2f4065e86-768x432.webp",
-    "bullets": [
-      "Jayson Tatum is expected to return to the Celtics lineup against the Mavericks after a 10-month recovery from Achilles' surgery.",
-      "Tatum underwent successful surgery for a ruptured Achilles' tendon last May and was expected to make a full recovery.",
-      "Tatum showed signs of progress throughout his rehab, including attending practice sessions and working out publicly before his return."
+      "Jayson Tatum is expected to return from an Achilles tendon injury for the Celtics' game against the Dallas Mavericks.",
+      "Tatum's return may alter Celtics' lineup and performance, as he regains form and chemistry with Jaylen Brown.",
+      "Coach Mazzulla must manage Tatum's minutes and impact on younger players like Baylor Scheierman and Hugo Gonzalez."
     ]
   }
 ]
