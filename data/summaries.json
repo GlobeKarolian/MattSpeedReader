@@ -1,5 +1,31 @@
 [
   {
+    "title": "Boston police issue scam warning for fake parking violations",
+    "url": "https://www.boston.com/news/local-news/2026/03/08/boston-police-issue-scam-warning-for-fake-parking-violations/",
+    "author": "Darin Zullo",
+    "section": "News",
+    "published": "2026-03-08T13:04:16.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/03/parkingviolation-69ad6e60a8429-scaled.jpg",
+    "bullets": [
+      "Boston police alert public to fake parking violation notices appearing to be from Boston Municipal Court.",
+      "Scam notices include fake judge names, case numbers, and QR codes for unauthorized payments.",
+      "Residents are urged to verify parking tickets through the city's website or report scams to CrimeStoppers."
+    ]
+  },
+  {
+    "title": "Mansfield man charged with illegally possessing ammunition, prosecutors say",
+    "url": "https://www.boston.com/news/local-news/2026/03/08/mansfield-man-charged-with-illegally-possessing-ammunition-prosecutors-say/",
+    "author": "Morgan Rousseau",
+    "section": "News",
+    "published": "2026-03-08T12:57:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
+    "bullets": [
+      "Michael Kennedy, 48, of Mansfield, was arrested for unlawfully possessing ammunition as a convicted felon, say federal prosecutors.",
+      "Authorities found firearm parts, a 5.7-caliber pistol, and ammunition in Kennedy's home despite his prior felony convictions.",
+      "Kennedy faces up to 15 years in prison and a $250,000 fine if convicted on the current ammunition possession charge."
+    ]
+  },
+  {
     "title": "Here are four under the radar Red Sox players standing out in spring training",
     "url": "https://www.boston.com/sports/boston-red-sox/2026/03/07/mlb-red-sox-spring-training-standouts/",
     "author": "Colin McCarthy",
@@ -7,9 +33,9 @@
     "published": "2026-03-08T04:42:08.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/4PK6IATACVOSOHPTPS6NVEZ2SE-69acfdcf51251-scaled-e1772944865708-768x432.jpg",
     "bullets": [
-      "Braiden Ward leads Red Sox with 12 stolen bases in 12 spring training games, showcasing impressive base-running skills.",
-      "Max Ferguson, displaying versatility, leads Red Sox with 7 RBIs and an OPS of .821, suggesting potential for future call-up.",
-      "Tayron Guerrero stands out in bullpen with six strikeouts in six innings, aiming for a valuable relief role in 2026."
+      "Braiden Ward impresses with 10 hits and leads the Red Sox with 12 stolen bases in spring training.",
+      "Max Ferguson showcases versatility and leads the Red Sox in RBIs with 7, maintaining a .821 OPS in 17 at bats.",
+      "Tayron Guerrero delivers solid relief performance with 6 strikeouts and 1 earned run in 6 innings during spring training."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-03-07T22:28:41.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackibruins828-69aca026374cd-768x432.jpg",
     "bullets": [
-      "Viktor Arvidsson ranks second in 5-on-5 goals for the Bruins with 13, securing his role on the team.",
-      "Bruins GM Don Sweeney opted against trading Arvidsson, valuing his contribution over potential draft picks.",
-      "Arvidsson's expiring contract raises questions, but a short-term extension might stabilize the Bruins' forward group."
+      "Viktor Arvidsson remains with the Bruins despite trade interest, ranking second in 5-on-5 goals this season.",
+      "Coach Marco Sturm supports retaining Arvidsson for his scoring ability, leadership, and potential ongoing role.",
+      "Boston may consider extending Arvidsson's contract to stabilize their forward line amid upcoming roster changes."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-03-07T21:36:46.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/2DCEBY7ASTRN4OSYN2LR26DDGM-69ac9a244c43a-768x432.jpg",
     "bullets": [
-      "Patriots trade center Garrett Bradbury to Bears, potentially moving Jared Wilson to center from left guard.",
-      "Isaac Seumalo, potential top guard free agent, may interest Patriots but brings cost and age considerations.",
-      "Elgton Jenkins, Packers' C/G, could be available if released, offering flexibility and experience for Patriots."
+      "The Patriots are seeking a new left guard after trading center Garrett Bradbury to the Bears.",
+      "Jared Wilson is expected to move from left guard to center, his college position, for the Patriots.",
+      "Potential replacements for the Patriots include Isaac Seumalo, David Edwards, Joel Bitonio, Elgton Jenkins, and draft prospect Emmanuel Pregnon."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-03-07T20:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Annie-main-image-Why-Im-Running-25-69a9e2d502ee4-768x432.png",
     "bullets": [
-      "Jason Perry, from Stockton, California, is running the 2026 Boston Marathon to support Make-A-Wish children.",
-      "Perry has been involved with Make-A-Wish for 15 years, meeting many inspiring Wish children during this time.",
-      "Perry honors both past and present Make-A-Wish children by raising money and awareness through his marathon run."
+      "Jason Perry, from Stockton, California, will run the 2026 Boston Marathon to support Make-A-Wish children.",
+      "Perry has been involved with Make-A-Wish for 15 years, inspired by the resilience of children facing medical challenges.",
+      "The Boston Marathon's 'Why I’m Running' series highlights Perry's mission to bring hope to wish children and their families."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-03-07T19:42:38.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/LPUWGAJE5TMG25P7RECHA5ANZ4-69ac7f62191c9-768x432.jpg",
     "bullets": [
-      "Patriots predicted to sign Seahawks edge rusher Boye Mafe for three years, $48 million, $25 million guaranteed.",
-      "Boye Mafe recorded 44 pressures in 2025, with a 17.4% pass rush win rate, second only to Milton Williams.",
-      "ESPN predicts Patriots will not sign Colts wide receiver Alec Pierce, who may join Chargers with a $80 million deal."
+      "Patriots expected to sign Seahawks edge rusher Boye Mafe in free agency, per ESPN's Dan Graziano.",
+      "Mafe's projected contract reportedly set at three years, $48 million with $25 million guaranteed.",
+      "Patriots unlikely to sign Colts receiver Alec Pierce, who may join Chargers on three-year, $80 million deal."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-03-07T18:40:47.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_GettyImages-2234759889-69ac6bade7e75-768x432.jpg",
     "bullets": [
-      "Jesse Welles performed at the House of Blues in Boston, notable for sarcastic political commentary and country music.",
-      "Welles responded to recent events with songs like 'Sometimes You Bomb Iran' and covered classic tracks like 'Paranoid.'",
-      "The concert featured a mix of original songs and covers, including 'Creep' by Radiohead and 'Take Me Home, Country Roads.'"
+      "Jesse Welles performed at the House of Blues in Boston on March 6, 2026, showcasing his political protest songs.",
+      "The concert included 13 original songs spanning Welles' 14 albums, alongside covers of popular tracks by Black Sabbath and Radiohead.",
+      "Welles' performance mixed country and alt-rock influences, utilizing sharp sarcasm in songs critiquing war, authority, and societal issues."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-03-07T17:41:39.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/HFV2Q4W4RBA3XFFOQJOSEPLN3E-69ac6308eeece-768x432.jpg",
     "bullets": [
-      "Masataka Yoshida hit a home run and had three RBIs in Japan's 8-6 win over Korea in the World Baseball Classic.",
-      "Yoshida's solo home run contributed to a strong inning, with Shohei Ohtani and Seiya Suzuki also homering for Japan.",
-      "Patriots quarterback Drake Maye attended the game in Japan, where his brother Luke Maye plays basketball for the Kobe Storks."
+      "Masataka Yoshida hit a 387-foot home run in Japan's 8-6 World Baseball Classic win over Korea.",
+      "Yoshida went 2-for-4 with three RBIs, helping Japan secure a 2-0 record in pool play.",
+      "Patriots quarterback Drake Maye attended the game at Tokyo Dome, alongside his wife, Ann Michael Maye."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-03-07T17:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Annie-main-image-Why-Im-Running-24-69a9e08444ff5-768x432.png",
     "bullets": [
-      "Makayla Aboujaoude-Quirk, 25, a Roslindale native, will run her first Boston Marathon in 2026.",
-      "She is raising funds for Mass Eye and Ear, credited for diagnosing her two eye conditions.",
-      "Aboujaoude-Quirk works as a teacher in Boston Public Schools and aims to support healthcare research."
-    ]
-  },
-  {
-    "title": "It was overdue, but Tim Legler was promoted to ESPN/ABC’s top NBA broadcast team this season, and he’s thriving",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/03/07/tim-legler-espn-abc-nba-broadcast-team/",
-    "author": "Chad Finn",
-    "section": "Sports",
-    "published": "2026-03-07T16:38:23.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/AJ2NOVYXWAZM2E7BBKABLV5M4E-69abf9f9463a2-768x432.jpg",
-    "bullets": [
-      "Tim Legler, ESPN's longest-tenured NBA analyst since 2000, joins the top NBA broadcast team with Mike Breen and Richard Jefferson.",
-      "Legler, 59, was promoted to ESPN/ABC's premier NBA broadcast spot in August 2025, replacing Doc Rivers and JJ Redick.",
-      "Legler expresses excitement about analyzing Celtics' progress, praising Joe Mazzulla's coaching and anticipating Jayson Tatum's return from injury."
-    ]
-  },
-  {
-    "title": "Cooper Flagg was the Maine story in Jayson Tatum’s return",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/03/07/cooper-flagg-mavericks-celtics-jayson-tatum/",
-    "author": "Chad Finn",
-    "section": "Sports",
-    "published": "2026-03-07T16:32:03.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_LEE030626celticsmav30SPTS-69ac52d63cda3-768x432.jpg",
-    "bullets": [
-      "Jayson Tatum returned to the Celtics 298 days after tearing his Achilles, scoring 15 points in a win over the Mavericks.",
-      "Cooper Flagg made his NBA debut at TD Garden, scoring 16 points for the Mavericks in a 120-100 loss to the Celtics.",
-      "A large contingent from Maine attended to support Flagg, a former high school star in Newport now with Dallas."
+      "Makayla Aboujaoude-Quirk, 25, from Roslindale, is running her first Boston Marathon in 2026.",
+      "She is participating with Team Eye and Ear to support Mass. Eye and Ear, where she's been a patient for 10 years.",
+      "Aboujaoude-Quirk, also a Boston Public Schools teacher, aims to raise funds for the hospital's research and emergency services."
     ]
   }
 ]
