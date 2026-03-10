@@ -1,5 +1,31 @@
 [
   {
+    "title": "She&#8217;s running the Boston Marathon for suicide prevention after the loss of 2 friends",
+    "url": "https://www.boston.com/community/boston-marathon/2026/03/10/kerrie-jacoby-samaritans/",
+    "author": "Carson Lyle",
+    "section": "Community",
+    "published": "2026-03-10T23:07:50.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-6.28.50-PM-69b09b4668445-768x432.png",
+    "bullets": [
+      "Kerrie Jacoby is running the 2026 Boston Marathon to honor two friends lost to suicide.",
+      "Jacoby aims to raise awareness for mental health and support Samaritans' suicide prevention efforts.",
+      "The marathon takes place in April, the same month she lost her friend Tyler to suicide."
+    ]
+  },
+  {
+    "title": "Southbridge woman dies after being rescued from house fire",
+    "url": "https://www.boston.com/news/local-news/2026/03/10/southbridge-woman-dies-after-being-rescued-from-house-fire/",
+    "author": "Carson Lyle",
+    "section": "News",
+    "published": "2026-03-10T22:55:14.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/03/Mass_General_Hospital_08092024-69b094625ac5c.jpg",
+    "bullets": [
+      "A Southbridge woman in her 60s died after being rescued from a house fire on South St. Monday afternoon.",
+      "The victim was moved from Southbridge to UMass Memorial-Harrington Hospital and later died at Mass General.",
+      "Officials reported no working fire alarms in the home; multiple accidental fire causes were found in the kitchen."
+    ]
+  },
+  {
     "title": "New &#8216;call a boomer&#8217; phone line connects young people in Boston to seniors in Nevada",
     "url": "https://www.boston.com/news/local-news/2026/03/10/new-call-a-boomer-phone-line-connects-young-people-in-boston-to-seniors-in-nevada/",
     "author": "Ross Cristantiello",
@@ -7,9 +33,9 @@
     "published": "2026-03-10T21:37:19.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_5527-69b07d2abc0b1-768x432.jpg",
     "bullets": [
-      "Matter Neuroscience launched a 'call a boomer' phone line linking Boston youth with seniors in Reno, Nevada.",
-      "Phones are located near Boston University in Brookline and Sierra Manor, a senior facility in Reno, offering free calls.",
-      "Conversations are recorded for potential social media posts, aiming to bridge generational gaps and reduce loneliness."
+      "Matter Neuroscience launches a 'call a boomer' phone line in Brookline to connect youth with seniors in Reno.",
+      "The project aims to bridge generational gaps through conversations between Boston University students and Nevada seniors.",
+      "Recorded conversations may be shared on social media; initial run scheduled for one month outside Pavement Coffeehouse."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-03-10T20:13:29.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_gas1-69b078af12a93-768x432.jpg",
     "bullets": [
-      "Gas prices in Massachusetts have risen sharply to an average of $3.40 per gallon due to disrupted global oil markets.",
-      "Diesel prices in Massachusetts increased from $4.04 to $4.83 per gallon in one week, affecting transportation costs.",
-      "New England's reliance on imported fuel and lack of local refineries make the region vulnerable to global oil market changes."
+      "Gas prices in Massachusetts have risen sharply due to disruption in the global oil market caused by the conflict with Iran.",
+      "Regular gas in Massachusetts jumped 50 cents to $3.40 per gallon, with diesel prices climbing to $4.83 per gallon.",
+      "Massachusetts' reliance on imported fuel and lack of local refineries leaves the region vulnerable to global oil price fluctuations."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-03-10T19:12:14.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Romeo-Doubs-Packers-69b0668c8285e-768x432.jpg",
     "bullets": [
-      "Patriots agree to a four-year contract with WR Romeo Doubs, worth up to $80 million.",
-      "Doubs joins Patriots from Packers after his best 2025 season: 55 catches, 724 yards, six touchdowns.",
-      "Doubs will support QB Drake Maye after the Patriots cut Stefon Diggs, aiming to boost passing game."
+      "The New England Patriots agree to sign WR Romeo Doubs to a four-year deal worth up to $80 million.",
+      "Doubs recorded 55 catches for 724 yards and six touchdowns with the Packers during the 2025 season.",
+      "The signing follows the Patriots releasing Stefon Diggs, aiming to strengthen their passing game for QB Drake Maye."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-03-10T19:08:53.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/2N7V6PTSKTGZTGSGOMT4YSIYT4-698a069d107f1-768x432.jpg",
     "bullets": [
-      "Airbnb offers $750 to new hosts in World Cup cities, including Boston and Providence, to meet high accommodation demand.",
-      "More than 380,000 soccer fans are expected to use Airbnb during the World Cup, increasing search averages by 80%.",
-      "Boston hosts projected to earn $5,200 on average, second highest after New York/New Jersey for World Cup accommodations."
+      "Airbnb offers $750 bonus to new hosts in World Cup cities, including Boston, for entire home rentals.",
+      "Boston hosts expected to earn $5,200 on average, with World Cup Airbnb demand up 80% this year.",
+      "World Cup matches will occur at rebranded Boston Stadium in Foxborough from June 11 to July 19."
     ]
   },
   {
@@ -59,9 +85,35 @@
     "published": "2026-03-10T19:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Annie-main-image-Why-Im-Running-17-69960e26b26e2-768x432.png",
     "bullets": [
-      "Colin Rowan, 53, from Portland, Oregon, will run the 2026 Boston Marathon for the Alzheimer's Association MA/NH Chapter.",
-      "Rowan's participation honors his mother and grandmother, both of whom have suffered from dementia-related conditions.",
-      "As a Massachusetts native, Rowan's motivation stems from childhood memories of the Boston Marathon in Wellesley."
+      "Colin Rowan, 53, is running the 2026 Boston Marathon to support the Alzheimer's Association MA/NH Chapter.",
+      "Rowan, a Massachusetts native, has familial ties to Wellesley where he watched the marathon as a child.",
+      "Running honors his grandmother and mother, both affected by dementia, and raises awareness for Alzheimer's research."
+    ]
+  },
+  {
+    "title": "Fundraiser launched for Reddit tipster who helped identify suspect in Brown shooting",
+    "url": "https://www.boston.com/news/local-news/2026/03/10/fundraiser-launched-for-reddit-tipster-who-helped-identify-suspect-in-brown-shooting/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-10T18:18:36.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/C5Q7OJQAXVGO5EKUAIHLW2VVUM-69b05a9021e4d-768x432.jpeg",
+    "bullets": [
+      "A fundraiser has been launched for 'John,' a Reddit user who helped identify the Brown shooting suspect.",
+      "John, who is currently homeless, tipped investigators about a Nissan sedan linked to Claudio Neves Valente.",
+      "The fundraiser, organized by Ceremony café's Chris Hoffman and Michelle Cheng, aims to raise $50,000 for John's stability."
+    ]
+  },
+  {
+    "title": "Joe Mazzulla praises Baylor Scheierman’s work ethic",
+    "url": "https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/",
+    "author": "Samantha Genzer",
+    "section": "Sports",
+    "published": "2026-03-10T18:02:58.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/XNALM2N4WX7GBKCLSGZAMVI5P4-69b046fb2aa93-768x432.jpg",
+    "bullets": [
+      "Joe Mazzulla praised Baylor Scheierman's competitiveness and work ethic following the Celtics' 109-98 win over the Cavaliers.",
+      "Scheierman achieved a double-double against the Cavaliers, scoring 16 points and grabbing 10 rebounds in 26 minutes.",
+      "Despite a recent thumb fracture, Scheierman has appeared in 59 games this season, averaging 4.8 points and 3.2 rebounds per game."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-03-10T17:21:01.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-1.13.50-PM-69b05172295ec-768x432.png",
     "bullets": [
-      "Revere Police seek Hispanic male suspect in three indecent assault cases near Beachmont MBTA Station from January to March.",
-      "Incidents occurred at night, between 10 p.m. and 11 p.m., with suspect approaching female victims from behind.",
-      "Police urge residents to check surveillance footage and report any information or suspicious activity to authorities."
-    ]
-  },
-  {
-    "title": "Wu announces millions in new funding for immigrant services",
-    "url": "https://www.boston.com/news/local-news/2026/03/10/wu-announces-millions-in-new-funding-for-immigrant-services/",
-    "author": "Ross Cristantiello",
-    "section": "News",
-    "published": "2026-03-10T17:06:53.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouseXxWuImmigration1-69b04b93c0564-768x432.jpg",
-    "bullets": [
-      "Boston Mayor Michelle Wu announced $4.4 million in new funding to support immigrant services through a public-private partnership.",
-      "Funds will aid immigrants with legal services, basic necessities, mental health resources, and second-language learning, among other supports.",
-      "Boston Foundation, Barr Foundation, and United Way of Massachusetts Bay are key donors, contributing over $3.1 million."
-    ]
-  },
-  {
-    "title": "Report: Flag football game featuring Tom Brady moved out of Saudi Arabia",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/03/10/tom-brady-fanatics-flag-football-classic-saudi-arabia-relocation/",
-    "author": "Khari A. Thompson",
-    "section": "Sports",
-    "published": "2026-03-10T16:40:56.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/XVIAHF6KFBSGBG3BFLX7S2ZINQ-69b043669e07c-768x432.jpg",
-    "bullets": [
-      "The Fanatics Flag Football Classic featuring Tom Brady is moved from Riyadh to Los Angeles due to Middle East tensions.",
-      "The game will be held at BMO Stadium on March 21 and televised on Fox Sports, with Brady and Jalen Hurts as captains.",
-      "US Embassy in Riyadh was hit by Iranian drones; US and Israel are conducting military strikes against Iran."
-    ]
-  },
-  {
-    "title": "Why this Boston Marathon qualifier is running for the American Heart Association",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/10/blake-smith-american-heart-association/",
-    "author": "Annie Jonas",
-    "section": "Community",
-    "published": "2026-03-10T16:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Annie-main-image-Why-Im-Running-16-69960c0de67f4-768x432.png",
-    "bullets": [
-      "Blake Smith, 28 from Church Hill, Tennessee, is running the 2026 Boston Marathon for the American Heart Association.",
-      "Smith was diagnosed with Idiopathic Hypertrophic Subaortic Stenosis at 14 but was later cleared to continue running.",
-      "Raising funds for the American Heart Association is personal for Smith as he appreciates running and his support network."
-    ]
-  },
-  {
-    "title": "Cohasset man charged after allegedly shooting family dog while hunting coyotes from his window",
-    "url": "https://www.boston.com/news/crime/2026/03/10/cohasset-man-charged-after-allegedly-shooting-family-dog-while-hunting-coyotes-from-his-window/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-10T15:48:50.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Untitled-design-6-69b03760cc6c7-768x432.jpg",
-    "bullets": [
-      "Christopher Lucas, 59, charged after allegedly shooting family dog while hunting coyotes from his second-floor window.",
-      "Lucas lacked a valid hunting license and acted outside legal hunting season, according to Cohasset Police.",
-      "Charges include animal cruelty and discharging a firearm near a dwelling; scheduled for arraignment in Quincy District Court."
+      "Revere Police are searching for a suspect in three indecent assaults near Beachmont MBTA Station from January to March.",
+      "The suspect is a Hispanic male, 5-foot-4 to 5-foot-7, with a thin build and short dark hair.",
+      "Residents are urged to check surveillance footage and stay alert; contact Revere Police at 781-286-1212 with information."
     ]
   }
 ]
