@@ -1,5 +1,44 @@
 [
   {
+    "title": "Carjacking suspect shot and killed in Roxbury, police say",
+    "url": "https://www.boston.com/news/local-news/2026/03/12/carjacking-suspect-shot-and-killed-in-roxbury-police-say/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-03-12T15:39:37.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/01/ESKQCCZ72ZTGRZQEA5RWCQRQ5Q-6978f7b519fb3-768x432.jpg",
+    "bullets": [
+      "Boston police shot and killed a carjacking suspect in Roxbury after he accelerated a stolen vehicle towards them.",
+      "The incident occurred near 10 Linwood Square at around 9:45 p.m. following reports of a carjacking.",
+      "The suspect, who remains unidentified, was taken to a hospital where he was pronounced dead; officers are in good condition."
+    ]
+  },
+  {
+    "title": "Colin Dorgan, who lost 3 family members in Pawtucket shooting, scores game-winning goal",
+    "url": "https://www.boston.com/sports/morning-sports-update/2026/03/12/colin-dorgan-who-lost-3-family-members-in-pawtucket-shooting-scores-game-winning-goal/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-03-12T15:22:15.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
+    "bullets": [
+      "Colin Dorgan scored the game-winning goal for Blackstone Valley Co-op in a 3-2 win over Portsmouth.",
+      "Dorgan lost three family members in a February shooting at Dennis M. Lynch Arena in Pawtucket.",
+      "The Blackstone Valley team wears hearts on jerseys to honor Dorgan's mother, brother, and grandfather."
+    ]
+  },
+  {
+    "title": "&#8216;We are in the midst of winter versus spring here&#8217;: Ski resorts are closing operations, reducing lift prices, limiting lifts",
+    "url": "https://www.boston.com/travel/skiing/2026/03/12/ski-resorts-are-closing-operations-reducing-lift-prices-limiting-lifts/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-03-12T14:50:35.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/12/HFPSUSV245GAXGT5XCF5GVOIGM-6931e3e462fcd-768x432.jpg",
+    "bullets": [
+      "Ski resorts in Massachusetts and Vermont closed operations due to heavy rain and wind on Thursday.",
+      "Wildcat Mountain in New Hampshire reduced prices and limited lift operations due to weather conditions.",
+      "Mount Snow and Jay Peak in Vermont adjusted lift operations due to high winds and wet snow conditions."
+    ]
+  },
+  {
     "title": "Two officers rescue woman found asleep amid house fire in Merrimac",
     "url": "https://www.boston.com/news/local-news/2026/03/12/two-officers-rescue-woman-found-asleep-amid-house-fire-in-merrimac/",
     "author": "Ross Cristantiello",
@@ -7,9 +46,9 @@
     "published": "2026-03-12T13:44:44.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_3530-1152x1536.jpg-69b2bb0be90d4-768x432.jpg",
     "bullets": [
-      "Two Merrimac officers rescued a sleeping woman from a house fire early Wednesday morning.",
-      "Officers DeCoste and White entered through a second entrance after smoke blocked their initial entry.",
-      "The fire was reported by Jeff Strogney, who saw flames up to 15 feet tall and dialed 911."
+      "Two officers rescued a woman found asleep during a house fire in Merrimac early Wednesday morning.",
+      "Resident Jeff Strogney saw 10 to 15-foot flames and called 911 after failed attempts to alert occupants.",
+      "Officers Paul DeCoste and Adam White entered and evacuated the woman safely, confirming no others were inside."
     ]
   },
   {
@@ -21,8 +60,8 @@
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
       "A 22-year-old Marshfield man, Mathew McTiernan, died in a three-car crash on I-95 in Canton.",
-      "The crash, involving a Toyota sedan, occurred at 6:20 a.m. and affected two of three traffic lanes.",
-      "Massachusetts State Police from Milton Barracks are investigating the cause of the crash in Canton."
+      "The crash occurred at 6:20 a.m., affecting two of the three lanes of traffic on I-95.",
+      "Massachusetts State Police from the Milton Barracks are investigating the cause of the crash."
     ]
   },
   {
@@ -33,9 +72,35 @@
     "published": "2026-03-12T13:32:23.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/david-bourassa-69b2bdccc764a-768x432.jpg",
     "bullets": [
-      "Baby boomers represented 53% of home sellers and 42% of buyers in 2025, according to National Association of Realtors data.",
-      "Rising housing costs in Massachusetts affect aging residents, with baby boomers now comprising 23% of the state's population.",
-      "Southbridge's Lebanon Hill Housing complex residents face rent hikes up to 70%, following Shorelight Real Estate's acquisition."
+      "In 2025, baby boomers were 53% of home sellers and 42% of buyers, according to the National Association of Realtors.",
+      "Southbridge's Lebanon Hill Housing complex faced a rent increase up to 70%, causing financial strain for fixed-income residents.",
+      "Massachusetts seniors, now 23% of the population, face housing instability and lack of affordable housing options as they age."
+    ]
+  },
+  {
+    "title": "You can now pass through TSA PreCheck at Logan using only your face. Should that make us nervous?",
+    "url": "https://www.boston.com/news/technology/2026/03/12/boston-logan-airport-tsa-precheck-touchless-id/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-03-12T13:27:54.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_06_02_BostonGlobe.com_Business_Images_64d8e4fd3f974576bb456134479216a0-64d8e4fd3f974576bb456134479216a0-0-69b1beac12b29-768x432.jpg",
+    "bullets": [
+      "Boston Logan Airport introduces TSA PreCheck Touchless ID, using facial recognition to streamline security for flyers.",
+      "The voluntary Touchless ID system allows travelers to verify identities through facial comparison without physical IDs.",
+      "Privacy advocates express concern over potential misuse of biometric data and lack of legal protections."
+    ]
+  },
+  {
+    "title": "Kraft Group, Foxborough announce World Cup funding deal for Gillette Stadium security",
+    "url": "https://www.boston.com/sports/sports-news/2026/03/12/kraft-group-foxborough-announce-world-cup-funding-deal-for-gillette-stadium-security/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-03-12T11:36:39.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Gillette-Stadium-World-Cup-2026-Foxborough-Kraft-Deal-69b29bee01f87-768x432.jpg",
+    "bullets": [
+      "Kraft Sports & Entertainment Group and Boston Soccer 2026 agreed to fund security for the 2026 World Cup at Gillette Stadium.",
+      "Foxborough's costs for hosting the World Cup will be fully covered, with Boston Soccer 2026 providing advanced funding.",
+      "Seven World Cup matches are scheduled at Gillette Stadium, starting with Haiti vs. Scotland on June 13, 2026."
     ]
   },
   {
@@ -46,87 +111,22 @@
     "published": "2026-03-12T11:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-10.09.52-AM-69aed4ba6c790-768x432.png",
     "bullets": [
-      "Danica Champion, a Natick ESL teacher, will run her first marathon at the 2026 Boston Marathon.",
-      "Champion is raising funds for Spark Kindness, supporting positive youth development in Natick communities.",
-      "She advocates for addressing bullying and discrimination in schools, emphasizing the importance of kindness and resilience."
+      "Danica Champion, a 38-year-old ESL teacher from Natick, is running her first marathon in the 2026 Boston Marathon.",
+      "Champion is raising funds for Spark Kindness, a Natick organization promoting positive community values and youth empowerment.",
+      "The funds will support programs addressing issues like bullying and racism, aimed at fostering welcoming and supportive environments."
     ]
   },
   {
-    "title": "Developer vows to present more &#8216;options&#8217; for Davis Square tower project amid neighborhood opposition",
-    "url": "https://www.boston.com/news/local-news/2026/03/12/developer-vows-to-present-more-options-for-davis-square-tower-project-amid-neighborhood-opposition/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-03-12T04:07:28.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/09-69b232b75adb6-768x432.jpg",
-    "bullets": [
-      "Copper Mill plans to present new options for a 26-story tower in Davis Square after neighborhood opposition.",
-      "The development includes 502 apartments, with 126 affordable units, and no planned parking, sparking criticism.",
-      "Residents oppose the project's impact on Davis Square businesses, while Copper Mill plans a project office at 235 Elm St."
-    ]
-  },
-  {
-    "title": "He&#8217;s running the Boston Marathon for his 2 nephews with down syndrome",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/11/steven-ponte-mdsc/",
-    "author": "Carson Lyle",
-    "section": "Community",
-    "published": "2026-03-12T02:33:49.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-7.41.00-PM-69b1fdaa795aa-768x432.png",
-    "bullets": [
-      "Steven Ponte from Somerville is running the 2026 Boston Marathon for his nephews with Down syndrome.",
-      "Ponte's twin nephews, Sebastian and Zachary, inspired his participation in honor of Sebastian's memory and Zachary's future.",
-      "Ponte is running to support the Massachusetts Down Syndrome Congress, a crucial support for families with Down syndrome."
-    ]
-  },
-  {
-    "title": "Boston firefighter, National Guard member reportedly injured in strike that killed 6 U.S. soldiers",
-    "url": "https://www.boston.com/news/local-news/2026/03/11/boston-firefighter-national-guard-member-reportedly-injured-in-strike-that-killed-6-u-s-soldiers/",
-    "author": "Darin Zullo",
-    "section": "News",
-    "published": "2026-03-12T02:15:29.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/iranstrike-69b21a2b3515e-768x432.jpg",
-    "bullets": [
-      "Boston firefighter and National Guard Major Mark Garcia was injured in an Iranian drone strike in Kuwait.",
-      "The drone strike killed six U.S. soldiers stationed in Kuwait; Garcia is recovering in a German hospital.",
-      "Gov. Maura Healey discussed Garcia's injuries and the Boston Firefighters union expressed pride in his service."
-    ]
-  },
-  {
-    "title": "Lowell murder trial delayed after lead State Police investigator allegedly causes fatal crash while driving drunk",
-    "url": "https://www.boston.com/news/crime/2026/03/11/lowell-murder-trial-delayed-after-lead-state-police-investigator-allegedly-causes-fatal-crash-while-driving-drunk/",
-    "author": "Darin Zullo",
-    "section": "News",
-    "published": "2026-03-12T02:03:56.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/lowelltrial-69b210943875a-scaled.jpeg",
-    "bullets": [
-      "Lowell murder retrial delayed due to lead investigator's involvement in fatal 2023 crash while allegedly drunk.",
-      "Sgt. Scott Quigley, involved in the crash, investigated the 2020 murder of Tyrone Phet allegedly by the Phan brothers.",
-      "Justice Christopher Barry-Smith postponed the April 27 trial citing unresolved investigations into Quigley's actions."
-    ]
-  },
-  {
-    "title": "Watch: Body cam shows Patriots party at downtown Boston restaurant",
-    "url": "https://www.boston.com/news/local-news/2026/03/11/watch-body-cam-shows-patriots-party-at-downtown-boston-restaurant/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-03-12T01:00:29.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-7.47.04-PM-69b1ff190f873-768x432.png",
-    "bullets": [
-      "Body camera footage shows Patriots partying at Estella restaurant with hookahs and strippers after AFC championship.",
-      "Police found multiple liquor bottles, hookahs, and partially nude women as they responded to after-hours party complaints.",
-      "Restaurant owner Helder George Brandao faces a three-day license suspension for violating smoking and entertainment regulations."
-    ]
-  },
-  {
-    "title": "4 things to know about new Patriots safety Kevin Byard",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/03/11/kevin-byard-nfl-new-england-patriots-things-to-know-mike-vrabel-scouting-report/",
-    "author": "Conor Ryan",
+    "title": "10 predictions for the Red Sox this season",
+    "url": "https://www.boston.com/sports/boston-red-sox/2026/03/12/red-sox-predictions-season-preview-garrett-crochet-roman-anthony/",
+    "author": "Trevor Hass",
     "section": "Sports",
-    "published": "2026-03-12T00:46:02.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Bears_Ravens_Football_00491-69b2042d77de0-768x432.jpg",
+    "published": "2026-03-12T10:23:55.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Garrett-Crochet-69b1d944807ae-768x432.jpg",
     "bullets": [
-      "Patriots sign safety Kevin Byard to a one-year, $9 million deal, adding a veteran leader to their secondary.",
-      "Byard has 36 career interceptions in the NFL and led the league with seven in 2025 while playing for the Bears.",
-      "Byard, 32, has never missed an NFL game due to injury, demonstrating remarkable durability over his ten-year career."
+      "Garrett Crochet is predicted to win the Cy Young Award after finishing second last year with an 18-5 record.",
+      "Trevor Story aims to improve fielding after committing 19 errors last year, the third most among MLB shortstops.",
+      "Red Sox predicted to finish the season 92-70, winning the wild-card series but losing in the American League Division series."
     ]
   }
 ]
