@@ -1,5 +1,31 @@
 [
   {
+    "title": "How a Cambridge home cook built a 1,000-member recipe club around local ingredients",
+    "url": "https://www.boston.com/food/food-news/2026/03/13/cambridge-recipe-club/",
+    "author": "Katelyn Umholtz",
+    "section": "Food",
+    "published": "2026-03-13T18:24:15.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_8600-2-69b44a1f2cc5d-768x432.jpeg",
+    "bullets": [
+      "Cambridge Recipe Club, founded by Andrew Little, focuses on local ingredients and aims to build community through shared recipes.",
+      "The club has over 1,000 members receiving weekly newsletters with recipes proofed by Little's partner, accessible to Greater Boston residents.",
+      "Little encourages community participation by featuring member-contributed recipes and collaborating with local chefs for content."
+    ]
+  },
+  {
+    "title": "Campbell to continue suit against Live Nation, as internal messages show employee mocked customers",
+    "url": "https://www.boston.com/news/local-news/2026/03/13/live-nation-slack-messages-massachusetts-lawsuit/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-03-13T17:47:29.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/V3ESFUYNOJBKFOLSCNAM5VXF3Y-69b445da9d77d-768x432.jpg",
+    "bullets": [
+      "Massachusetts AG Andrea Campbell will proceed with an antitrust lawsuit against Live Nation, despite a DOJ settlement.",
+      "Live Nation employee's derogatory Slack messages about customers are to be used as evidence in the antitrust case.",
+      "Live Nation controls over 265 venues in North America, with Ticketmaster handling 80% of major ticket sales, per Campbell's office."
+    ]
+  },
+  {
     "title": "Healey, Campbell launch portal for reporting ICE misconduct",
     "url": "https://www.boston.com/news/local-news/2026/03/13/healey-campbell-launch-portal-for-reporting-ice-misconduct/",
     "author": "Ross Cristantiello",
@@ -7,9 +33,9 @@
     "published": "2026-03-13T16:33:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryaniced3met-1-69b4343f31f65-768x432.jpg",
     "bullets": [
-      "Gov. Maura Healey and Attorney General Andrea Campbell launched a portal for reporting alleged ICE misconduct in Massachusetts.",
-      "The portal allows residents to submit reports, photos, and videos of possible unlawful activity by federal immigration agents.",
-      "Campbell's office updated a 'know your rights' guide, covering protests, CBP roles, and executive orders on ICE accountability."
+      "Gov. Maura Healey and Attorney General Andrea Campbell launched a portal for reporting ICE misconduct in Massachusetts.",
+      "The portal allows users to submit photos, videos, and reports of alleged ICE misconduct and other federal agents.",
+      "The initiative aims to identify misconduct patterns and support possible legal actions or policy recommendations against federal agents."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-03-13T16:27:26.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Hornets_Celtics_Basketball_32468-69abc534c0466-768x432.jpg",
     "bullets": [
-      "Jaylen Brown criticizes NBA officials for encouraging foul-baiting and rewarding flopping tactics during games.",
-      "Brown expressed frustration following the Celtics' loss to Oklahoma City, highlighting the impact of officiating on game outcomes.",
-      "Despite fouling concerns, Brown scored 34 points and played 41 minutes in the game against the Thunder."
+      "Jaylen Brown criticizes NBA officiating for rewarding flopping and foul-baiting after Celtics' loss to Oklahoma City.",
+      "Brown expressed frustration, suggesting he might need to flop more to get favorable calls in crucial plays.",
+      "Celtics have struggled, losing three of their last five games; they face the Wizards at home on Saturday."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-03-13T16:15:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/2026-osacrs-predictions-69b42a490fe22-768x432.jpg",
     "bullets": [
-      "\"One Battle After Another\" is the frontrunner for Best Picture at the 2026 Oscars, but \"Sinners\" remains a strong contender.",
-      "Michael B. Jordan is predicted to win Best Actor for \"Sinners,\" with Ethan Hawke being the critic's choice for his role in \"Blue Moon.\"",
-      "Paul Thomas Anderson is expected to win Best Director for \"One Battle After Another,\" following wins from major awards bodies."
+      "\"One Battle After Another\" is favored to win Best Picture at the 2026 Oscars, but \"Sinners\" could upset due to ranked choice voting.",
+      "Michael B. Jordan, nominated for \"Sinners,\" is predicted to win Best Actor over Timothee Chalamet and other contenders.",
+      "Paul Thomas Anderson is expected to win Best Director for \"One Battle After Another,\" with stiff competition from Ryan Coogler for \"Sinners.\""
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-03-13T16:06:32.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN031126New-Patriots_SPT29-69b4262003918-768x432.jpg",
     "bullets": [
-      "Kevin Byard joins the New England Patriots on a one-year, $9 million contract as a veteran safety.",
-      "Byard reunites with coach Mike Vrabel, crediting his leadership for the team's recent success.",
-      "Byard aims to strengthen the Patriots' defense, adding to a secondary with rising players like Craig Woodson."
+      "Kevin Byard joined the Patriots signing a one-year, $9 million contract, reuniting with coach Mike Vrabel.",
+      "Byard led the NFL with seven interceptions last season and has never missed a game due to injury.",
+      "Byard aims to boost the Patriots' secondary, alongside Christian Gonzalez and Marcus Jones."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-03-13T16:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-7.43.21-AM-69b003e33f395-650x432.png",
     "bullets": [
-      "Lisa and Benjamin Levine from Needham are running the 2026 Boston Marathon to support Massachusetts General Hospital (MGH).",
-      "The Levines' family has been connected to MGH for over 25 years, with significant personal and professional ties.",
-      "Their marathon participation is a gesture of gratitude for MGH's lifesaving care, including during critical family health crises."
+      "Lisa and Benjamin Levine from Needham are running the 2026 Boston Marathon for Massachusetts General Hospital (MGH).",
+      "The Levines express gratitude to MGH for saving family members' lives and supporting Benjamin's food allergy management.",
+      "The Boston Marathon run honors the efforts of MGH providers, staff, educators, and researchers who improve lives daily."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-03-13T15:58:40.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Untitled-design-9-69b42bb6355a1-768x432.jpg",
     "bullets": [
-      "Open Door Trust of Boston won $25 million in the Massachusetts State Lottery's 'Mega Money' game.",
-      "Trustee Renat Lumpau accepted a one-time payment of $16.25 million before taxes for the winning ticket.",
-      "Cumberland Farms in Turners Falls sold the winning ticket, earning a $50,000 bonus."
+      "Trustee Renat Lumpau accepted a one-time payment of $16,250,000 for a $25 million lottery ticket.",
+      "The winning ticket was purchased at Cumberland Farms on Montague City Road in Turners Falls, Massachusetts.",
+      "Cumberland Farms will receive a $50,000 bonus for selling the winning $25 million ticket."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-03-13T15:32:23.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/2AFDNOZTPOWMO2I2CMPGQBYQ3Y-687966e1bb663-768x432.jpg",
     "bullets": [
-      "Mayor Marc Laredo plans to restore Italian flag colors to Adams Street in Newton, removed last year over safety concerns.",
-      "The removal of the tricolor stripe last summer was due to traffic safety requirements and caused controversy among residents.",
-      "Designated parking lanes on Adams Street now allow for the return of the red, white, and green road markings."
+      "Newton Mayor Marc Laredo will restore Italian flag road lines on Adams Street in Nonantum.",
+      "The red, white, and green markings were previously removed for safety compliance under former Mayor Ruthanne Fuller.",
+      "New parking lane markings allow for the restoration of the symbolic lines by modifying roadway width."
     ]
   },
   {
@@ -96,37 +122,11 @@
     "author": "Beth Treffeisen",
     "section": "News",
     "published": "2026-03-13T15:10:36.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/LHAS23TJCFA7PCEDVVSCLYD3GA-69b4401a523d4-768x432.jpg",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryandanvers1met-69b44ec870641-768x432.jpg",
     "bullets": [
-      "Anthony DeMayo, 18, charged with murder and home invasion in Janet Swallow's death in Danvers.",
-      "DeMayo allegedly confessed, stating he'd wanted to kill someone for a long time, after random attack.",
-      "Police arrested DeMayo carrying a knife with blood, and he's undergoing psychiatric evaluation."
-    ]
-  },
-  {
-    "title": "Revolution announce return of original homegrown player Diego Fagundez on 1-year contract",
-    "url": "https://www.boston.com/sports/morning-sports-update/2026/03/13/revolution-sign-diego-fagundez/",
-    "author": "Hayden Bird",
-    "section": "Sports",
-    "published": "2026-03-13T15:07:54.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/20260312_FagundezSigning_MM_08822-69b424f26acfb-768x432.jpg",
-    "bullets": [
-      "Diego Fagundez returns to New England Revolution on a one-year contract with a club option for 2027.",
-      "Fagundez, 31, began his MLS career with the Revolution at age 16 and is an MLS veteran with 16 seasons.",
-      "Revolution's first homegrown player, Fagundez, adds experience to the team after stints with Austin FC and LA Galaxy."
-    ]
-  },
-  {
-    "title": "Chunks of Storrow Drive and Soldiers Field Road to be closed Sunday night",
-    "url": "https://www.boston.com/news/local-news/2026/03/13/chunks-of-storrow-drive-and-soldiers-field-road-to-be-closed-sunday-night/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-13T13:41:26.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2013_02_03_BostonGlobe.com_Metro_Images_IMG_0119-66ec9b96d9464-768x432.jpg",
-    "bullets": [
-      "Storrow Drive and Soldiers Field Road will be closed from 9 p.m. Sunday to 5 a.m. Monday for tunnel maintenance.",
-      "Detours will reroute traffic from North Harvard Street to Memorial Drive, returning via the Longfellow Bridge in Cambridge.",
-      "Closure coincides with the South Boston St. Patrick's Day parade; MBTA Red Line offers extended service from 10 a.m. to 6 p.m."
+      "Anthony DeMayo, 18, charged with murder and home invasion in Janet Swallow's death in Danvers, pled not guilty.",
+      "DeMayo confessed to planning the murder, claiming he wanted to kill someone for a long time, according to police.",
+      "Judge ordered DeMayo to undergo psychiatric evaluation before the April 1 hearing; held without bail."
     ]
   }
 ]
