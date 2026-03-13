@@ -1,5 +1,57 @@
 [
   {
+    "title": "Feds release teen detained by ICE in Marlborough",
+    "url": "https://www.boston.com/news/local-news/2026/03/13/feds-release-teen-detained-by-ice-in-marlborough/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-03-13T19:13:11.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2025/04/ICE-680b014fc6852-scaled.jpg",
+    "bullets": [
+      "A 14-year-old Brazilian girl detained by ICE in Marlborough was released by a federal judge and reunited with her aunt.",
+      "The Department of Homeland Security claims she was not with legal guardians and rescued from gang affiliates in Massachusetts.",
+      "Attorney Andrew Lattarulo aims to secure her legal residency amid indications the government may attempt deportation."
+    ]
+  },
+  {
+    "title": "With ‘top guys’ struggling, a lineup reshuffle might be needed for Bruins",
+    "url": "https://www.boston.com/sports/boston-bruins/2026/03/13/boston-bruins-nhl-hockey-lines-marco-sturm-pastrnak-lindholm/",
+    "author": "Conor Ryan",
+    "section": "Sports",
+    "published": "2026-03-13T19:05:53.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/7R7336IU3VEU7NKI4JHH7ZPDOY-1-69b4261196562-768x432.jpg",
+    "bullets": [
+      "Boston Bruins' top players are underperforming, threatening the team's playoff hopes as they cling to a wild-card spot.",
+      "Coach Marco Sturm considers reshuffling lines, with success seen from Pastrnak alongside younger players Minten and Khusnutdinov.",
+      "Power play efficiency has dropped, with the team converting only 14.3% of power plays over the last eight games."
+    ]
+  },
+  {
+    "title": "Swiss student came to Boston to study rehab. Now he’s running for trauma survivors.",
+    "url": "https://www.boston.com/community/boston-marathon/2026/03/13/alexis-cogne-stepping-strong-center/",
+    "author": "Autumn Sloboda",
+    "section": "Community",
+    "published": "2026-03-13T19:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-7.56.44-AM-69b0071167b8b-768x432.png",
+    "bullets": [
+      "Alexis Cogne, a Swiss researcher at Harvard Medical School, is running the 2026 Boston Marathon for trauma survivors.",
+      "Cogne aims to raise $10,000 for the Stepping Strong Center at Brigham and Women's Hospital to support trauma rehabilitation.",
+      "Cogne's effort highlights the need for more funding in trauma research and rehabilitation, inspired by a recent Swiss fire tragedy."
+    ]
+  },
+  {
+    "title": "Fire destroys Newbury home, kills pets as family escapes",
+    "url": "https://www.boston.com/news/local-news/2026/03/13/fire-destroys-newbury-home-kills-pets-as-family-escapes/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-13T18:38:29.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Untitled-design-10-69b44b0b47072-768x432.jpg",
+    "bullets": [
+      "A fire destroyed a Newbury home early Friday morning, killing a dog and cat, but residents escaped unharmed.",
+      "The blaze at 49 Fruit St. prompted a second alarm response as additional crews were called to battle the flames.",
+      "Newburyport, Salisbury, and other local fire departments assisted, while police investigate the fire's origin and cause."
+    ]
+  },
+  {
     "title": "How a Cambridge home cook built a 1,000-member recipe club around local ingredients",
     "url": "https://www.boston.com/food/food-news/2026/03/13/cambridge-recipe-club/",
     "author": "Katelyn Umholtz",
@@ -7,9 +59,9 @@
     "published": "2026-03-13T18:24:15.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_8600-2-69b44a1f2cc5d-768x432.jpeg",
     "bullets": [
-      "Cambridge Recipe Club, founded by Andrew Little, focuses on local ingredients and aims to build community through shared recipes.",
-      "The club has over 1,000 members receiving weekly newsletters with recipes proofed by Little's partner, accessible to Greater Boston residents.",
-      "Little encourages community participation by featuring member-contributed recipes and collaborating with local chefs for content."
+      "Andrew Little founded the Cambridge Recipe Club to focus on local ingredients and community-centered cooking in Massachusetts.",
+      "The club, with over 1,000 members, offers weekly newsletters featuring recipes using seasonal local produce.",
+      "Member collaboration is encouraged, with community recipes and input from local chefs enriching the recipe offerings."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2026-03-13T17:47:29.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/V3ESFUYNOJBKFOLSCNAM5VXF3Y-69b445da9d77d-768x432.jpg",
     "bullets": [
-      "Massachusetts AG Andrea Campbell will proceed with an antitrust lawsuit against Live Nation, despite a DOJ settlement.",
-      "Live Nation employee's derogatory Slack messages about customers are to be used as evidence in the antitrust case.",
-      "Live Nation controls over 265 venues in North America, with Ticketmaster handling 80% of major ticket sales, per Campbell's office."
+      "Massachusetts AG Andrea Campbell continues antitrust lawsuit against Live Nation despite DOJ settlement agreement.",
+      "Live Nation's internal Slack messages reveal mocking of customers by employee Ben Baker over VIP ticket sales.",
+      "Live Nation controls over 265 venues in North America, with Ticketmaster handling 80% of primary concert ticketing."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2026-03-13T16:33:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryaniced3met-1-69b4343f31f65-768x432.jpg",
     "bullets": [
-      "Gov. Maura Healey and Attorney General Andrea Campbell launched a portal for reporting ICE misconduct in Massachusetts.",
-      "The portal allows users to submit photos, videos, and reports of alleged ICE misconduct and other federal agents.",
-      "The initiative aims to identify misconduct patterns and support possible legal actions or policy recommendations against federal agents."
+      "Gov. Maura Healey and AG Andrea Campbell launched a portal for reporting ICE misconduct in Massachusetts.",
+      "The portal allows residents to submit photos, videos, and reports of alleged misconduct by federal immigration agents.",
+      "Healey and Campbell, critics of Trump's policies, aim to identify misconduct patterns and inform potential legal action."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2026-03-13T16:27:26.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Hornets_Celtics_Basketball_32468-69abc534c0466-768x432.jpg",
     "bullets": [
-      "Jaylen Brown criticizes NBA officiating for rewarding flopping and foul-baiting after Celtics' loss to Oklahoma City.",
-      "Brown expressed frustration, suggesting he might need to flop more to get favorable calls in crucial plays.",
-      "Celtics have struggled, losing three of their last five games; they face the Wizards at home on Saturday."
+      "Jaylen Brown criticizes NBA officiating for rewarding foul-baiting and flopping after loss to Oklahoma City.",
+      "Brown questions the integrity of the game, feeling pressured to flop to receive favorable calls.",
+      "Celtics' Jaylen Brown played 41 minutes with a game-high 34 points against Oklahoma City."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2026-03-13T16:15:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/2026-osacrs-predictions-69b42a490fe22-768x432.jpg",
     "bullets": [
-      "\"One Battle After Another\" is favored to win Best Picture at the 2026 Oscars, but \"Sinners\" could upset due to ranked choice voting.",
-      "Michael B. Jordan, nominated for \"Sinners,\" is predicted to win Best Actor over Timothee Chalamet and other contenders.",
-      "Paul Thomas Anderson is expected to win Best Director for \"One Battle After Another,\" with stiff competition from Ryan Coogler for \"Sinners.\""
+      "The 2026 Oscars, hosted by Conan O'Brien, will air this Sunday on ABC at 7 p.m.",
+      "Predictions favor 'One Battle After Another' for Best Picture and Michael B. Jordan for Best Actor.",
+      "Paul Thomas Anderson is expected to win Best Director for 'One Battle After Another'."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-03-13T16:06:32.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN031126New-Patriots_SPT29-69b4262003918-768x432.jpg",
     "bullets": [
-      "Kevin Byard joined the Patriots signing a one-year, $9 million contract, reuniting with coach Mike Vrabel.",
-      "Byard led the NFL with seven interceptions last season and has never missed a game due to injury.",
-      "Byard aims to boost the Patriots' secondary, alongside Christian Gonzalez and Marcus Jones."
-    ]
-  },
-  {
-    "title": "&#8216;Our small way of saying thank you&#8217;: A mother-son duo is running the Boston Marathon for MGH",
-    "url": "https://www.boston.com/community/boston-marathon/2026/03/13/lisa-levine-benjamin-levine-mgh/",
-    "author": "Autumn Sloboda",
-    "section": "Community",
-    "published": "2026-03-13T16:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-7.43.21-AM-69b003e33f395-650x432.png",
-    "bullets": [
-      "Lisa and Benjamin Levine from Needham are running the 2026 Boston Marathon for Massachusetts General Hospital (MGH).",
-      "The Levines express gratitude to MGH for saving family members' lives and supporting Benjamin's food allergy management.",
-      "The Boston Marathon run honors the efforts of MGH providers, staff, educators, and researchers who improve lives daily."
-    ]
-  },
-  {
-    "title": "$25M winning lottery ticket sold at Turners Falls convenience store",
-    "url": "https://www.boston.com/news/local-news/2026/03/13/25m-winning-lottery-ticket-sold-at-turners-falls-convenience-store/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-13T15:58:40.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Untitled-design-9-69b42bb6355a1-768x432.jpg",
-    "bullets": [
-      "Trustee Renat Lumpau accepted a one-time payment of $16,250,000 for a $25 million lottery ticket.",
-      "The winning ticket was purchased at Cumberland Farms on Montague City Road in Turners Falls, Massachusetts.",
-      "Cumberland Farms will receive a $50,000 bonus for selling the winning $25 million ticket."
-    ]
-  },
-  {
-    "title": "After prior uproar over removal, new mayor to restore Italian flag road lines to Newton",
-    "url": "https://www.boston.com/news/local-news/2026/03/13/after-prior-uproar-over-removal-new-mayor-to-restore-italian-flag-road-lines-to-newton/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-13T15:32:23.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/2AFDNOZTPOWMO2I2CMPGQBYQ3Y-687966e1bb663-768x432.jpg",
-    "bullets": [
-      "Newton Mayor Marc Laredo will restore Italian flag road lines on Adams Street in Nonantum.",
-      "The red, white, and green markings were previously removed for safety compliance under former Mayor Ruthanne Fuller.",
-      "New parking lane markings allow for the restoration of the symbolic lines by modifying roadway width."
-    ]
-  },
-  {
-    "title": "Student charged in Danvers murder allegedly told police he &#8216;wanted to kill someone for a long time&#8217;",
-    "url": "https://www.boston.com/news/crime/2026/03/13/student-charged-in-danvers-murder-allegedly-told-police-he-wanted-to-kill-someone-for-a-long-time/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-03-13T15:10:36.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryandanvers1met-69b44ec870641-768x432.jpg",
-    "bullets": [
-      "Anthony DeMayo, 18, charged with murder and home invasion in Janet Swallow's death in Danvers, pled not guilty.",
-      "DeMayo confessed to planning the murder, claiming he wanted to kill someone for a long time, according to police.",
-      "Judge ordered DeMayo to undergo psychiatric evaluation before the April 1 hearing; held without bail."
+      "Kevin Byard joins New England Patriots on a one-year, $9 million contract to strengthen their secondary.",
+      "Byard's decision was influenced by reuniting with coach Mike Vrabel, emphasizing Vrabel's leadership capabilities.",
+      "Byard led the NFL with seven interceptions last year and has never missed a game in his 10-year career."
     ]
   }
 ]
