@@ -1,5 +1,44 @@
 [
   {
+    "title": "Impaired Stoneham teen drove 118 mph, fled police, and then crashed, N.H. authorities say",
+    "url": "https://www.boston.com/news/local-news/2026/03/16/impaired-stoneham-teen-drove-118-mph-fled-police-and-then-crashed-n-h-authorities-say/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-16T18:35:27.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-1.25.00-PM-69b84b2055516-768x432.jpg",
+    "bullets": [
+      "An 18-year-old from Stoneham was arrested after driving 118 mph and crashing in New Hampshire.",
+      "The driver fled a police stop, reaching Route 101, before crashing into a retaining wall in Stratham.",
+      "The teen faced multiple charges, including felony reckless conduct and DUI, and was held after refusing bail."
+    ]
+  },
+  {
+    "title": "The ‘World&#8217;s Shortest St. Paddy&#8217;s Day Parade’ is still New England’s nuttiest St. Pat’s fever dream",
+    "url": "https://www.boston.com/culture/off-beat/2026/03/16/the-worlds-shortest-st-paddys-day-parade-is-still-new-englands-nuttiest-st-pats-fever-dream/",
+    "author": "Lauren Daley",
+    "section": "Culture",
+    "published": "2026-03-16T18:18:25.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/03/IMG_7492-69b83a4c2847c-scaled.jpeg",
+    "bullets": [
+      "The 'World’s Shortest St. Paddy’s Day Parade' in Adamsville, Rhode Island is 89 feet long and celebrated its fifth year.",
+      "Approximately 2,000 attendees, more than half the population of Little Compton, participated in the parade, organized by Kinnane Brothers film studio.",
+      "A documentary is in production about the parade's rivalry with Hot Springs, Arkansas, whose parade measures 98 feet."
+    ]
+  },
+  {
+    "title": "Massachusetts ER doctors say long wait times reflect a health system under strain",
+    "url": "https://www.boston.com/news/local-news/2026/03/16/emergency-room-doctors-long-wait-times/",
+    "author": "Annie Jonas",
+    "section": "News",
+    "published": "2026-03-16T18:15:19.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanhospitals9met-69b463b0ebc9e-768x432.jpg",
+    "bullets": [
+      "Massachusetts emergency room doctors cite bed shortages, staffing issues, and primary care gaps for long ER wait times.",
+      "Patients in Massachusetts average over three-hour ER stays, with some reporting waits as long as 30 hours.",
+      "Aging population and hospital capacity issues, worsened by COVID-19, contribute to prolonged ER patient boarding."
+    ]
+  },
+  {
     "title": "Here&#8217;s what meteorologists are saying about heavy rain, damaging winds on Monday",
     "url": "https://www.boston.com/weather/local-news/2026/03/16/boston-ma-heavy-rain-damaging-winds-coming-monday/",
     "author": "Samantha Genzer",
@@ -7,9 +46,9 @@
     "published": "2026-03-16T16:51:37.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/WCRYLD7LTUURI7VE6OU2WLFYSM-69b830a30d6f3-scaled.jpg",
     "bullets": [
-      "National Weather Service reports widespread showers and thunderstorms with 1-3 inches of rain, leading to potential flooding.",
-      "A High Wind Warning is issued for eastern Massachusetts with gusts expected to reach 45-65 mph tonight.",
-      "Meteorologists advise preparations for potential flooding as river levels may rise midweek due to heavy rain."
+      "Meteorologists predict heavy rainfall and possible flooding in Boston, with 1-3 inches of rain expected.",
+      "National Weather Service issues Flood Watches and High Wind Warnings, with gusts predicted to reach 65 mph.",
+      "Residents advised to prepare for potential flooding in low-lying areas as rivers are expected to rise."
     ]
   },
   {
@@ -20,9 +59,9 @@
     "published": "2026-03-16T16:48:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Untitled-design-11-69b823c8c95c6-768x432.jpg",
     "bullets": [
-      "A firefighter suffered cardiac arrest while battling a warehouse fire in Hyde Park, Boston on Sunday night.",
-      "Firefighters responded to the blaze at 1 Westinghouse Plaza, with the fire causing approximately $750,000 in damages.",
-      "The Boston Fire Investigation Unit is investigating the cause of the fire; no other injuries were reported."
+      "A firefighter suffered cardiac arrest while battling a warehouse fire in Hyde Park, Boston, on Sunday night.",
+      "The fire at 1 Westinghouse Plaza caused an estimated $750,000 in damages, according to Deputy Chief Brian Tully.",
+      "The cause of the fire remains under investigation by the Boston Fire Investigation Unit; no other injuries reported."
     ]
   },
   {
@@ -33,9 +72,9 @@
     "published": "2026-03-16T15:29:18.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/TJ-Power-Worcester-Academy-Mass-native-Penn-basketball-NCAA-Tournament-69b81bdf564aa-768x432.jpg",
     "bullets": [
-      "T.J. Power scored 44 points to lead Penn to an 88-84 overtime win over Yale in the Ivy League final.",
-      "Penn's victory over Yale secured an automatic NCAA Tournament bid; Penn will face Illinois as a 14-seed.",
-      "Power transferred from Duke and Virginia to Penn this season and set an Ivy League conference tournament record."
+      "T.J. Power scored 44 points to lead Penn over Yale, earning an NCAA Tournament bid.",
+      "Power set an Ivy League tournament record and hit a game-tying three-pointer to force overtime.",
+      "Penn will face third-seeded Illinois in the NCAA Tournament first round Thursday at 9:25 p.m."
     ]
   },
   {
@@ -46,9 +85,9 @@
     "published": "2026-03-16T14:56:13.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/01/loganplane-697b75ff62e65-768x432.jpeg",
     "bullets": [
-      "Logan Airport experienced over 300 flight delays and cancellations on Monday due to severe weather conditions on the East Coast.",
-      "Massport issued a high wind warning with potential gusts reaching 70 mph, advising passengers to check flight statuses.",
-      "Delta, Southwest, American, and United Airlines are permitting itinerary changes without fees under specific conditions."
+      "Over 300 flights at Logan Airport were delayed or cancelled Monday due to severe East Coast weather.",
+      "Airlines like Delta, American, and United are waiving change fees and allowing itinerary changes for affected passengers.",
+      "Passengers are advised to check their flight status and can use the FlyLogan App for updates on their travel plans."
     ]
   },
   {
@@ -59,9 +98,9 @@
     "published": "2026-03-16T14:41:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Eleven Indian nationals charged in visa fraud scheme involving staged robberies for immigration benefits, says U.S. Attorney's Office.",
-      "Arrests made in Massachusetts; defendants also face charges in Kentucky, Missouri, and Ohio, pending Boston federal proceedings.",
-      "Rambhai Patel and Balwinder Singh organized robberies; Patel sentenced to 20 months, fined $850,000 for his role."
+      "Eleven Indian nationals were charged for allegedly staging robberies to support fraudulent U Visa applications, per the U.S. Attorney's Office.",
+      "Seven arrests occurred in Massachusetts, while others appeared in Kentucky, Missouri, and Ohio; defendants will face Boston federal court proceedings.",
+      "Patel, initially sentenced to prison in 2025, allegedly orchestrated robberies for clerks to falsely claim crime victim status for visas."
     ]
   },
   {
@@ -72,9 +111,9 @@
     "published": "2026-03-16T13:12:21.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "One person was injured in a shooting on Sunday evening in Boston's South End.",
-      "The incident occurred near Washington Street and East Berkeley Street at 7:42 p.m.",
-      "Police have made no arrests yet and the investigation is ongoing."
+      "A person was injured in a South End shooting on Sunday evening near Washington and East Berkeley Streets.",
+      "The victim was taken to a local hospital with non-life-threatening injuries, according to Boston Police.",
+      "Police continue to investigate the incident and have not yet made any arrests."
     ]
   },
   {
@@ -85,48 +124,9 @@
     "published": "2026-03-16T12:20:18.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/WBC_United_States_Baseball_21145-1-69b793cbefd83-768x432.jpg",
     "bullets": [
-      "Roman Anthony helped Team USA win 2-1 against the Dominican Republic with a game-winning home run in the 2026 WBC.",
-      "The 21-year-old outfielder is batting .318 with two home runs and seven RBIs through six games in the World Baseball Classic.",
-      "Anthony played 71 MLB games for the Red Sox in 2025, batting .292 before an injury, and is expected to lead in 2026."
-    ]
-  },
-  {
-    "title": "5 Boston sports moments that just missed out on the Soundbites Bracket",
-    "url": "https://www.boston.com/sports/sports-news/2026/03/16/boston-sports-moments-left-out-of-soundbites-bracket/",
-    "author": "Hayden Bird",
-    "section": "Sports",
-    "published": "2026-03-16T12:07:25.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Bill-Lee-Red-Sox-69b7e571673bf-768x432.jpg",
-    "bullets": [
-      "Rob Gronkowski's 'Yo soy fiesta' quote from 2012 AFC Championship celebration missed inclusion in Boston.com's Soundbites Bracket.",
-      "Bill Belichick's 'I'm not Mona Lisa Vito of the football world' quote during Deflategate narrowly excluded from the bracket.",
-      "Dustin Pedroia's 'Laser show' defense of David Ortiz in 2010 is another notable Boston sports quote left out of the bracket."
-    ]
-  },
-  {
-    "title": "Oscars 2026: The best jokes from Conan O&#8217;Brien&#8217;s monologue",
-    "url": "https://www.boston.com/culture/entertainment/2026/03/15/oscars-2026-conan-obrien-monologue/",
-    "author": "Kevin Slane",
-    "section": "Culture",
-    "published": "2026-03-16T03:26:53.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/conan-obrien-2026-oscars-monologue-69b74a2120370-768x432.jpg",
-    "bullets": [
-      "Conan O'Brien hosted the Oscars for the second year, delivering a mix of high-concept jokes and pre-taped sketches.",
-      "O'Brien's monologue included jabs at Netflix, Timothee Chalamet, and a fictional Oscars hosted by Waymo and Kid Rock.",
-      "Jimmy Kimmel contributed politically charged jokes while presenting, referencing the Melania Trump documentary and CBS."
-    ]
-  },
-  {
-    "title": "Fundraiser: Community remembers Danvers mother, nurse killed in her home",
-    "url": "https://www.boston.com/news/local-news/2026/03/15/fundraiser-community-remembers-danvers-mother-nurse-killed-in-her-home/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-03-16T03:13:53.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/LHAS23TJCFA7PCEDVVSCLYD3GA-69b76869ecc36-768x432.jpg",
-    "bullets": [
-      "Janet Swallow, a 68-year-old nurse from Danvers, was allegedly killed by Anthony DeMayo, an 18-year-old high school senior.",
-      "Police report that DeMayo admitted to planning the attack, breaking into Swallow's home, and stabbing her while she slept.",
-      "A GoFundMe for Swallow's family has raised nearly $50,000, aiming for $65,000 to help with financial burdens after the tragedy."
+      "Roman Anthony hit a crucial home run for Team USA, securing a 2-1 victory over the Dominican Republic in the WBC semifinals.",
+      "In the 2026 World Baseball Classic, Anthony's stats include a .318 average, two home runs, seven RBIs, and a 1.014 OPS.",
+      "Anthony is recognized as a rising star in baseball, earning praise for his skills, work ethic, and impact on the Red Sox and Team USA."
     ]
   }
 ]
