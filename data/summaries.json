@@ -1,5 +1,44 @@
 [
   {
+    "title": "Police seek Mass. vehicle after driver involved in fatal Providence hit-and-run",
+    "url": "https://www.boston.com/news/local-news/2026/03/17/police-seek-mass-vehicle-after-driver-involved-in-fatal-providence-hit-and-run/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-17T16:22:14.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Corliss-1-69b976e8da6ce-768x432.jpg",
+    "bullets": [
+      "Providence Police seek a black Chevrolet Equinox involved in a hit-and-run, registered in Massachusetts.",
+      "At 2:35 a.m. Saturday, a pedestrian, Kevin Chappie, was fatally struck near Corliss Street in Providence.",
+      "Police urge public assistance in locating the driver, asking for tips via 401-243-6279 or 401-243-6285."
+    ]
+  },
+  {
+    "title": "Martha Stewart&#8217;s The Bedford is now open at this New England resort",
+    "url": "https://www.boston.com/food/food-news/2026/03/17/the-bedford-martha-stewart-new-england/",
+    "author": "Katelyn Umholtz",
+    "section": "Food",
+    "published": "2026-03-17T16:14:06.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/HALF_Foxwood_Martha_Stewart_Dining_The_Hostess_dana_gallagher_194_FINAL-69b979d3ad095-768x432.jpg",
+    "bullets": [
+      "The Bedford by Martha Stewart opened at Foxwoods Resort Casino in Connecticut on March 14.",
+      "The 10,000-square-foot restaurant seats 204 guests and serves Martha Stewart's favorite recipes.",
+      "The menu features exclusive dishes for Foxwoods, with breakfast and dinner daily, plus lunch Friday-Sunday."
+    ]
+  },
+  {
+    "title": "Weekend commuter rail disruption will now leak into Fridays",
+    "url": "https://www.boston.com/news/local-news/2026/03/17/weekend-commuter-rail-disruption-will-now-leak-into-fridays/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-03-17T15:56:54.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/5TYAWCKYCLPD5MN3444BX5QHB4-69b96cde1c039-768x432.jpg",
+    "bullets": [
+      "MBTA and Keolis will extend commuter rail shutdowns at North Station to include several Fridays for signal upgrades.",
+      "Train service disruptions are scheduled on weekends of March 20-22, March 27-29, April 10-12, and April 24-27.",
+      "Shuttle buses replace trains on Lowell, Newburyport/Rockport, Haverhill, and Fitchburg Lines during the scheduled outages."
+    ]
+  },
+  {
     "title": "This Massachusetts commute ranks as the most stressful, poll finds",
     "url": "https://www.boston.com/news/local-news/2026/03/17/most-stressful-commute-ranking/",
     "author": "Autumn Sloboda",
@@ -7,9 +46,9 @@
     "published": "2026-03-17T15:51:40.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/AS7XLL7WP6FN6G2HP7GVQ2GGV4-69b9550942962-768x432.jpg",
     "bullets": [
-      "The Zakim Bridge/I-93 North in Boston is ranked as the most stressful commute in Massachusetts, according to a Munley Law poll.",
-      "The Southeast Expressway and I-95/Route 128 in Waltham are also listed as top stress-inducing commutes in Massachusetts.",
-      "The study highlights I-95 as a major source of frustration in New England, affecting drivers in several states."
+      "A poll by Munley Law ranks Zakim Bridge/I-93 North in Boston as Massachusetts' most stressful commute.",
+      "The Southeast Expressway and I-95/Route 128 in Waltham are also high on the list of stressful Massachusetts commutes.",
+      "Boston's traffic issues are comparable to major cities like New York and Los Angeles, highlighting regional infrastructure challenges."
     ]
   },
   {
@@ -20,9 +59,9 @@
     "published": "2026-03-17T15:26:38.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/01/BE4VZIIIE4XAQDP5ZIKR3BGAQY-695868e9da62c-768x432.jpg",
     "bullets": [
-      "Jaylen Brown attended his first St. Patrick's Day parade in South Boston, streaming the event on Twitch.",
-      "Brown enjoyed interacting with fans, receiving chants at the parade similar to those at Celtics games.",
-      "Despite being in Boston for a decade, it was his first parade experience, which he found surreal and enjoyable."
+      "Jaylen Brown attended his first St. Patrick's Day parade in South Boston, describing the event as surreal and enjoyable.",
+      "Brown streamed his parade experience on Twitch, engaging with fans by catching a football, dancing, and waving.",
+      "Brown, a Boston Celtic, is having a career year, averaging 28.4 points, 7.1 rebounds, and 5.1 assists per game."
     ]
   },
   {
@@ -33,9 +72,9 @@
     "published": "2026-03-17T14:50:17.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/cop-opener-69a64e9c76ee3-scaled.jpeg",
     "bullets": [
-      "An Essex police station was evacuated after a resident brought in a suspected mortar shell found on their property.",
-      "The Massachusetts State Police Bomb Squad determined the device was a non-explosive, empty canister resembling a mortar shell.",
-      "Essex Police urge the public to call 911 and not transport potential explosives, emphasizing public safety precautions."
+      "A resident brought a suspected mortar shell into the Essex Police Department, leading to an evacuation.",
+      "The Massachusetts State Police Bomb Squad determined the item was a non-explosive, empty fuel canister.",
+      "Police advise against transporting suspicious items, urging the public to call 911 instead."
     ]
   },
   {
@@ -46,9 +85,9 @@
     "published": "2026-03-17T14:43:09.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/UVN72TQ6Z3IR24SRPZRMGLOAHQ-690e32c13c920-768x432.jpg",
     "bullets": [
-      "Southwest Airlines offers one-way flights starting at $59 from March 17-19 for travel between April 7 and June 10.",
-      "The sale is valid for flights within the continental US and inter-island Hawaii travel on Tuesdays and Wednesdays.",
-      "Boston Logan deals include $59 to Baltimore, $94 to Cleveland, $109 to Savannah, and $160 to San Diego."
+      "Southwest Airlines' three-day sale offers one-way flights starting at $59, valid for travel April 7 to June 10.",
+      "Discounted fares apply to Tuesday and Wednesday flights, within the continental U.S. and inter-island Hawaii travel.",
+      "Flights from Boston include $59 to Baltimore, $94 to Cleveland, $109 to Savannah, and $160 to San Diego."
     ]
   },
   {
@@ -59,9 +98,9 @@
     "published": "2026-03-17T14:35:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_18policereform-05-69b95ef701122-768x432.jpg",
     "bullets": [
-      "Boston city councilors Miniard Culpepper and Brian Worrell request police release body camera footage of a fatal shooting in Roxbury.",
-      "Stephenson King, 39, was shot by Boston police during a carjacking incident near 1500 Tremont St. on March 11.",
-      "Suffolk District Attorney's office is investigating; councilors stress transparency to maintain public trust and officer accountability."
+      "Boston police shot and killed Stephenson King during a carjacking incident in Roxbury on March 11, 2026.",
+      "City councilors Miniard Culpepper and Brian Worrell urge police to release body camera footage for transparency.",
+      "Boston Police Commissioner Michael Cox confirmed body camera footage exists and Suffolk DA's investigation is ongoing."
     ]
   },
   {
@@ -72,9 +111,9 @@
     "published": "2026-03-17T14:12:46.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/AOMH536LO4TOBLXWAOGL7RTAXI-69b95ca99da0c-768x432.jpg",
     "bullets": [
-      "JPMorganChase will move its Boston offices to South Station Tower in 2028, occupying 250,000 square feet.",
-      "The move is part of an expansion plan, including opening a 100th branch in Massachusetts and adding 300 jobs.",
-      "South Station Tower features 680,000 square feet of office space and includes tenants like Citadel and Jones Day."
+      "JPMorganChase will move its Boston offices to South Station Tower in 2028 as the anchor tenant, occupying 250,000 square feet.",
+      "The relocation will bring approximately 1,000 employees to the new location, with plans to add 300 jobs in coming years.",
+      "JPMorganChase opened its first Massachusetts branch in 2018 and plans to open its 100th branch later in 2026."
     ]
   },
   {
@@ -85,48 +124,9 @@
     "published": "2026-03-17T14:12:30.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/KC-Concepcion-Patriots-Mock-Draft-NFL_Combine_Football_42650-69b95911e2de1-768x432.jpg",
     "bullets": [
-      "Mel Kiper Jr.'s latest mock draft projects the Patriots to select wide receiver K.C. Concepcion 31st overall.",
-      "Concepcion totaled 61 catches, 919 yards, and 9 touchdowns in 2025 at Texas A&M.",
-      "Kiper highlights Concepcion's field-stretching ability and impact in the return game."
-    ]
-  },
-  {
-    "title": "&#8216;It feels like old times&#8217;: As Jayson Tatum&#8217;s minutes ramp up, so does chemistry with Jaylen Brown",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/03/17/celtics-jayson-tatum-jaylen-brown-chemistry-minutes-adjustments/",
-    "author": "Khari A. Thompson",
-    "section": "Sports",
-    "published": "2026-03-17T14:07:07.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/4H6IQVGGLAYKPIDXWNDRSLGYYA-69b9590975610-768x432.jpg",
-    "bullets": [
-      "Jayson Tatum's return strengthens Celtics chemistry with Jaylen Brown ahead of playoffs.",
-      "Brown leads with career-high performance, scoring 41 points in win over Phoenix.",
-      "Tatum increases minutes, playing 32 minutes in recent games after Achilles recovery."
-    ]
-  },
-  {
-    "title": "Mass. man gets 10 years for child porn possession after Google reports him",
-    "url": "https://www.boston.com/news/local-news/2026/03/17/mass-man-gets-10-years-for-child-porn-possession-after-google-reports-him/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-17T14:06:30.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "Scott Morrill, 52, from Uxbridge, sentenced to 10 years for possessing child porn after Google report.",
-      "Google reported child abuse materials in Morrill's online account, leading to his arrest in April 2025.",
-      "Morrill was on supervised release for a previous 2013 conviction for distributing child pornography."
-    ]
-  },
-  {
-    "title": "Local obituary: Matthew McTiernan, 22, Marshfield native and Johnson &#038; Wales student",
-    "url": "https://www.boston.com/news/massachusetts-obituaries/2026/03/17/local-obituary-matthew-mctiernan-22-marshfield-native-and-johnson-wales-student/",
-    "author": "Boston.com Staff",
-    "section": "News",
-    "published": "2026-03-17T13:40:02.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-8.38.39-AM-69b959889c1f7.jpg",
-    "bullets": [
-      "Matthew McTiernan, 22, a Marshfield native and Johnson & Wales student, died in a car accident on March 11, 2026.",
-      "He was a baking and pastry arts student, known for his humor and creativity, especially in making sourdough bread.",
-      "A memorial service is scheduled for March 15, 2026, at North River Community Church in Pembroke, Massachusetts."
+      "Mel Kiper Jr.'s latest mock draft projects Patriots to select K.C. Concepcion, a wide receiver from Texas A&M, at 31st.",
+      "Concepcion recorded 61 catches for 919 yards and nine touchdowns in 2025, with two return touchdowns.",
+      "Kiper believes Concepcion's versatility will benefit Patriots' quarterback Drake Maye by stretching the field."
     ]
   }
 ]
