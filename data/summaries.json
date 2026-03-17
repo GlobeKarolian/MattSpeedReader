@@ -1,5 +1,44 @@
 [
   {
+    "title": "Body pulled from Wakefield lake believed to be that of missing man",
+    "url": "https://www.boston.com/news/local-news/2026/03/17/body-pulled-from-wakefield-lake-believed-to-be-that-of-missing-man/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-03-17T20:09:47.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-2.14.00-PM-695c1b9224e50-768x432.jpg",
+    "bullets": [
+      "The body recovered from Lake Quannapowitt is believed to be Jason Thomas, missing since December.",
+      "Jason Thomas, 45, was last seen near Murray and Chestnut streets, Wakefield, on December 12.",
+      "Authorities do not suspect foul play; the Medical Examiner will determine identity and cause of death."
+    ]
+  },
+  {
+    "title": "Massachusetts online casino bill sent to study, effectively shelved for now",
+    "url": "https://www.boston.com/news/local-news/2026/03/17/online-casino-bill-study-shelved/",
+    "author": "Annie Jonas",
+    "section": "News",
+    "published": "2026-03-17T19:56:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/US_Be_Well_Financial_Wellness_Gambling_94085-69b98ec1cf220-768x432.jpg",
+    "bullets": [
+      "Massachusetts' bill H. 4431 to legalize online casino gambling was sent to study, stalling its progress this year.",
+      "The Joint Committee on Economic Development and Emerging Technologies voted 11-0, halting the bill sponsored by Rep. David Muradian.",
+      "If passed, the bill would have allowed state casinos to launch internet gaming platforms with a 15% state tax on revenues."
+    ]
+  },
+  {
+    "title": "Police: Bus driver in Medford crash may have been asleep at the wheel",
+    "url": "https://www.boston.com/news/local-news/2026/03/17/police-bus-driver-medford-crash-may-have-been-asleep/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-03-17T19:49:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/ZT2GZHTGANZJV5JQTD5ZXNGIRU-69b300719e6cc-768x432.jpg",
+    "bullets": [
+      "MBTA bus driver may have been drowsy before crashing in Medford on March 8, says Transit Police.",
+      "Driver, 40, faces charges for negligent operation, red light and lane violations, but not intoxication.",
+      "Crash involved the MBTA bus, several parked cars, and two buildings; no icy conditions were reported."
+    ]
+  },
+  {
     "title": "Black Mountain in N.H. will not become a community co-op as planned",
     "url": "https://www.boston.com/travel/skiing/2026/03/17/black-mountain-nh-news/",
     "author": "Kristi Palma",
@@ -7,9 +46,9 @@
     "published": "2026-03-17T19:09:47.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Q6R2YEGJA5G33ENN4BLFILRJFU-69b292d2a79fc-768x432.jpg",
     "bullets": [
-      "Black Mountain in Jackson, N.H., will not become a community co-op as initially planned.",
-      "Erik Mogensen, GM and owner, plans to use Black Mountain to tackle challenges facing independent ski areas.",
-      "Mogensen is moving the headquarters of Indy Pass and Entabeni Systems to Jackson, N.H."
+      "Black Mountain in Jackson, N.H. will not become a community co-op; Erik Mogensen purchased it to address challenges for independent ski areas.",
+      "Mogensen, CEO of Entabeni Systems, plans to use Black Mountain as a laboratory for generating solutions for struggling ski areas.",
+      "Mogensen's decision to redirect plans was supported by shareholders, and company headquarters will move to Jackson, N.H."
     ]
   },
   {
@@ -20,9 +59,9 @@
     "published": "2026-03-17T19:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Annie-main-image-Why-Im-Running-36-69b0569a2d093-768x432.png",
     "bullets": [
-      "Julia Aldrich, 35, will run her fourth marathon at the 2026 Boston Marathon, her first time running for charity.",
-      "She was diagnosed with breast cancer at 32 and resumed running races months after her double mastectomy.",
-      "Aldrich aims to raise funds for the Dana-Farber Cancer Institute, where she received care, by running the marathon."
+      "Julia Aldrich, a 35-year-old from Cincinnati, will run the 2026 Boston Marathon for the Dana-Farber Cancer Institute.",
+      "Diagnosed with breast cancer at 32, Aldrich returned to racing eight weeks after her double mastectomy.",
+      "Aldrich's participation marks her first time running a marathon for charity, supporting cancer research and care initiatives."
     ]
   },
   {
@@ -33,9 +72,9 @@
     "published": "2026-03-17T18:52:11.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryandanvers2met-69b98de1ea09b-768x432.jpg",
     "bullets": [
-      "Anthony DeMayo, 18, allegedly murdered 68-year-old Janet Swallows in her Danvers home, with no apparent motive.",
-      "James Alan Fox explains teenagers, like DeMayo, may kill without logical reasons due to underdeveloped prefrontal cortex.",
-      "DeMayo pleads not guilty to murder and home invasion; held without bail for evaluation at Bridgewater State Hospital."
+      "Anthony DeMayo, 18, allegedly killed Janet Swallows, 68, in a random attack at her home in Danvers.",
+      "Criminologist James Alan Fox highlights teen murders as often lacking logical motives, unlike those committed by adults.",
+      "DeMayo, held without bail, pleaded not guilty; experts note teenage brain development impacts decision-making ability."
     ]
   },
   {
@@ -46,9 +85,9 @@
     "published": "2026-03-17T17:52:56.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Obesity_Drugs_Medicare_69241-69b99355c2cba-768x432.jpg",
     "bullets": [
-      "Mass General Brigham researchers developed a genetic risk calculator to predict obesity and Type 2 diabetes long-term effects.",
-      "The tool uses a polygenic risk score aggregating genetic variants and spans data from over 8.5 million global participants.",
-      "The score enhances predictive accuracy across multiple populations, focusing on African, East Asian, and South Asian ancestries."
+      "Mass General Brigham developed a genetic risk calculator predicting obesity-related health risks using data from over 8.5 million participants.",
+      "The calculator uses a polygenic risk score incorporating 20 metabolic traits, enabling early disease prediction across diverse populations.",
+      "High risk scores predicted higher likelihood of interventions like GLP-1 medications or bariatric surgery, emphasizing early prevention."
     ]
   },
   {
@@ -59,9 +98,9 @@
     "published": "2026-03-17T17:36:09.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Annie-main-image-Why-Im-Running-34-69b04ebedad34-768x432.png",
     "bullets": [
-      "Erin Daniel, a 25-year-old ICU nurse from Mansfield, is running the 2026 Boston Marathon.",
-      "Daniel is part of the Stepping Strong team supporting Brigham and Women's Hospital's trauma recovery initiatives.",
-      "Inspired by Gillian Reny's story, Daniel aims to advance trauma research and patient rehabilitation through her marathon run."
+      "Erin Daniel, a 25-year-old ICU nurse at Brigham and Women's Hospital, will run the 2026 Boston Marathon.",
+      "Daniel is part of the Stepping Strong team, supporting trauma recovery through advancing research and patient care.",
+      "Her inspiration comes from Gillian Reny's story and the mission of the Stepping Strong Foundation to improve patient outcomes."
     ]
   },
   {
@@ -72,9 +111,9 @@
     "published": "2026-03-17T17:19:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanstatemet-69b983bd57472-768x432.jpg",
     "bullets": [
-      "Massachusetts poll shows 51% view Legislature unfavorably, with only 28% favorable.",
-      "86% of poll respondents support subjecting lawmakers to state public records law.",
-      "83% of respondents want Legislature to permit State Auditor's audit despite current resistance."
+      "A poll shows only 28% of Massachusetts residents view the Legislature favorably, with 51% holding an unfavorable opinion.",
+      "87% of respondents view government transparency as crucial, and 86% support applying public records law to state lawmakers.",
+      "83% believe the Legislature should allow an audit by State Auditor Diana DiZoglio, which has been resisted so far."
     ]
   },
   {
@@ -85,48 +124,9 @@
     "published": "2026-03-17T16:22:14.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Corliss-1-69b976e8da6ce-768x432.jpg",
     "bullets": [
-      "Providence police search for a black Chevrolet Equinox with Massachusetts plates in a fatal hit-and-run case.",
-      "Kevin Chappie, 46, was killed after being struck while using a crosswalk on Corliss Street early Saturday.",
-      "Public urged to contact Providence Police Department with information at 401-243-6279 or 401-243-6285."
-    ]
-  },
-  {
-    "title": "Martha Stewart&#8217;s The Bedford is now open at this New England resort",
-    "url": "https://www.boston.com/food/food-news/2026/03/17/the-bedford-martha-stewart-new-england/",
-    "author": "Katelyn Umholtz",
-    "section": "Food",
-    "published": "2026-03-17T16:14:06.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/HALF_Foxwood_Martha_Stewart_Dining_The_Hostess_dana_gallagher_194_FINAL-69b979d3ad095-768x432.jpg",
-    "bullets": [
-      "The Bedford by Martha Stewart has opened at Foxwoods Resort Casino in Connecticut.",
-      "The restaurant serves Stewart's favorite recipes, including pierogies and honey-mustard salmon.",
-      "The Bedford spans 10,000 square feet and can seat up to 204 guests."
-    ]
-  },
-  {
-    "title": "Weekend commuter rail disruption will now leak into Fridays",
-    "url": "https://www.boston.com/news/local-news/2026/03/17/weekend-commuter-rail-disruption-will-now-leak-into-fridays/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-03-17T15:56:54.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/5TYAWCKYCLPD5MN3444BX5QHB4-69b96cde1c039-768x432.jpg",
-    "bullets": [
-      "MBTA and Keolis are extending weekend commuter rail shutdowns into Fridays at North Station for signal upgrades.",
-      "Commuter rail service will be impacted on March 20-22, March 27-29, April 10-12, and April 24-27.",
-      "Shuttle and Orange Line services will replace trains on affected lines, causing potential travel delays up to 70 minutes."
-    ]
-  },
-  {
-    "title": "This Massachusetts commute ranks as the most stressful, poll finds",
-    "url": "https://www.boston.com/news/local-news/2026/03/17/most-stressful-commute-ranking/",
-    "author": "Autumn Sloboda",
-    "section": "News",
-    "published": "2026-03-17T15:51:40.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/AS7XLL7WP6FN6G2HP7GVQ2GGV4-69b9550942962-768x432.jpg",
-    "bullets": [
-      "The Zakim Bridge/I-93 North in Boston is ranked as the most stressful commute in Massachusetts.",
-      "The Southeast Expressway and I-95/Route 128 in Waltham follow as the second and third most stressful commutes.",
-      "I-95 is noted as a significant stress point throughout New England, affecting several states beyond Massachusetts."
+      "Providence police seek a black Chevrolet Equinox with a Massachusetts plate involved in a fatal hit-and-run.",
+      "Kevin Chappie, 46, died after being struck while waiting for a rideshare near Corliss Street Saturday morning.",
+      "The public is urged to contact Providence Police with any information on the vehicle's whereabouts."
     ]
   }
 ]
