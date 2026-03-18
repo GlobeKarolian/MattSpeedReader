@@ -1,5 +1,18 @@
 [
   {
+    "title": "Recent homes sales in Greater Boston (Mar. 18)",
+    "url": "https://www.boston.com/real-estate/latest-sales/2026/03/18/recent-homes-sales-in-greater-boston-mar-18/",
+    "author": "The Boston Globe",
+    "section": "Real Estate",
+    "published": "2026-03-18T09:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/10/house-orange-6705b939840fc-768x432.jpg",
+    "bullets": [
+      "Abington's 91 Rice St. ranch sold for $460,000; 704 sq ft, built in 1951 on a 7,235 sq ft lot.",
+      "Boston's highest sale: 89 Beacon St. #2, a condo row-middle, with 5,703 sq ft and 8 baths, sold for $17M.",
+      "Arlington's 5 Lincoln St. Colonial, built in 1890 with 3,292 sq ft, sold for $2.5 million, features 4 beds, 4 baths."
+    ]
+  },
+  {
     "title": "3 things the Bruins must fix if they want to punch their ticket to the playoffs",
     "url": "https://www.boston.com/sports/boston-bruins/2026/03/17/boston-bruins-nhl-hockey-struggles-power-play-morgan-geekie-elias-lindholm/",
     "author": "Conor Ryan",
@@ -7,9 +20,9 @@
     "published": "2026-03-18T03:50:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Bruins_Canadiens_Hockey_44621-69ba18ae604fe-768x432.jpg",
     "bullets": [
-      "Boston Bruins' power play struggled post-Olympics, ranking 28th in the NHL with a 12.8 percent success rate.",
-      "Third line forwards Morgan Geekie and Elias Lindholm have produced zero points in 11 games since Olympic break.",
-      "Defensive pairing issues with Andrew Peeke and Nikita Zadorov, being outscored 4-2 in recent 5-on-5 play."
+      "The Bruins' power play has struggled post-Olympic break, dropping from third to 28th in the NHL rankings.",
+      "Morgan Geekie and Elias Lindholm have failed to produce offensively on the third line since the Olympic break.",
+      "Defensive pairings, particularly Andrew Peeke and Nikita Zadorov, have been outscored 4-2 since returning from the Olympic break."
     ]
   },
   {
@@ -20,9 +33,9 @@
     "published": "2026-03-18T03:49:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Wilyer-Abreu-69ba1a81c3a6c-768x432.jpg",
     "bullets": [
-      "Venezuela won its first World Baseball Classic title, defeating Team USA 3-2, with Wilyer Abreu hitting a key home run.",
-      "Former Red Sox pitcher Eduardo Rodriguez contributed 4.1 scoreless innings, while current player Brayan Bello excelled for the Dominican Republic.",
-      "Jarren Duran and Masataka Yoshida had strong performances for their respective teams, contributing offensively during the tournament."
+      "Venezuela won its first World Baseball Classic title, defeating Team USA 3-2 in the final.",
+      "Red Sox's Wilyer Abreu hit a crucial home run, while Eduardo Rodriguez pitched 4.1 scoreless innings for Venezuela.",
+      "Red Sox's Anthony and Whitlock struggled in the final, with Whitlock allowing the winning run in the ninth inning."
     ]
   },
   {
@@ -34,8 +47,8 @@
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/IMG_2164-69ba08c4e4449-768x432.jpeg",
     "bullets": [
       "Mengyuan Flanagan from Ashland is running the 2026 Boston Marathon for the Michael Lisnow Respite Center.",
-      "The center supports children with complex medical needs and provides relief for their families.",
-      "Flanagan, a volunteer at the center, finds running improves her mental health and is inspired by marathon runners."
+      "The Michael Lisnow Respite Center supports children with complex medical needs and provides relief for their families.",
+      "Flanagan started running for mental health benefits and now uses it to help families facing rare diseases."
     ]
   },
   {
@@ -46,9 +59,9 @@
     "published": "2026-03-18T02:15:33.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/adamsmanslaughter-69ba0280b5ab7-scaled.jpeg",
     "bullets": [
-      "Matthew Tucker and Cassandra Barlow-Tucker convicted of manslaughter in death of 10-month-old foster child in Adams, Massachusetts.",
-      "The child died from treatable complications as prosecutors argued the couple ignored clear signs he needed medical attention.",
-      "The couple faces up to 20 years for manslaughter and will be sentenced on March 19 according to the DA's office."
+      "Matthew Tucker and Cassandra Barlow-Tucker were found guilty of manslaughter in the death of their 10-month-old foster child.",
+      "The child died from untreated medical conditions, including a strep infection, bronchopneumonia, and empyema, prosecutors stated.",
+      "The couple faces sentencing on March 19, with potential prison terms up to 20 years for manslaughter and two-and-a-half years for endangerment."
     ]
   },
   {
@@ -59,9 +72,9 @@
     "published": "2026-03-18T02:02:02.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/watermainbreak-69b9fa0965eda-768x432.jpg",
     "bullets": [
-      "A major water main broke in Jackson Square Tuesday, flooding streets and disrupting traffic at Columbus, Centre, and Ritchie.",
-      "Boston Police rerouted traffic, and MBTA closed Jackson Square busway, affecting routes 14, 22, 29, 41, and 44 buses.",
-      "Crews worked to shut off a 36-inch transmission main; daycare businesses evacuated and streets remained flooded by evening."
+      "A major water main broke in Jackson Square, Jamaica Plain, causing extensive flooding and disrupting traffic.",
+      "Boston police rerouted traffic, and MBTA detoured several bus routes; Orange Line service was unaffected.",
+      "Repair crews shut the water halfway by 5:40 p.m.; nearby businesses, including daycares, were evacuated."
     ]
   },
   {
@@ -72,9 +85,9 @@
     "published": "2026-03-18T01:25:38.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Buccaneers_Dolphins_Football_89368-69b9f8d9f032c-768x432.jpg",
     "bullets": [
-      "Jaylen Waddle traded to Broncos for three draft picks, including a 2026 first-rounder.",
-      "Trade strengthens Broncos, creating tougher competition for Patriots in AFC.",
-      "Patriots face challenges trading for A.J. Brown due to high market value for receivers."
+      "Jaylen Waddle was traded from the Miami Dolphins to the Denver Broncos for a first-round pick and two other draft selections.",
+      "The New England Patriots may face challenges acquiring A.J. Brown, as Denver's trade for Waddle sets a high market price.",
+      "The Patriots might need to offer a first-round pick to secure Brown, given current trading values for top wide receivers."
     ]
   },
   {
@@ -85,9 +98,9 @@
     "published": "2026-03-18T01:19:58.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Darius Boyce, 45, and Maria Moraes, 25, charged after Jeep hit three pedestrians outside Boston's ICON nightclub.",
-      "Boyce faces assault charges plus firearm and reckless driving violations; Moraes charged with interfering with police.",
-      "Incident involved vehicle fleeing and stolen items; suspects identified via license plate, stopped, and arrested by police."
+      "Darius Boyce, 45, and Maria Moraes, 25, charged after a Jeep hit three pedestrians outside ICON nightclub in Boston.",
+      "Boyce faces multiple charges, including felony assault and firearm violations; Moraes charged with interference and disorderly conduct.",
+      "Incident occurred on Feb. 28; victims identified suspects, leading to their arrest shortly after the event."
     ]
   },
   {
@@ -98,9 +111,9 @@
     "published": "2026-03-17T23:53:50.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/bidenstpatricks-69b9e1fb0032d-768x432.jpg",
     "bullets": [
-      "Former President Joe Biden made an unscheduled appearance at Boston's St. Patrick’s Day Breakfast in the Seaport District.",
-      "Biden spoke about immigrant experiences, comparing his Irish ancestors' journey to current challenges under President Trump's policies.",
-      "Governor Maura Healey joined Biden, emphasizing Boston's connection to Irish heritage and current immigration issues."
+      "Former President Joe Biden made an unscheduled appearance at the Irish American Partnership's St. Patrick's Day Breakfast in Boston.",
+      "Biden spoke about his Irish ancestors and compared their immigration experiences to modern challenges under President Trump's policies.",
+      "Governor Maura Healey highlighted Boston's strong Irish connections and called for reflection on immigrant experiences in the U.S."
     ]
   },
   {
@@ -111,22 +124,9 @@
     "published": "2026-03-17T23:14:15.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/GKVIVFYXJJFSRYPP2N6WZ2U35U-69b9dab56a4f9-768x432.jpg",
     "bullets": [
-      "Two Boston College students fell from a second floor deck in Brighton, sustaining injuries during an off-campus party.",
-      "The incident involved a deck railing snapping off; police noted rotting wood that was painted over to conceal damage.",
-      "The injured students were taken to local hospitals, and a city inspector assessed the remaining structural safety."
-    ]
-  },
-  {
-    "title": "Patriots rookie earns hefty performance bonus after strong 2025 season",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/03/17/craig-woodson-new-england-patriots-nfl-football-rookie-contract-bonus/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-17T22:34:37.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/PUL2MHDJ5LBCCZL2TW4LOOPJBI-69b9d0f08382f-768x432.jpg",
-    "bullets": [
-      "Craig Woodson led the Patriots' defense with 950 snaps in 2025, starting 15 games as a rookie.",
-      "Woodson earned a performance bonus of $1,149,910, ranking 10th in NFL payout distribution for 2025.",
-      "In the playoffs, Woodson totaled 30 tackles and six pass breakups, excelling in Super Bowl LX."
+      "Two Boston College students were injured in a deck collapse at an off-campus party in Brighton.",
+      "The deck railing broke due to rotting wood, causing the students to fall from the second floor.",
+      "Authorities noted rotting wood and concealed damage; the investigation into the incident is ongoing."
     ]
   }
 ]
