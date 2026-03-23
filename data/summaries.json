@@ -1,5 +1,57 @@
 [
   {
+    "title": "The basement of this $4.7 m Lynnfield home known for its holiday decor is like a private club",
+    "url": "https://www.boston.com/real-estate/luxury-homes/2026/03/23/1-haywood-farm-lynnfield-basement-bar/",
+    "author": "Megan Johnson",
+    "section": "Real Estate",
+    "published": "2026-03-23T15:28:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/BMF_2778-69bda65b67f8b-768x432.jpg",
+    "bullets": [
+      "1 Haywood Farm in Lynnfield, owned by Matthew Maggiore, is listed for $4.695 million.",
+      "The home's basement features a bar, screening room, kids' playroom, wine tasting room, and sauna.",
+      "The property is known for elaborate holiday decor, attracting thousands of visitors during Halloween."
+    ]
+  },
+  {
+    "title": "Patriots reportedly set to release QB Joshua Dobbs",
+    "url": "https://www.boston.com/sports/morning-sports-update/2026/03/23/patriots-reportedly-set-to-release-qb-joshua-dobbs/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-03-23T15:13:43.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Joshua-Dobbs-Giants_Patriots_Football_17165-69c15504bf998-768x432.jpg",
+    "bullets": [
+      "The New England Patriots are reportedly planning to release quarterback Joshua Dobbs, according to NFL Network's Ian Rapoport.",
+      "Dobbs, 31, appeared in four games last season, completing seven of ten passes for 65 yards as a backup.",
+      "New England recently re-signed quarterback Tommy DeVito, which may have influenced the decision to release Dobbs."
+    ]
+  },
+  {
+    "title": "Tracy McGrady questions whether Celtics are &#8216;still on same the page&#8217; following Jayson Tatum&#8217;s return",
+    "url": "https://www.boston.com/sports/boston-celtics/2026/03/23/celtics-jayson-tatum-return-tracy-mcgrady-comments/",
+    "author": "Khari A. Thompson",
+    "section": "Sports",
+    "published": "2026-03-23T14:51:57.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/XUP53L6543XOJ6MK2YXVITXHJA-69c14e4985fdb-768x432.jpg",
+    "bullets": [
+      "Tracy McGrady questions Celtics' cohesion after Jayson Tatum's return from a 10-month Achilles rehab.",
+      "Celtics' shooting struggles noted, with a 36% field goal percentage against Minnesota and 45% against Memphis.",
+      "Carmelo Anthony suggests Tatum focus more on inside play, as 53% of his shots have been 3-pointers this season."
+    ]
+  },
+  {
+    "title": "One New Englander is in this year’s class at Boston’s Folk Americana Roots Hall of Fame: Tom Rush",
+    "url": "https://www.boston.com/culture/entertainment/2026/03/23/one-new-englander-is-in-this-years-class-at-bostons-folk-americana-roots-hall-of-fame-tom-rush/",
+    "author": "Lauren Daley",
+    "section": "Culture",
+    "published": "2026-03-23T14:16:42.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/EXCJCZOHEJAW7KPLZWD5V7LWPA-69c12162dc540-768x432.jpg",
+    "bullets": [
+      "Tom Rush, from Portsmouth, N.H., is the only New England artist in the 2026 Folk Americana Roots Hall of Fame class.",
+      "Rush will perform at the induction ceremony alongside Judy Collins and others at the Wang Theatre in Boston.",
+      "Other 2026 inductees include Neil Young, Jackson Browne, and Aretha Franklin, highlighting a mix of living and legacy artists."
+    ]
+  },
+  {
     "title": "Jaylen Brown sheds light on 1-on-1 meeting with Jayson Tatum ahead of playoffs",
     "url": "https://www.boston.com/sports/boston-celtics/2026/03/23/celtics-jaylen-brown-jayson-tatum-meeting-comments/",
     "author": "Khari A. Thompson",
@@ -7,9 +59,9 @@
     "published": "2026-03-23T13:25:01.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/XMXRG7OBKFCIMCCVKOVLOPZ3IY-69c13acf2b5bd-768x432.jpg",
     "bullets": [
-      "Jaylen Brown and Jayson Tatum held a meeting to improve communication and set a tone for the Celtics' playoff push.",
-      "Jayson Tatum returned from a 10-month Achilles rehab, and the Celtics have won six of their last ten games.",
-      "The Celtics are second in the Eastern Conference; playoffs begin April 18th, following their game against the Knicks."
+      "Jaylen Brown discussed a 1-on-1 meeting with Jayson Tatum before Tatum's return from a 10-month Achilles rehab.",
+      "The meeting focused on improving communication and setting the tone for the Boston Celtics ahead of the playoffs.",
+      "Brown emphasized the importance of his and Tatum's leadership amidst the Celtics' playoff push and external pressures."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2026-03-23T13:06:04.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-8.42.53-AM-69c143e7f251e.jpg",
     "bullets": [
-      "Kelsey Fitzsimmons, a North Andover officer, was shot by a colleague and now faces trial.",
-      "Fitzsimmons pleaded not guilty to assault with a dangerous weapon in the incident last summer.",
-      "The trial will be livestreamed by NBC10 Boston for public viewing."
+      "Kelsey Fitzsimmons, a North Andover officer, was shot by a colleague last summer.",
+      "Fitzsimmons has pleaded not guilty to assault with a dangerous weapon charge.",
+      "Her trial is being livestreamed via NBC10 Boston as it begins this week."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2026-03-23T13:00:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Photo-Mar-19-2026-5-04-31-PM-17-69bd74a37b7f3-768x432.jpg",
     "bullets": [
-      "Jeff DaRosa of Dropkick Murphys is running the 2026 Boston Marathon for the Claddagh Fund after getting sober.",
-      "DaRosa began running casually, inspired after performing at the Boston Strong benefit show following the 2013 bombings.",
-      "Turning 40 was a pivotal moment for DaRosa, leading to sobriety and a disciplined approach to marathon training."
+      "Jeff DaRosa of Dropkick Murphys is running the 2026 Boston Marathon for the Claddagh Fund.",
+      "After quitting drinking at 40, DaRosa turned to running, finding discipline and structure offstage.",
+      "DaRosa's running journey included completing his first marathon in 2024 at the Mesa Marathon in Arizona."
     ]
   },
   {
@@ -46,22 +98,22 @@
     "published": "2026-03-23T12:25:27.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Z4LDJERGVI6QD6ZHU3M3FPNAFE-1-69c11c9a85109-768x432.jpg",
     "bullets": [
-      "Jayson Tatum is experiencing a shooting slump after returning from a serious injury, shooting 38.8% from the field.",
-      "Despite his shooting struggles, Tatum is averaging 8.9 rebounds per game and increasing his playing time.",
-      "The Celtics won six of their first eight games since Tatum's return, maintaining second place in the Eastern Conference."
+      "Jayson Tatum struggles with a shooting slump, hitting 38.8% from the field in recent games post-injury.",
+      "Tatum posted strong performances in other areas, averaging 8.9 rebounds per game since his return.",
+      "Despite challenges, Tatum feels progress and emphasizes taking a day-by-day approach after a lengthy rehab."
     ]
   },
   {
     "title": "Bones Hyland, short-handed Timberwolves beat ice-cold Celtics: 6 takeaways",
     "url": "https://www.boston.com/sports/boston-celtics/2026/03/23/celtics-takeaways-timberwolves-bones-hyland/",
-    "author": "Hayden Bird",
+    "author": "Tom Westerholm",
     "section": "Sports",
     "published": "2026-03-23T11:44:10.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Timberwolves_Celtics_Basketball_13365-69c1270e76419-768x432.jpg",
     "bullets": [
-      "Celtics fall to Timberwolves 102-92, with Bones Hyland scoring a team-high 23 points.",
-      "Jayson Tatum struggled, shooting 6-for-16, reflecting a challenging return from injury rehab.",
-      "Timberwolves secured their first win in Boston since 2005, aided by a key fourth-quarter run."
+      "Celtics lose to short-handed Timberwolves 102-92, struggling in the second half with a prolonged scoreless stretch.",
+      "Bones Hyland scored 23 points, leading Timberwolves offensively in the absence of Anthony Edwards, contributing critical plays.",
+      "Jayson Tatum struggled offensively, shooting 6-for-16, as he continues to return from rehabbing a significant injury."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-03-23T02:50:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/57HEJK66C522JDVUN2NN356BAI-69c0a55b9bb81-768x432.jpg",
     "bullets": [
-      "President Trump proposes deploying ICE agents to airports, including Boston Logan, unless DHS funding is approved.",
-      "Logan Airport has not experienced significant disruptions and Massport has no information on ICE agents arriving.",
-      "TSA union inquiries ongoing; no official confirmation of ICE deployment to New England airports amid government shutdown."
-    ]
-  },
-  {
-    "title": "Is Bruins goalie Jeremy Swayman a legitimate Vezina candidate? The numbers speak for themselves.",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/03/22/boston-bruins-jeremy-swayman-nhl-hockey-vezina-trophy-goalie/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-23T01:50:33.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Bruins_Islanders_Hockey_08602-69c06e6dcf322-768x432.jpg",
-    "bullets": [
-      "Jeremy Swayman made 42 saves to secure a 4-2 victory for the Bruins against the Red Wings.",
-      "Despite a .908 save percentage, Swayman ranks second in the NHL for goals saved above expected with 27.1.",
-      "Swayman's strong performances amidst team's defensive struggles make him a Vezina Trophy contender."
-    ]
-  },
-  {
-    "title": "Celtics legend Paul Pierce continues to make a case for Jaylen Brown as NBA MVP",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/03/22/jaylen-brown-nba-basketball-boston-celtics-paul-pierce-mvp-league/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-23T00:05:56.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Celtics-Pierces_Walk_Basketball_73119-3-69c07d1d18a60-768x432.jpg",
-    "bullets": [
-      "Paul Pierce advocates for Jaylen Brown as a deserving candidate for NBA MVP honors this season.",
-      "Jaylen Brown averages career-highs with 28.5 points, 7.0 rebounds, and 5.2 assists per game, leading Celtics.",
-      "Pierce attributes lack of MVP talk for Celtics players to Boston's sustained sports success and team achievements."
-    ]
-  },
-  {
-    "title": "Plymouth police officer on paid leave amid criminal investigation",
-    "url": "https://www.boston.com/news/crime/2026/03/22/plymouth-police-officer-on-paid-leave-amid-criminal-investigation/",
-    "author": "Molly Farrar",
-    "section": "News",
-    "published": "2026-03-22T23:50:40.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/samantha-pelrine-69c07e14cbd6d.jpg",
-    "bullets": [
-      "Plymouth officer Samantha Pelrine on paid leave during State Police investigation into off-duty conduct.",
-      "Massachusetts State Police launched a criminal investigation last week; details remain undisclosed.",
-      "Plymouth Police conducting internal investigation, emphasizing policy violations won't be tolerated."
-    ]
-  },
-  {
-    "title": "MLB writer predicts Roman Anthony will win AL MVP this season",
-    "url": "https://www.boston.com/sports/boston-red-sox/2026/03/22/roman-anthony-mlb-baseball-al-mvp-boston-red-sox-the-athletic/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-03-22T22:28:24.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN021726Spring-Training-Day-8_SPT22-69c0667304763-768x432.jpg",
-    "bullets": [
-      "Roman Anthony, a Boston Red Sox outfielder, is predicted to win the AL MVP by MLB writer Eno Sarris.",
-      "Anthony impressed in 2025 with a .292 batting average and played for Team USA in the 2026 World Baseball Classic.",
-      "Despite a high ground-ball rate, Anthony's power-hitting potential and improved swing path are highlighted by Sarris."
+      "President Trump plans to deploy ICE agents at airports due to the ongoing partial government shutdown.",
+      "Logan Airport in Boston has avoided long security lines despite TSA workers quitting over unpaid work.",
+      "TSA union in New England is unclear if ICE agents will be deployed, citing no official confirmation yet."
     ]
   }
 ]
