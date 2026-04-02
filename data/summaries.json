@@ -1,15 +1,67 @@
 [
   {
+    "title": "Mass. family flies home from vacation to find truck stolen from Logan Airport garage",
+    "url": "https://www.boston.com/news/crime/2026/04/02/family-vacation-truck-stolen-logan-airport-garage/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-04-02T19:36:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/YQRGGI3NJMYS6C4CZJF2UAT4TE-69cebc9b245fa-768x432.jpg",
+    "bullets": [
+      "Brendon Byrnes's truck was stolen from Logan Airport's central parking garage while his family was on vacation.",
+      "Massachusetts State Police found similarities between Byrnes's theft and another truck theft at the same garage weeks earlier.",
+      "Both incidents remain under investigation, with Byrnes suspecting his truck ended up in New Jersey based on toll records."
+    ]
+  },
+  {
+    "title": "This registered nurse is running Boston for Special Olympics Massachusetts",
+    "url": "https://www.boston.com/community/boston-marathon/2026/04/02/gabby-peduto-special-olympics-ma/",
+    "author": "Autumn Sloboda",
+    "section": "Community",
+    "published": "2026-04-02T19:36:12.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-at-10.11.56-AM-69cbd639b10e3-768x432.png",
+    "bullets": [
+      "Gabby Peduto, a registered nurse from Wakefield, is running the 2026 Boston Marathon for Special Olympics Massachusetts.",
+      "Peduto is inspired by the students with complex medical needs and disabilities she works with daily.",
+      "Her participation supports the Special Olympics' mission of inclusion, empowerment, and community for individuals with disabilities."
+    ]
+  },
+  {
+    "title": "North Andover police investigate &#8216;unauthorized&#8217; social media comment about Kelsey Fitzsimmons case",
+    "url": "https://www.boston.com/news/local-news/2026/04/02/north-andover-police-investigate-unauthorized-social-media-comment-about-kelsey-fitzsimmons-case/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-04-02T19:18:49.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/U7AXCVXVUESA74FDJPPEIU7AME-68641de5b93ee-768x432.jpg",
+    "bullets": [
+      "North Andover Police investigate unauthorized Facebook comment regarding Kelsey Fitzsimmons's legal actions against the town.",
+      "The comment, believed to be made by an ex-employee, was removed and the department's page taken offline.",
+      "The department is auditing social media access and reviewing policies to prevent unauthorized use."
+    ]
+  },
+  {
+    "title": "The Federal closes in Waltham after 7 years in business",
+    "url": "https://www.boston.com/food/food-news/2026/04/02/the-federal-waltham-closes/",
+    "author": "Autumn Sloboda",
+    "section": "Food",
+    "published": "2026-04-02T19:01:40.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/aaaaaaaa-69ceb3fe74a56-768x432.jpg",
+    "bullets": [
+      "The Federal, a seafood and steak restaurant in Waltham, closed after seven years due to rising costs.",
+      "Located at 74 Tower Rd., The Federal offered a menu featuring oysters, crab cakes, and shellfish towers.",
+      "The restaurant's management cited economic conditions and rising costs as reasons for the closure."
+    ]
+  },
+  {
     "title": "Your spring reading list, mapped",
     "url": "https://www.boston.com/community/books/2026/04/02/your-spring-reading-list-mapped/",
     "author": "Annie Jonas",
     "section": "Community",
     "published": "2026-04-02T18:22:15.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Google-Discover-templates-29-69ceb16067360-768x432.png",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Annie-main-image-Why-Im-Running-51-69cebb0c911d3-768x432.png",
     "bullets": [
-      "Boston.com offers a spring reading guide with 16 new book releases organized on a mood grid.",
-      "The reading matrix categorizes books by pace and tone for varied reading preferences.",
-      "Readers can sign up to receive the full guide and top book picks via email."
+      "Boston.com features a grid of 16 new spring book releases for varied reading preferences.",
+      "The curated selection ranges from fast-paced to slow-burning, accommodating different reader moods.",
+      "Readers can sign up to receive the full spring book guide and a top picks matrix via email."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2026-04-02T18:05:25.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/RUKLXC3CQFHKXF6AHYEAPH7HWA-69cd554d4c9ab-768x432.jpg",
     "bullets": [
-      "American Express will open a two-story Centurion Lounge with a terrace at Logan Airport's Terminal C in 2029.",
-      "The lounge, inspired by Boston's character, will offer amenities like premium food, WiFi, and local artwork.",
-      "Massport approved a $75 million budget for the lounge shell; American Express will spend $391 million including rent."
+      "American Express plans to open a 20,000 square-foot Centurion Lounge at Logan Airport's Terminal C in 2029.",
+      "The lounge will feature a terrace, premium food, local artwork, high-speed WiFi, and dedicated workstations.",
+      "Massport approved a $75 million budget for the lounge shell; American Express will invest $391 million total."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2026-04-02T17:34:23.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-1.18.07-PM-69cea4d8ba589-768x432.png",
     "bullets": [
-      "Fenway Johnnie's at 96 Brookline Ave. closed after 8 years near Fenway Park.",
-      "The closure announcement surprised many customers, with some thinking it was an April Fools' joke.",
-      "The bar and restaurant offered potato skins, burgers, and a Fenway sausage, among other items."
+      "Fenway Johnnie's, at 96 Brookline Ave., closed after 8 years near Fenway Park.",
+      "The sports bar, known for its potato skins and burgers, announced the closure via Facebook.",
+      "Many patrons expressed surprise and nostalgia, recalling visits before Red Sox games and concerts."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2026-04-02T17:15:22.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/47FL5VYLJTOZGLP5AY7Y2GI7BM-69ce9ee6c1814-768x432.jpg",
     "bullets": [
-      "Jayson Tatum expressed disappointment after Duke's loss to UConn in the NCAA Elite Eight.",
-      "Tatum, now an advisor to Duke, praised the team and coach Jon Scheyer for an impressive season.",
-      "UConn's Braylon Mullins hit a game-winning shot, advancing the Huskies to the Final Four."
+      "Jayson Tatum, Duke alumnus and chief basketball officer, felt 'sick' after Duke's loss to UConn in the Elite Eight.",
+      "Duke led by 2 points with 10 seconds left but lost after UConn's Braylon Mullins scored a buzzer-beater.",
+      "UConn advances to the Final Four and will face Illinois, following their past national titles in 2023 and 2024."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2026-04-02T17:12:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/ITRS6YYOPYQS2H44PLFWXCMK7Y-6924dec76ffd0-768x432.jpg",
     "bullets": [
-      "Boston resident Michael Vandenbroeke, 41, charged with indecent assault and battery against an MBTA bus driver.",
-      "Vandenbroeke allegedly assaulted the driver on March 26 after boarding at Massachusetts Avenue and Washington Street.",
-      "The suspect, with prior violent convictions, was arrested at Nubian Square station; bail set at $500."
+      "Michael Vandenbroeke, 41, charged with indecent assault on MBTA bus driver in the South End, pleads not guilty.",
+      "Surveillance video caught Vandenbroeke allegedly groping the driver, prompting his arrest at Nubian Square station.",
+      "Vandenbroeke has prior convictions for violent offenses; court date set for April 21 with bail set at $500."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-04-02T16:12:19.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/best-movies-on-netflix-april-2026-69ce88810d221-768x432.jpg",
     "bullets": [
-      "\"28 Years Later: The Bone Temple\" featuring Ralph Fiennes is a new addition to Netflix's movie lineup.",
-      "Critically acclaimed \"Atonement\" from 2007, starring James McAvoy and Keira Knightley, is now streaming on Netflix.",
-      "Classic action film \"Mission: Impossible\" with Tom Cruise is available on Netflix, highlighting early cerebral plots."
-    ]
-  },
-  {
-    "title": "Kelsey Fitzsimmons was found not guilty. Now she&#8217;s suing.",
-    "url": "https://www.boston.com/news/local-news/2026/04/02/kelsey-fitzsimmons-was-found-not-guilty-now-shes-suing/",
-    "author": "Ross Cristantiello",
-    "section": "News",
-    "published": "2026-04-02T15:50:10.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_260326-et-tje-fitzsimmons-trail-03-69ce8a67e5409-768x432.jpg",
-    "bullets": [
-      "Kelsey Fitzsimmons, ex-North Andover officer, was acquitted of assault after being shot by a colleague during a restraining order service.",
-      "Fitzsimmons plans to sue the town, alleging civil rights violations and negligence, after her acquittal last week.",
-      "The shooting occurred when officers served a restraining order procured by her ex-fiancé, claiming she was a danger."
-    ]
-  },
-  {
-    "title": "A church turned 6-BR home in Nahant — can you guess the price?",
-    "url": "https://www.boston.com/real-estate/quizzes/2026/04/02/home-listing-converted-church-nahant/",
-    "author": "Emily Turner",
-    "section": "Real Estate",
-    "published": "2026-04-02T15:43:49.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/drone-shot-at-twilight-69cb12996f2d6-768x432.jpg",
-    "bullets": [
-      "A converted 6-bedroom church in Nahant was built in 1851 and offers ocean views and an in-law apartment.",
-      "The property measures 5,969 square feet and includes 3 full bathrooms, with public sewer and water services.",
-      "The listing price options for the converted church are $1.6 million, $1.8 million, and $2 million."
-    ]
-  },
-  {
-    "title": "Should I DIY repair damage to a brand-new vehicle?",
-    "url": "https://www.boston.com/cars/how-to/2026/04/02/car-doctor-should-i-diy-repair-damage-to-a-brand-new-vehicle/",
-    "author": "John Paul",
-    "section": "Cars",
-    "published": "2026-04-02T15:35:30.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Car-Doctor-69ce8aff0e915-768x432.jpg",
-    "bullets": [
-      "AAA Northeast's Car Doctor advises that leaving a damaged side mirror on a leased 2026 Honda CR-V might incur lease penalties.",
-      "Weather should not affect the operation of the mirror's electronics, but repairing a damaged mirror can preserve vehicle value.",
-      "DIY repairs, using a homemade mold and factory paint, are feasible but could be challenging for non-experienced individuals."
-    ]
-  },
-  {
-    "title": "Man seen walking nude around N.H. town was suffering from &#8216;possible medical condition,&#8217; police say",
-    "url": "https://www.boston.com/news/local-news/2026/04/02/nude-man-seen-walking-new-hampshire-overnight-police/",
-    "author": "John Waller",
-    "section": "News",
-    "published": "2026-04-02T15:24:23.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-1-69c471e663f25-scaled.jpg",
-    "bullets": [
-      "Police in Bedford, New Hampshire, say a nude man seen Thursday morning may be suffering from a medical condition.",
-      "Officers investigated reports of a nude man walking from 2 a.m. to 3 a.m. across driveways in Bedford.",
-      "Police released partial photos of the man, potentially linked to prior similar incidents, seeking public assistance."
+      "Netflix's April 2026 list includes '28 Years Later: The Bone Temple' starring Ralph Fiennes and Jack O’Connell.",
+      "'Atonement' (2007), featuring James McAvoy and Keira Knightley, highlights Netflix's classic film offerings this month.",
+      "Tom Cruise's original 'Mission: Impossible' from 1996 is among the classic action films available on Netflix in April."
     ]
   }
 ]
