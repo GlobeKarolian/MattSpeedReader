@@ -1,5 +1,57 @@
 [
   {
+    "title": "What businesses in Boston are worth waiting in line for?",
+    "url": "https://www.boston.com/community/tell-us/2026/04/07/what-businesses-in-boston-are-worth-waiting-in-line-for/",
+    "author": "Carson Lyle",
+    "section": "Community",
+    "published": "2026-04-08T02:45:37.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/0-69d463d35659a-768x432.jpg",
+    "bullets": [
+      "Brandy Melville on Newbury Street attracts frequent lines due to its unique \"one size fits all\" clothing policy.",
+      "Blank Street Coffee on Boylston Street is known for its long queues, necessitating line security at the location.",
+      "Brick Street Bagels in South Boston draws considerable crowds, despite mixed reviews on social media."
+    ]
+  },
+  {
+    "title": "Mass. woman pleads guilty to performing medical spa injections using counterfeit products",
+    "url": "https://www.boston.com/news/crime/2026/04/07/mass-woman-pleads-guilty-to-performing-medical-spa-injections-using-counterfeit-products/",
+    "author": "Darin Zullo",
+    "section": "News",
+    "published": "2026-04-08T02:32:49.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/04/medspa-69d5b6cf30369-scaled.jpeg",
+    "bullets": [
+      "Rebecca Fadanelli, 40, of Stoughton, pleaded guilty to using counterfeit products for cosmetic injections at her Massachusetts spas.",
+      "Fadanelli imported fake Botox and fillers from China and Brazil, earning over $1 million despite lacking proper licensing.",
+      "She could face up to 20 years in prison and $250,000 fines; clients are urged to report counterfeit services to the FDA."
+    ]
+  },
+  {
+    "title": "Man fatally shot by Boston police near Northeastern University campus identified",
+    "url": "https://www.boston.com/news/local-news/2026/04/07/man-fatally-shot-by-boston-police-near-northeastern-university-campus-identified/",
+    "author": "Darin Zullo",
+    "section": "News",
+    "published": "2026-04-08T02:22:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/hemenwayshooting-69d27c3090e85-768x432.jpg",
+    "bullets": [
+      "Jacob Graves, 29, was fatally shot by Boston police after wielding a 'sword-like weapon' during a mental health crisis.",
+      "The incident occurred near Northeastern University and resulted in non-life-threatening injuries to multiple officers and emergency responders.",
+      "Recent violent incidents near Northeastern have led to protests from students and faculty over communication from the university."
+    ]
+  },
+  {
+    "title": "Celtics&#8217; Brad Stevens addresses &#8216;tiresome&#8217; college basketball rumors",
+    "url": "https://www.boston.com/sports/boston-celtics/2026/04/07/celtics-brad-stevens-addresses-unc-college-basketball-report-comments/",
+    "author": "Khari A. Thompson",
+    "section": "Sports",
+    "published": "2026-04-08T02:02:58.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/MWHAK3I272SNOB7BYB3PECLPEE-69d5a06543a46-768x432.jpeg",
+    "bullets": [
+      "Brad Stevens is not planning to leave the Celtics despite interest from college basketball programs.",
+      "Stevens was rumored to be on UNC's shortlist for a coaching position before Mike Malone was hired.",
+      "Stevens remains committed to his role with the Celtics, emphasizing contentment and stability in his current position."
+    ]
+  },
+  {
     "title": "Man gets life sentence in 2024 killing of Boston father of 2",
     "url": "https://www.boston.com/news/local-news/2026/04/07/man-gets-life-sentence-in-2024-killing-of-boston-father-of-2/",
     "author": "Carson Lyle",
@@ -7,9 +59,9 @@
     "published": "2026-04-08T01:12:01.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/01/haydenicestatement-697963b127071-scaled.jpg",
     "bullets": [
-      "Widmaer Lapaix, 29, from North Attleboro, received a life sentence for killing Maceo Martin, 41, in Boston in 2024.",
-      "Lapaix was convicted of second-degree murder after a nine-day trial and is eligible for parole after 15 years.",
-      "Prosecutors said Lapaix shot Martin during a domestic dispute outside an apartment in Cambridge where Martin's ex-wife lived."
+      "Widmaer Lapaix, 29, sentenced to life with parole possibility after 15 years for killing Maceo Martin in 2024.",
+      "Martin, 41, was shot outside a Cambridge apartment during a dispute involving his ex-wife and Lapaix.",
+      "Lapaix convicted of second-degree murder following a nine-day trial; apologized to Martin's family at sentencing."
     ]
   },
   {
@@ -20,9 +72,9 @@
     "published": "2026-04-07T23:45:14.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/lindsayclancy-69d58d92c8738-768x432.jpg",
     "bullets": [
-      "Lindsay Clancy's defense seeks a two-part trial where she would admit to killing her three children.",
-      "Judge previously denied two-part trial request; defense argues focus should be on Clancy's mental state.",
-      "Clancy claims auditory hallucinations before killings; trial set for July 20 in Plymouth Superior Court."
+      "Lindsay Clancy's defense seeks a two-phase trial, admitting to killings if granted, focusing on her mental state.",
+      "Judge William Sullivan denied the request, stating guilt and responsibility should be addressed simultaneously in a single trial.",
+      "Clancy is accused of strangling her three children in 2023; her trial is scheduled to start on July 20."
     ]
   },
   {
@@ -33,9 +85,9 @@
     "published": "2026-04-07T23:32:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Patriots_Ravens_Football_72158-69d588f232cb3-768x432.jpg",
     "bullets": [
-      "Patriots trade Marte Mapu to Houston Texans for a 2027 sixth-round draft pick.",
-      "Mapu, initially drafted in 2023, played 17 games for New England, mainly on special teams.",
-      "Trade frees up a roster spot and creates $1.5 million in cap space for the Patriots."
+      "Patriots trade linebacker Marte Mapu to Houston Texans for a 2027 sixth-round pick, sending a seventh-rounder with him.",
+      "Mapu, drafted 76th overall in 2023, played 17 games last season, focusing mainly on special teams and defense.",
+      "New England gains $1.5 million cap space and freed a roster spot, seeking linebacker upgrades for the 2026 season."
     ]
   },
   {
@@ -46,9 +98,9 @@
     "published": "2026-04-07T23:09:28.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ccri-69d58313ef9c1-768x432.jpg",
     "bullets": [
-      "CCRI's Warwick campus went into lockdown after reports of a suspicious man possibly carrying a weapon.",
-      "Warwick police used K-9 units and drones, finding a backpack with an airsoft gun and black pellet rifle.",
-      "Classes at CCRI were canceled for the day; police have not yet located the suspect but know his identity."
+      "Classes at Community College of Rhode Island's Warwick campus were canceled due to a suspicious man with a suspected weapon.",
+      "A lockdown was implemented after a man with a backpack, appearing to carry a gun, entered nearby woods.",
+      "Police found an airsoft gun and pellet rifle in a backpack but have not yet located the person of interest."
     ]
   },
   {
@@ -59,9 +111,9 @@
     "published": "2026-04-07T22:55:33.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_LEE092725soxtigers11SPTS-69d586ab7e35b-768x432.jpg",
     "bullets": [
-      "Triston Casas' recovery from injuries has been stalled by a new rib muscle strain setback.",
-      "Red Sox manager Alex Cora reports Casas will undergo imaging after his hitting attempt failed.",
-      "Casas has struggled with injuries since 2024, missing significant game time after a standout 2023 season."
+      "Triston Casas' recovery from a torn patellar tendon has been derailed by a recent rib muscle strain.",
+      "Casas was expected to resume hitting but experienced a setback, requiring further imaging this week.",
+      "Since his breakout 2023 season, Casas has played only 92 games due to ongoing injuries."
     ]
   },
   {
@@ -72,61 +124,9 @@
     "published": "2026-04-07T21:44:53.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/https___nytapi.wieck_.com_feed-photos_G7Q5Ub0-69d57a18d4856-768x432.jpg",
     "bullets": [
-      "Trump plans a massive underground military complex beneath a $400 million ballroom project at the White House.",
-      "The underground facility will include bomb shelters, medical facilities, and secure communication systems.",
-      "A judge halted the project citing a lack of congressional approval, despite Secret Service security concerns."
-    ]
-  },
-  {
-    "title": "Just one Mass. college ranks among the nation&#8217;s best graduate schools, per U.S. News",
-    "url": "https://www.boston.com/news/local-news/2026/04/07/massachusetts-us-news-graduate-school-rankings/",
-    "author": "Autumn Sloboda",
-    "section": "News",
-    "published": "2026-04-07T20:33:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/zw-69d52f3fce0d9-768x432.jpg",
-    "bullets": [
-      "MIT ranked No. 1 for best graduate engineering program in 2026 U.S. News rankings.",
-      "Harvard Business School tied for fourth in the latest U.S. News graduate rankings.",
-      "Massachusetts nursing programs saw a general decline, with Regis College dropping to 99th place."
-    ]
-  },
-  {
-    "title": "Suffolk DA Kevin Hayden appears to have a new primary challenger. She used to work in his office.",
-    "url": "https://www.boston.com/news/politics/2026/04/07/suffolk-da-kevin-hayden-appears-to-have-a-new-primary-challenger-she-used-to-work-in-his-office/",
-    "author": "Ross Cristantiello",
-    "section": "News",
-    "published": "2026-04-07T19:53:58.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/04/6WYLY7VFOUI6RBE5RHZR4PXBRA-69d55afcdc1e3-scaled.jpg",
-    "bullets": [
-      "Linda Champion, former member of DA Kevin Hayden's team, files paperwork for Suffolk District Attorney primary challenge.",
-      "Champion, seeking to compete against incumbent Hayden, must collect 1,000 signatures by April 28 to qualify for the ballot.",
-      "Hayden faces scrutiny over charging a Boston officer with manslaughter, amidst accusations of political motivations."
-    ]
-  },
-  {
-    "title": "Malden cook goes viral for selling trendy Ilocos empanadas out of her apartment",
-    "url": "https://www.boston.com/food/food-news/2026/04/07/ilocos-empanadas-boston/",
-    "author": "Katelyn Umholtz",
-    "section": "Food",
-    "published": "2026-04-07T19:50:50.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/IMG_8257-69d5371f692ab-768x432.jpg",
-    "bullets": [
-      "Janz Van's Ilocos empanadas went viral but were shut down by Malden's Board of Health due to zoning laws.",
-      "Van is raising funds for a food truck and seeking pop-up partnerships to continue selling her popular empanadas.",
-      "Her empanadas attracted interest from customers as far as Canada, with high demand exceeding her production capacity."
-    ]
-  },
-  {
-    "title": "Giannis Antetokounmpo paid high praise to Celtics&#8217; coach Joe Mazzulla",
-    "url": "https://www.boston.com/sports/boston-celtics/2026/04/07/giannis-antetokounmpo-paid-high-praise-to-celtics-coach-joe-mazzulla/",
-    "author": "Hayden Bird",
-    "section": "Sports",
-    "published": "2026-04-07T18:03:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Giannis-Joe-Mazzulla-Comments-Grizzlies_Bucks_Basketball_8827_-69d530971a667-768x432.jpg",
-    "bullets": [
-      "Giannis Antetokounmpo praised Celtics coach Joe Mazzulla for his mentality and leadership during Boston's successful season.",
-      "Despite a challenging season for the Bucks, Antetokounmpo stressed his desire to maintain a winning culture in Milwaukee.",
-      "Celtics continue their strong performance without Jayson Tatum, currently holding second in the Eastern Conference."
+      "President Trump's $400 million ballroom project includes a massive underground military bunker complex.",
+      "The bunker will feature bomb shelters, medical facilities, secure communications, and bioweapons defenses.",
+      "Judge Richard J. Leon halted the ballroom project, citing the need for congressional approval, despite ongoing security-related construction."
     ]
   }
 ]
