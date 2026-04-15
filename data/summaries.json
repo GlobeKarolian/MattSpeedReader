@@ -1,5 +1,44 @@
 [
   {
+    "title": "Fire prompts patient transfers at Boston Medical Center in Brighton",
+    "url": "https://www.boston.com/news/local-news/2026/04/15/fire-prompts-patient-transfers-boston-medical-center-brighton/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-04-15T17:53:32.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/HF8gkXRXkAAgpRK-69dfb6f91cbd9-768x432.jpeg",
+    "bullets": [
+      "Local News About 25 patients, including some in the ICU, were moved after an early morning fire in Brighton, officials say.",
+      "Firetrucks outside Boston Medical Center in Brighton.",
+      "The hospital evacuated some patients on Wednesday, April 15."
+    ]
+  },
+  {
+    "title": "A massive family-friendly outdoor bar is coming to Cape Cod this summer",
+    "url": "https://www.boston.com/travel/cape-cod-travel/2026/04/15/a-massive-family-friendly-outdoor-bar-is-coming-to-cape-cod-this-summer/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-04-15T17:24:46.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2014/05/Spotted18-21-768x432.jpg",
+    "bullets": [
+      "Cape Cod Travel It will feature live music, food trucks, and lawn games.",
+      "J.",
+      "J."
+    ]
+  },
+  {
+    "title": "&#8216;Real Housewives of Rhode Island&#8217; episode 3: Panic at the disco",
+    "url": "https://www.boston.com/culture/tv/2026/04/15/real-housewives-of-rhode-island-episode-3/",
+    "author": "Lauren Daley",
+    "section": "Culture",
+    "published": "2026-04-15T16:11:15.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/NUP_208135_03436-69df9f805810a-768x432.jpg",
+    "bullets": [
+      "TV A birthday party in Cranston was the epicenter of the drama in episode 3.",
+      "The Real Housewives of Rhode Island-- Pictured: Kelsey Swanson.",
+      "Scott Eisen/Bravo ShareSend this article to your social connections."
+    ]
+  },
+  {
     "title": "Revolution survive Rhode Island FC in U.S. Open Cup rivalry matchup",
     "url": "https://www.boston.com/sports/morning-sports-update/2026/04/15/revolution-survive-rhode-island-fc-in-u-s-open-cup-rivalry-matchup/",
     "author": "Hayden Bird",
@@ -88,45 +127,6 @@
       "Entertainment After an East Coast premiere in Cambridge, “Normal” hits theaters April 17.",
       "We caught up with Odenkirk and screenwriter Derek Kolstad.",
       "Brendan Fletcher, Bob Odenkirk and Reena Jolly in \"Normal."
-    ]
-  },
-  {
-    "title": "This Boston neighborhood is seeing the biggest Airbnb surge ahead of the World Cup",
-    "url": "https://www.boston.com/news/world-cup/2026/04/15/boston-airbnb-bookings-world-cup/",
-    "author": "Annie Jonas",
-    "section": "News",
-    "published": "2026-04-15T13:48:11.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouse15WorldCup3-69de851965204-768x432.jpg",
-    "bullets": [
-      "World Cup Airbnb booking data shows that one community in particular has already seen 122% surge in demand from fans headed to World Cup Boston.",
-      "The World Cup 2026 Countdown Clock is placed next to Faneuil Hall, in Boston, MA on Wednesday June 11, 2025.",
-      "(Pat Greenhouse/ The Boston Globe Staff) By Annie Jonas April 15, 2026 | 9:48 AM 2 minutes to read As the FIFA World Cup 2026 draws closer, early Airbnb booking data suggests some Boston-area neighborhoods are already seeing a surge in demand from traveling fans."
-    ]
-  },
-  {
-    "title": "A new White Mountains attraction invites you to sweat it out this spring",
-    "url": "https://www.boston.com/travel/scenic-six/2026/04/15/a-new-white-mountains-attraction-invites-you-to-sweat-it-out-this-spring/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-04-15T13:40:55.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Photo-59-2-69cfe2214eb4f-scaled-1-69df8d88beb1e-768x432.png",
-    "bullets": [
-      "Scenic Six Plus: Patriots Day activities and Maine seafood worth the trip.",
-      "You’re reading the award-winning Scenic Six, Boston.",
-      "com’s guide to New England travel."
-    ]
-  },
-  {
-    "title": "Homes for sale along the Boston Marathon route",
-    "url": "https://www.boston.com/real-estate/boston-marathon/2026/04/15/homes-for-sale-along-the-boston-marathon-route/",
-    "author": "Regina Cole",
-    "section": "Real Estate",
-    "published": "2026-04-15T13:29:41.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/9M2A1487-69de7970f3329-768x432.jpg",
-    "bullets": [
-      "Boston Marathon From suburban houses near the start to a city condo (and a sprawling Brookline mansion with 11 bathrooms) right near the finish.",
-      "90 Auburndale Ave.",
-      "in West Newton was built in 2025."
     ]
   }
 ]
