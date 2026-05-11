@@ -1,5 +1,83 @@
 [
   {
+    "title": "These are Boston’s highest-paid tech CEOs, BBJ data shows",
+    "url": "https://www.boston.com/news/business/2026/05/11/these-are-bostons-highest-paid-tech-ceos-bbj-data-shows/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-05-11T20:15:40.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouse05FedEXBold6-6a0233b473dfe-768x432.jpg",
+    "bullets": [
+      "Wayfair CEO Niraj Shah led Boston's tech CEO compensation in 2025 with $280.9M in stock and cash.",
+      "Vincent Roche of Analog Devices and Neil Barua of PTC Inc. followed with compensations of $27.5M and $24.3M.",
+      "The Boston Business Journal analyzed the top 10 CEO compensations using SEC proxy statements including stock and bonuses."
+    ]
+  },
+  {
+    "title": "Karen Read&#8217;s SUV heads to auction in Woburn. Here’s what readers think it’s worth.",
+    "url": "https://www.boston.com/community/readers-say/2026/05/11/karen-read-suv-car-auction-predictions/",
+    "author": "Annie Jonas",
+    "section": "Community",
+    "published": "2026-05-11T19:47:41.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanread14met-6a0221dd5e594-768x432.jpg",
+    "bullets": [
+      "The 2021 Lexus LX 570 linked to Karen Read will be auctioned in Woburn on May 14.",
+      "Auction respondents estimate the SUV could sell between less than $70,000 to over $500,000.",
+      "The SUV had issues like a dead battery and missing taillight but was refurbished before auction."
+    ]
+  },
+  {
+    "title": "Shooting on Memorial Drive in Cambridge leaves ‘at least’ one wounded, police say",
+    "url": "https://www.boston.com/news/local-news/2026/05/11/memorial-drive-shooting-cambridge/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-05-11T19:23:43.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Memorial-Drive-shooting-6a023889262a3-768x432.jpg",
+    "bullets": [
+      "At least one person was wounded in a police-involved shooting on Memorial Drive in Cambridge.",
+      "The suspect is in custody, and authorities report no ongoing threat to the public.",
+      "Cambridge police advised residents to avoid the area, citing a heavy police presence near River Street."
+    ]
+  },
+  {
+    "title": "Police investigating viral video of apparent food contamination at McDonald’s in Mass.",
+    "url": "https://www.boston.com/news/local-news/2026/05/11/southbridge-mcdonalds-viral-video-alleged-contamination/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-05-11T19:09:31.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/TPSSBJRGYY7ZBQQJY44HC4EWN4-698d24d0c8a46-768x432.jpg",
+    "bullets": [
+      "Southbridge police investigate a viral video of a McDonald's employee allegedly contaminating food by eating fries before repackaging them.",
+      "The Southbridge McDonald's franchise owners have terminated the involved employees and are collaborating with authorities to address the incident.",
+      "Local health officials found no violations, and the restaurant emphasizes safety measures and cooperation with ongoing investigations."
+    ]
+  },
+  {
+    "title": "MassINC poll: Many Bay Staters say their quality of life is slipping in Mass.",
+    "url": "https://www.boston.com/news/local-news/2026/05/11/massinc-poll-quality-of-life/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-05-11T18:56:17.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/HGAVKHTBXUI6HLOTRIERMW4UEQ-69f9bbeda379d-768x432.jpg",
+    "bullets": [
+      "MassINC poll shows 42% of Massachusetts residents feel worse off financially compared to last year.",
+      "Poll reveals 65% of residents ages 35-44 find housing unaffordable, with broader economic concerns in healthcare and taxes.",
+      "Only 27% of surveyed residents expect financial improvement next year, highlighting deepening economic pessimism in Massachusetts."
+    ]
+  },
+  {
+    "title": "Celtics reportedly tried to land Giannis Antetokounmpo at the trade deadline",
+    "url": "https://www.boston.com/sports/boston-celtics/2026/05/11/celtics-giannis-antetokoumpo-trade-rumours-deadline-comments/",
+    "author": "Khari A. Thompson",
+    "section": "Sports",
+    "published": "2026-05-11T18:51:35.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Giannis-Antetokounmpo-Celtics-Trade-Report-May-11-6a0220f5874a1-768x432.jpg",
+    "bullets": [
+      "Celtics pursued Giannis Antetokounmpo at the trade deadline along with Lakers, Knicks, Timberwolves, and Cavaliers.",
+      "Celtics face strategic changes after another playoff collapse, President Brad Stevens emphasizes adding paint scoring.",
+      "Bucks open to trading Antetokounmpo, who has two years left on his contract, for significant assets."
+    ]
+  },
+  {
     "title": "Student charged in Danvers home invasion murder appears in court",
     "url": "https://www.boston.com/news/crime/2026/05/11/student-charged-in-danvers-home-invasion-murder-appears-in-court/",
     "author": "Beth Treffeisen",
@@ -7,9 +85,9 @@
     "published": "2026-05-11T18:28:22.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryandanvers2met-69b98de1ea09b-768x432.jpg",
     "bullets": [
-      "Anthony DeMayo, 18, arraigned on murder and home invasion charges in Essex Superior Court from Bridgewater State Hospital.",
-      "Judge ordered an independent competency evaluation for DeMayo, who was found incompetent to stand trial in April.",
-      "Janet Swallow, 68, was found murdered in her home; DeMayo was arrested nearby with a blood-stained knife."
+      "Anthony DeMayo, 18, charged with murder and home invasion, pleads not guilty in Essex Superior Court.",
+      "DeMayo, accused of killing Janet Swallow, 68, attends arraignment remotely from Bridgewater State Hospital.",
+      "Judge grants request for independent competency evaluation; next status hearing set for May 29."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-05-11T18:22:54.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/03/HPGWDAXMARARXCVQVSVODTTAWE-67eaacbf46cde-768x432.jpg",
     "bullets": [
-      "Massachusetts Senate passed a bill limiting ICE activities, requiring compromise with the House's different version before Governor Healey's approval.",
-      "The Senate bill bans warrantless civil immigration arrests at sensitive locations and introduces civil liability for federal agents violating rights.",
-      "House version restricts warrantless arrests only in courthouses and includes rules for correctional facilities, missing in the Senate bill."
+      "Massachusetts Senate passed an immigrant protection bill, differing significantly from the House version passed earlier in March.",
+      "Senate bill bans warrantless civil immigration arrests at sensitive locations, unlike the narrower House restrictions.",
+      "House bill allows some 287(g) agreements and includes policies for correctional facilities, differing from the Senate's provisions."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-05-11T18:01:39.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/PRD7GKFTMJWGBGNMNT2GIKXAPM-6a020f049891d-768x432.jpg",
     "bullets": [
-      "Kevin Garnett and Paul Pierce criticized the Boston Celtics' reliance on 3-point shots during 'KG Certified' podcast.",
-      "The Celtics were eliminated after losing the final three games against the 76ers, blowing a 3-1 series lead.",
-      "Pierce noted the impact of losing front-court players like Porzingis, Horford, affecting their offensive versatility."
+      "Kevin Garnett and Paul Pierce criticized the Celtics' reliance on the 3-point shot, noting a lack of offensive adjustments.",
+      "The Celtics have blown significant playoff leads in recent seasons, including a 3-1 lead to the 76ers this year.",
+      "Garnett and Pierce highlighted personnel changes, including the loss of Kristaps Porzingis, affecting Boston's paint presence."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-05-11T17:59:39.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Modern-69fe0b80bd6c3-768x432.jpg",
     "bullets": [
-      "Brookline Lunch in Cambridge is famous for its baklava pancakes, attracting customers willing to wait over an hour.",
-      "Cannonball Cafe in South Boston draws a younger crowd with good coffee and social media buzz, resulting in waits up to an hour.",
-      "Modern Pastry and Neptune Oyster in the North End are celebrated for their traditional offerings, with lines often exceeding an hour."
-    ]
-  },
-  {
-    "title": "Mass. man wins $1M prize on lottery ticket bought at Kowloon",
-    "url": "https://www.boston.com/news/local-news/2026/05/11/mass-man-wins-1m-prize-on-lottery-ticket-bought-at-kowloon/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-05-11T17:46:37.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/04-27-26-4M-Cash-Doubler-1M-Weiju-Huang-6a0211c523a20-768x432.png",
-    "bullets": [
-      "Weiju Huang of Malden won a $1 million prize in the Massachusetts State Lottery's $4,000,000 Cash Doubler game.",
-      "Huang opted for a one-time cash payment, receiving $650,000 before taxes for his winning lottery ticket.",
-      "Kowloon Restaurant in Saugus, where the ticket was bought, receives a $10,000 bonus from the lottery."
-    ]
-  },
-  {
-    "title": "Tom Brady trolls Kevin Hart with &#8216;newborn-sized&#8217; jersey at Netflix roast",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/05/11/tom-brady-kevin-hart-netflix-roast-knicks-jersey-comments/",
-    "author": "Khari A. Thompson",
-    "section": "Sports",
-    "published": "2026-05-11T17:08:01.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Tom-Brady-Kevin-Hart-Roast-6a0204a9add72-768x432.jpg",
-    "bullets": [
-      "Tom Brady made a surprise appearance at 'The Roast of Kevin Hart' on Netflix, delivering comedic jabs at the comedian.",
-      "Brady gifted Kevin Hart a kid-sized Knicks jersey after the 76ers' playoff loss, poking fun at Hart's height.",
-      "Brady compared his football successes to Hart's acting roles, highlighting his seven Super Bowl wins versus Hart's film work."
-    ]
-  },
-  {
-    "title": "Are you traveling this summer? Tell us if your plans have changed.",
-    "url": "https://www.boston.com/community/tell-us/2026/05/11/are-you-traveling-this-summer/",
-    "author": "Kristi Palma",
-    "section": "Community",
-    "published": "2026-05-11T16:52:27.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/08/PEVTJACBCUI6VG3Z2NTLW2NO4E-68b02d18ee2db-768x432.jpg",
-    "bullets": [
-      "24% of Americans reconsidered travel plans due to rising costs and global events, according to a poll by The Points Guy and YouGov.",
-      "Travel disruptions include closed airspace in the Middle East, cartel violence in Mexico, and a prolonged U.S. government shutdown.",
-      "Readers are invited to share how their summer travel plans have changed, with potential inclusion in a future Boston.com article."
-    ]
-  },
-  {
-    "title": "NH authorities seeking &#8216;violent,&#8217; &#8216;armed and dangerous&#8217; fugitive",
-    "url": "https://www.boston.com/news/local-news/2026/05/11/nh-authorities-seeking-violent-armed-and-dangerous-fugitive/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-05-11T16:12:07.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/05/Untitled-design-16-6a01f974d6cfd.png",
-    "bullets": [
-      "Lisa Marie Lundstrom, 47, is wanted for absconding probation in New Hampshire and Massachusetts, deemed 'armed and dangerous.'",
-      "Lundstrom's criminal record includes charges of burglary, robbery, drug offenses, and assault dating back to 2007.",
-      "Authorities describe Lundstrom as 5'6\", 220 pounds, with tattoos and piercings; public advised to contact 911 if seen."
-    ]
-  },
-  {
-    "title": "Local obituary: Kai Prescott and Ella Brayton MacAusland, Wellesley siblings",
-    "url": "https://www.boston.com/news/massachusetts-obituaries/2026/05/11/local-obituary-kai-prescott-ella-brayton-macausland-wellesley-siblings/",
-    "author": "Boston.com Staff",
-    "section": "News",
-    "published": "2026-05-11T16:03:50.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/05/a0ea6cc01b66489aa2351c50f2066b25-6a01f7d60a00d.jpg",
-    "bullets": [
-      "Kai Prescott and Ella Brayton MacAusland, ages 7 and 6, tragically passed away on April 24, 2026.",
-      "The siblings attended Schofield Elementary School in Wellesley, with services set at St. Andrew's Episcopal Church.",
-      "Donations in their memory can be made to The Schofield PTO, with details available online."
-    ]
-  },
-  {
-    "title": "Fidelity reorganizes its workplace with new hires — and a few cuts",
-    "url": "https://www.boston.com/news/business/2026/05/11/fidelity-reorganizes-its-workplace-with-new-hires-and-a-few-cuts/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-05-11T15:32:15.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/KXCR6ALBEJ5B5M2ZFYTDQBWPRI-69a60ae09e00c-768x432.jpg",
-    "bullets": [
-      "Fidelity Investments is reorganizing and plans to hire thousands while cutting about 800 jobs, or 1% of its workforce.",
-      "The company is transitioning 25,000 roles to a new Technology and Product Operating model with 2,000 positions open.",
-      "Fidelity's restructuring aims to enhance skills for future growth and includes a full-time office return starting in September."
+      "Brookline Lunch in Cambridge draws long lines for its popular baklava pancakes, praised by both locals and celebrities.",
+      "Cannonball Cafe in South Boston attracts crowds with its good coffee, friendly atmosphere, and strong online presence.",
+      "Modern Pastry and Neptune Oyster in the North End have lines due to their tradition, nostalgia, and renowned food offerings."
     ]
   }
 ]
