@@ -1,5 +1,83 @@
 [
   {
+    "title": "Peter Wolf left one Boston art school to form the J. Geils Band. Six decades later, he earned an honorary doctorate from another.",
+    "url": "https://www.boston.com/culture/music/2026/05/22/peter-wolf-j-geils-band/",
+    "author": "Lauren Daley",
+    "section": "Culture",
+    "published": "2026-05-22T18:19:29.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Photo-3_MassArt_Honorees-6a107221ba7b0-768x432.jpg",
+    "bullets": [
+      "Peter Wolf of J. Geils Band received an honorary doctorate from Massachusetts College of Art and Design in May 2026.",
+      "Wolf's journey began by attending art classes undercover, eventually leading to his music career with the J. Geils Band.",
+      "Despite his music fame, Wolf continues to paint and is working on a new album and possibly more books."
+    ]
+  },
+  {
+    "title": "Boston 25 hires Lauren Walsh for newly-created role",
+    "url": "https://www.boston.com/sports/sports-news/2026/05/22/boston-25-hires-lauren-walsh-for-newly-created-role/",
+    "author": "Chad Finn",
+    "section": "Sports",
+    "published": "2026-05-22T18:08:56.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/lauren-walsh-6a1096b4ee0f8-768x432.jpg",
+    "bullets": [
+      "Lauren Walsh joins Boston 25 as a sports media journalist, a new position at the station.",
+      "Walsh, a Medford native and Syracuse graduate, previously worked at WSMV in Nashville.",
+      "She has also been a sports anchor/reporter in Winston-Salem, Burlington, and Syracuse."
+    ]
+  },
+  {
+    "title": "Somerville restaurant owner says viral &#8216;pool water&#8217; reply to customer review was unauthorized",
+    "url": "https://www.boston.com/food/food-news/2026/05/22/olivias-kitchen-somerville-pool-water/",
+    "author": "Autumn Sloboda",
+    "section": "Food",
+    "published": "2026-05-22T17:38:45.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/5JBCCU3PBJQPOXFIIO4WOGZMXI-6a107b29d6b45-768x432.jpg",
+    "bullets": [
+      "Simona Sbano, owner of Olivia's Kitchen in Somerville, disowns an unauthorized response to a customer review posted on Reddit.",
+      "Sbano addressed complaints about not serving tap water, stating the restaurant will now offer it upon request.",
+      "Sbano clarified Olivia's Kitchen's full liquor license status and emphasized that customers were transparently informed during the process."
+    ]
+  },
+  {
+    "title": "With split vote, City Council effort to reject Wu&#8217;s budget fails",
+    "url": "https://www.boston.com/news/local-news/2026/05/22/with-split-vote-city-council-effort-to-reject-wus-budget-fails/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-05-22T17:36:14.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner041526METRO15bodycam556-6a108de174d6b-768x432.jpg",
+    "bullets": [
+      "Boston City Council's vote to reject Mayor Michelle Wu's budget proposal ended in a 6-6 tie.",
+      "Councilor Brian Worrell supported budget rejection to pressure for increased spending; Ben Weber argued for fiscal responsibility.",
+      "Mayor Wu denies increasing spending or using reserves despite city and Boston Public Schools facing budget deficits."
+    ]
+  },
+  {
+    "title": "Kevin McHale questions Celtics&#8217; 3-point heavy approach: &#8216;The ball has got to touch the paint&#8217;",
+    "url": "https://www.boston.com/sports/boston-celtics/2026/05/22/celtics-kevin-mchale-joe-mazzulla-3-point-jayson-tatum-comments/",
+    "author": "Khari A. Thompson",
+    "section": "Sports",
+    "published": "2026-05-22T16:46:44.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/KKXUXRYVBEOQMZGB2WEIVURHRI-6a0eccd9d43d3-768x432.jpg",
+    "bullets": [
+      "Kevin McHale expressed concern over the Celtics' reliance on 3-point shots, advocating for more paint attacks.",
+      "The Celtics led in 3-point attempts but struggled with points in the paint and free-throw attempts this postseason.",
+      "McHale praised Tatum and Brown's skills, expressing hope for another title with the duo remaining together."
+    ]
+  },
+  {
+    "title": "Mass. pols issue report on possible effects of Haiti TPS termination on local health care",
+    "url": "https://www.boston.com/news/politics/2026/05/22/mass-pols-issue-report-on-possible-effects-of-haiti-tps-termination-on-local-health-care/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-05-22T16:31:01.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/3H5QLN7WPRHMNFKQ3PXWOUVTFA-6a0e063ef34a8-768x432.webp",
+    "bullets": [
+      "Report by Massachusetts politicians warns terminating Haitian TPS could worsen health care workforce shortages, risking patient care.",
+      "Approximately 13,000 Haitian TPS holders in Massachusetts work in health care, impacting 65,000 patients daily, the report states.",
+      "Supreme Court decision pending on whether Trump administration can end TPS, affecting thousands of Massachusetts residents."
+    ]
+  },
+  {
     "title": "This New England town hosts one of America&#8217;s best 4th of July celebrations, according to USA Today readers",
     "url": "https://www.boston.com/travel/new-england-travel/2026/05/22/new-england-town-best-4th-of-july-celebrations/",
     "author": "Kristi Palma",
@@ -7,9 +85,9 @@
     "published": "2026-05-22T15:46:34.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2016/07/231st_Bristol_RI_4th_of_July_Parade-768x432.jpg",
     "bullets": [
-      "Bristol, R.I. ranks fifth in USA Today's list of top 10 Fourth of July celebrations in the U.S.",
-      "The Bristol Fourth of July Celebration, starting in 1785, is the oldest continuous celebration in the country.",
-      "USA Today's 10Best Readers’ Choice Awards involved selections by travel experts and voting by the publication's readers."
+      "Bristol, R.I. hosts a Fourth of July celebration ranked fifth in USA Today's 2026 10Best Readers' Choice Awards.",
+      "Bristol's Fourth of July event, the oldest in the U.S., features parades and concerts, attracting over 200,000 spectators.",
+      "The Bristol celebration, begun in 1785, runs for three weeks starting on Flag Day, June 14."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-05-22T15:42:00.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/England-World-Cup-Squad-Reveal-6a1071b332c09-768x432.jpg",
     "bullets": [
-      "England announced their World Cup squad using a Beatles-themed video featuring the song 'Come Together.'",
-      "Notable omissions from the squad include Trent Alexander-Arnold, Harry Maguire, Cole Palmer, and Phil Foden.",
-      "Surprise selections include Ivan Toney and Djed Spence, despite the latter's recent injury."
+      "England revealed their World Cup squad using a Beatles-themed video, featuring the song 'Come Together.'",
+      "High-profile players like Trent Alexander-Arnold and Phil Foden were left off the squad by manager Thomas Tuchel.",
+      "Surprising inclusions are Ivan Toney, with limited national playtime, and Djed Spence, recovering from a broken jaw."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-05-22T15:41:23.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/stephen-colbert-late-show-series-finale-6a106d76f0d4c-768x432.jpg",
     "bullets": [
-      "Stephen Colbert hosted the final episode of 'The Late Show' with Paul McCartney as the last guest.",
-      "Celebrity appearances included Bryan Cranston, Paul Rudd, Tig Notaro, Tim Meadows, and Ryan Reynolds.",
-      "The finale featured a surreal segment with a wormhole and ended with musical performances by Elvis Costello and Paul McCartney."
+      "Stephen Colbert hosted the final episode of 'The Late Show' with Paul McCartney as his last guest.",
+      "The episode featured celebrity appearances, a surreal segment with a wormhole, and musical performances by Elvis Costello and Jon Batiste.",
+      "Colbert ended the show with a nod to 'St. Elsewhere,' shrinking the Ed Sullivan Theater into a snowglobe."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-05-22T15:00:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/FOZCYOWDBMI6NF66AO3LLK6JSQ-6a106d43c2a0e-768x432.jpg",
     "bullets": [
-      "Ogunquit, Maine was voted New England's best beach town in Boston.com's Battle of the Beach Towns.",
-      "JetBlue will end its service at Manchester-Boston Regional Airport effective July 8.",
-      "Harwich was named the favorite Cape Cod town by Boston.com readers, receiving over 850 votes."
-    ]
-  },
-  {
-    "title": "WWII-era rockets found in Nantucket sand dune",
-    "url": "https://www.boston.com/news/local-news/2026/05/22/wwii-era-rockets-found-in-nantucket-sand-dune/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-05-22T14:31:04.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Untitled-design-23-6a1065a571633-768x432.jpg",
-    "bullets": [
-      "WWII-era rockets discovered in a Nantucket sand dune were identified as unexploded military ordnance from training exercises.",
-      "Massachusetts State Police Bomb Squad neutralized the hazardous rockets with a controlled explosion on the island.",
-      "Local and state officials took over the scene after ensuring the area was safe, authorities confirmed."
-    ]
-  },
-  {
-    "title": "18-year-old allegedly brandishes gun during argument outside Mass. high school prom",
-    "url": "https://www.boston.com/news/crime/2026/05/22/18-year-old-allegedly-brandishes-gun-during-argument-outside-mass-high-school-prom/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-05-22T14:18:35.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-1-69c471e663f25-scaled.jpg",
-    "bullets": [
-      "An 18-year-old allegedly brandished a gun during a confrontation outside a South Shore high school prom in Kingston.",
-      "Police reported the suspect threatened to run over a student before fleeing the scene; no injuries occurred.",
-      "The suspect, not a student, was apprehended at his home in Randolph and is in custody; investigation ongoing."
-    ]
-  },
-  {
-    "title": "Car camping is trending this season, according to Hipcamp",
-    "url": "https://www.boston.com/travel/new-england-travel/2026/05/22/car-camping-is-trending-this-season-according-to-hipcamp/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-05-22T13:50:07.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/z-generic-car-1-6a0f4f451c95a-768x432.jpg",
-    "bullets": [
-      "Hipcamp reports a surge in car camping popularity, with over 1,000 related searches in Massachusetts.",
-      "Car camping involves sleeping in a car at campsites with easy access, privacy, and nearby amenities.",
-      "Hipcamp added a 'car camping' filter due to rising interest, ranking it fourth among rig filters."
-    ]
-  },
-  {
-    "title": "1 killed in Dorchester shooting",
-    "url": "https://www.boston.com/news/crime/2026/05/22/1-killed-in-dorchester-shooting/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-05-22T13:33:42.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-1-69c471e663f25-scaled.jpg",
-    "bullets": [
-      "A person was fatally shot near 260 Bowdoin St. in Dorchester around 1 a.m. Friday.",
-      "The victim was transported to a hospital but was pronounced dead shortly after arrival.",
-      "Boston Police have not released the victim's identity or information on any arrests; investigation is ongoing."
-    ]
-  },
-  {
-    "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-    "url": "https://www.boston.com/community/quizzes/2026/05/22/greater-boston-news-quiz-may-22-2026-heat-record-barney-frank-jaylen-brown/",
-    "author": "Peter Chianca",
-    "section": "Community",
-    "published": "2026-05-22T11:46:45.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN051926Hot-Weather_MET4-6a0f4c365c5c5-768x432.jpg",
-    "bullets": [
-      "Boston.com offers a quiz to test knowledge on recent Greater Boston news.",
-      "The quiz covers trending stories in the Greater Boston area for the week.",
-      "Peter Chianca, General Assignment Editor since 2019, oversees quiz content."
-    ]
-  },
-  {
-    "title": "How well do you know your World Cup trivia? Take our quiz.",
-    "url": "https://www.boston.com/sports/quizzes/2026/05/22/world-cup-trivia-quiz/",
-    "author": "Hayden Bird and Kelly Chan",
-    "section": "Sports",
-    "published": "2026-05-22T11:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/WCup_US_1994_Soccer_54751-6a0f547d1914c-768x432.jpg",
-    "bullets": [
-      "Gillette Stadium will host its first 2026 World Cup match in a few weeks.",
-      "A quiz tests readers' knowledge of World Cup history and trivia.",
-      "Eric Wynalda scored against Switzerland in the 1994 World Cup at the Pontiac Silverdome."
+      "Ogunquit, Maine, was voted New England's best beach town in the Boston.com reader poll.",
+      "JetBlue plans to cease operations at Manchester-Boston Regional Airport on July 8.",
+      "Harwich was voted the best Cape Cod town by more than 850 Boston.com readers."
     ]
   }
 ]
