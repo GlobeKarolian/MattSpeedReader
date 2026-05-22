@@ -1,5 +1,31 @@
 [
   {
+    "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+    "url": "https://www.boston.com/community/quizzes/2026/05/22/greater-boston-news-quiz-may-22-2026-heat-record-barney-frank-jaylen-brown/",
+    "author": "Peter Chianca",
+    "section": "Community",
+    "published": "2026-05-22T11:46:45.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN051926Hot-Weather_MET4-6a0f4c365c5c5-768x432.jpg",
+    "bullets": [
+      "Boston.com offers a news quiz to test knowledge of recent Greater Boston events.",
+      "Peter Chianca has been Boston.com's general assignment editor since 2019.",
+      "Chianca's background includes roles as a news editor, columnist, and music writer."
+    ]
+  },
+  {
+    "title": "How well do you know your World Cup trivia? Take our quiz.",
+    "url": "https://www.boston.com/sports/quizzes/2026/05/22/world-cup-trivia-quiz/",
+    "author": "Hayden Bird and Kelly Chan",
+    "section": "Sports",
+    "published": "2026-05-22T11:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/WCup_US_1994_Soccer_54751-6a0f547d1914c-768x432.jpg",
+    "bullets": [
+      "Boston.com offers a World Cup trivia quiz to test readers' soccer knowledge ahead of upcoming matches.",
+      "The first World Cup match at Gillette Stadium is scheduled in a few weeks.",
+      "Eric Wynalda's 1994 World Cup goal against Switzerland at the Silverdome is highlighted in the quiz."
+    ]
+  },
+  {
     "title": "9 students brought to hospital after school bus crash in Everett",
     "url": "https://www.boston.com/news/local-news/2026/05/21/nine-students-brought-to-hospital-after-school-bus-crash-everett/",
     "author": "Molly Farrar",
@@ -7,9 +33,9 @@
     "published": "2026-05-22T02:54:09.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Nine of 11 students were taken to hospitals for observation after a school bus crash in Everett.",
-      "The crash occurred at Broadway and Langton Street involving a school bus and a black car.",
-      "The cause of the accident is under investigation; no serious injuries were reported."
+      "Nine of 11 students on a school bus were sent to hospitals after a crash in Everett for observation.",
+      "The accident occurred at Broadway and Langton Street involving a school bus and a black car; investigation ongoing.",
+      "Surveillance footage shows the bus crossing a busy street when a black car hit its side; no serious injuries reported."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-05-22T02:00:05.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-6.20.30-PM-6a0fa3f38aa82-760x432.png",
     "bullets": [
-      "An endangered alligator snapping turtle was rescued from an Essex County pond in Massachusetts by wildlife officials.",
-      "The turtle, a non-native species suffering from pneumonia, was likely abandoned by a pet owner, authorities said.",
-      "The reptile was taken to New England Wildlife Center for recovery and may be returned to its native habitat."
+      "A rare alligator snapping turtle was found in an Essex County pond, illegally abandoned by its owner.",
+      "The 60-pound turtle, not native to Massachusetts, was lethargic and suffering from pneumonia due to cold water.",
+      "The turtle is being treated at New England Wildlife Center and may return to its native range for conservation."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-05-22T00:36:43.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Massachusetts_State_Trooper_Funeral_98235-6a0f9ae8782f5-768x432.jpg",
     "bullets": [
-      "Massachusetts Senate votes 40-0 to mandate infrastructure upgrades to deter wrong-way drivers after a fatal crash.",
-      "Trooper Kevin Trainor was killed by a wrong-way driver in Lynnfield; the Senate responds with safety measures.",
-      "The amendment mandates MassDOT to implement systems like signage and alerts to prevent wrong-way driving incidents."
+      "Massachusetts Senate voted 40-0 to mandate new infrastructure and warning systems against wrong-way drivers.",
+      "The amendment prioritizes public safety with measures like directional striping, signage, and detection systems.",
+      "Trooper Kevin Trainor was killed in a head-on collision by a wrong-way driver on Route 1 in Lynnfield."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-05-22T00:29:42.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Car-Doctor-6a0fa111d7cdf-768x432.jpg",
     "bullets": [
-      "John Paul advises a mixed garage with one gas and one electric vehicle for diverse driving needs.",
-      "Home charging solutions, like the MSI Smart Charger, are highlighted as crucial for electric vehicle practicality.",
-      "Public charging infrastructure is expanding, making long-distance EV travel more feasible over time."
+      "AAA's Car Doctor suggests a hybrid garage with one gas and one electric car for versatile needs.",
+      "The Hyundai Ioniq models are praised for their performance; Tesla Model 3 was not fully evaluated.",
+      "Home charging options like the MSI Smart Charger enhance the practicality of electric vehicle ownership."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-05-22T00:17:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/arias_horiz-6a0f8913dc22f-768x432.jpeg",
     "bullets": [
-      "Franklin Arias, a Red Sox prospect, rose from No. 36 to No. 6 in ESPN's latest rankings.",
-      "Arias is batting .328 with eight homers and 25 RBIs in 33 games with Double-A Portland.",
-      "Signed in 2023, Arias is praised for defense and improved offense, poised for potential All-Star status."
+      "Franklin Arias jumped from No. 36 to No. 6 in ESPN’s top 50 prospect rankings.",
+      "Arias has a .328 batting average with eight home runs and 25 RBIs for Double-A Portland.",
+      "The 20-year-old was signed from Venezuela in 2023 and is projected as a future MLB shortstop."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-05-21T23:26:59.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2013_04_05_BostonGlobe.com_Metro_Images_greenhouse_keer2_arts-6a0f7fb039782-768x432.jpg",
     "bullets": [
-      "Watertown police responded to a threat against Perkins School for the Blind, causing a lockdown Thursday morning.",
-      "The situation at Perkins School was resolved without danger, and police will not file criminal charges.",
-      "Watertown police cited student privacy as the reason for not releasing further information about the incident."
+      "Watertown police responded to an online threat against Perkins School for the Blind, prompting a lockdown Thursday morning.",
+      "The threat to Perkins School for the Blind was assessed and resolved with no charges filed, police confirmed.",
+      "While the situation is resolved, police will not release further details due to student privacy considerations."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-05-21T23:22:09.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/05/damonmesite-6a0f836c898f7-scaled.jpeg",
     "bullets": [
-      "Damon Mesite, 28, arrested in Meriden, Connecticut, charged with aiding and abetting sexual assault of an animal.",
-      "Kristiina Kennedy, 45, previously charged in April for sexually assaulting her dog and producing pornography.",
-      "Authorities seized pets and devices; Mesite's link to Kennedy remains undisclosed."
+      "Damon Mesite, 28, was arrested in Meriden, Connecticut, for aiding and abetting sexual assault of an animal.",
+      "Kristiina Kennedy, 45, of Meriden, was earlier charged with sexually assaulting her dog and producing pornography.",
+      "Kennedy's dog and cats were taken by animal control; authorities found videos suggesting illegal acts with the animals."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-05-21T22:44:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackibruins609-6a0f87b63324a-768x432.jpg",
     "bullets": [
-      "Boston Bruins are not renewing assistant coach Jay Leach's contract for the upcoming season.",
-      "Jay Leach rejoined the Bruins in June 2024, focusing on defense and penalty kill strategies.",
-      "Despite improvements in individual player performance, the Bruins' defense ranked poorly under Leach's guidance."
-    ]
-  },
-  {
-    "title": "NFL insider would be &#8216;surprised&#8217; if Patriots don&#8217;t land A.J. Brown",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/05/21/nfl-insider-would-be-surprised-if-patriots-dont-land-a-j-brown/",
-    "author": "Khari A. Thompson",
-    "section": "Sports",
-    "published": "2026-05-21T21:48:16.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/VJSQ5JXLFR65PBMGTVV4BQND7Q-699cda8759c34-768x432.jpg",
-    "bullets": [
-      "NFL insider Ian Rapoport expects the Patriots to pursue A.J. Brown, but no deal is imminent.",
-      "Brown's cap hit could be spread over two years starting June 1, potentially influencing trade discussions.",
-      "Speculation includes Kayshon Boutte possibly being part of the trade to acquire A.J. Brown."
-    ]
-  },
-  {
-    "title": "Here’s how much a last-minute trip to Cape Cod for Memorial Day weekend costs",
-    "url": "https://www.boston.com/culture/cape-cod-travel/2026/05/21/heres-how-much-a-last-minute-trip-to-cape-cod-for-memorial-day-weekend-costs/",
-    "author": "Annie Jonas",
-    "section": "Culture",
-    "published": "2026-05-21T20:39:57.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/fe00afcc-d462-11e7-bf5e-9ebc1b017745-6a0f3317f404c-768x432.jpg",
-    "bullets": [
-      "A day trip to Cape Cod, including gas, meals, and activities, totals approximately $162.75.",
-      "A couple's getaway from Friday to Monday on Cape Cod is estimated at $1,867.55, factoring in lodging and expenses.",
-      "A family vacation for four on Cape Cod, with accommodations and activities, costs around $2,331.35 for Memorial Day weekend."
+      "The Boston Bruins are reportedly not renewing assistant coach Jay Leach's contract for the upcoming season.",
+      "Leach rejoined the Bruins in June 2024, focusing on defense and penalty kill under coaches Jim Montgomery and Marco Sturm.",
+      "Under Leach, Bruins ranked 14th in goals allowed per game but struggled in penalty kill and high-danger scoring chances."
     ]
   }
 ]
