@@ -1,5 +1,83 @@
 [
   {
+    "title": "Cape Cod’s Sundae School to offer 76-cent ice cream scoops",
+    "url": "https://www.boston.com/food/food-news/2026/05/28/cape-cods-sundae-school-to-offer-76-cent-ice-cream-scoops/",
+    "author": "Autumn Sloboda",
+    "section": "Food",
+    "published": "2026-05-28T20:02:33.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2022/07/Sundae-School-62cc6e3ccf6c3-768x432.jpg",
+    "bullets": [
+      "Sundae School to offer 76-cent ice cream scoops on June 14 from 2-4 p.m. at Harwich Port and Dennisport.",
+      "The 76-cent price reflects the year 1976 when Sundae School first opened in Cape Cod.",
+      "The anniversary celebration will occur at the Harwich Port location, 606 Main St., as part of Sundae School's 50-year milestone."
+    ]
+  },
+  {
+    "title": "July 4th fireworks cancellation sparks intense pushback in Rutland",
+    "url": "https://www.boston.com/news/local-news/2026/05/28/july-4th-fireworks-cancellation-sparks-intense-pushback-in-rutland/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-05-28T20:00:33.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/05/Trump_Fourth_of_July_66832-6a189911d8074-scaled.jpg",
+    "bullets": [
+      "Rutland, Massachusetts, canceled its July 4th fireworks, parade, and concert due to insufficient public safety personnel.",
+      "Residents are upset that their donations for the events will not be refunded; funds were already allocated for expenses.",
+      "Massachusetts Fiscal Alliance criticized the decision and urged the Attorney General to investigate the handling of event funds."
+    ]
+  },
+  {
+    "title": "2 teen girls arrested after Boston police allegedly find multiple firearms, drugs, and a knife in vehicle",
+    "url": "https://www.boston.com/news/crime/2026/05/28/2-teen-girls-arrested-after-boston-police-allegedly-find-multiple-firearms-drugs-and-a-knife-in-vehicle/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-05-28T19:41:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/653-BHA-6a186f4da57df-768x432.webp",
+    "bullets": [
+      "Boston police stopped a vehicle in Dorchester, recovering two loaded firearms, drugs, and a knife early Tuesday.",
+      "Jacqueline Rose Botelho, 18, and a 16-year-old from Taunton were arrested and face multiple firearm and drug charges.",
+      "Botelho pleaded not guilty and is held at Suffolk County Jail; her next court date is June 22."
+    ]
+  },
+  {
+    "title": "T pushing new PSA after fatal escalator incident",
+    "url": "https://www.boston.com/news/local-news/2026/05/28/t-pushing-new-psa-after-fatal-escalator-incident/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-05-28T19:05:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/37JENUSNTQI6TL4QEESOHUKPRU-6a0ea1c00e114-768x432.jpg",
+    "bullets": [
+      "MBTA to launch PSA campaign to highlight escalator emergency stop button usage after fatal incident at Davis Station.",
+      "Steven McCluskey died after being trapped in a Davis Station escalator; family and safety officials express concern.",
+      "MBTA General Manager Phil Eng emphasizes commitment to rider safety and potential surveillance upgrades after the incident."
+    ]
+  },
+  {
+    "title": "A 3BR cabin-style home near the Berkshires — can you guess the price?",
+    "url": "https://www.boston.com/real-estate/quizzes/2026/05/28/charlemont-berkshires-3-bedroom-guess-price/",
+    "author": "Emily Turner",
+    "section": "Real Estate",
+    "published": "2026-05-28T18:45:57.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Z7QMPZM6MZHYHABEA3QQ5TMUBI-6a156a9b96f4f-768x432.jpg",
+    "bullets": [
+      "A 3-bedroom cabin-style home on 14.6 acres near the Berkshires is available for purchase.",
+      "Built in 1977, the 2,185 square-foot home features 3 baths, 1 half-bath, and private sewer/water.",
+      "The 2025 property taxes for the home are $6,396, and potential buyers are prompted to guess the listing price."
+    ]
+  },
+  {
+    "title": "Mass. photographer stabbed in &#8216;unprovoked attack&#8217; while shooting wedding in Maine",
+    "url": "https://www.boston.com/news/crime/2026/05/28/mass-photographer-stabbed-in-unprovoked-attack-while-shooting-wedding-in-maine/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-05-28T18:18:48.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Untitled-design-25-6a1872841a409-768x432.jpg",
+    "bullets": [
+      "Donald Halsing, 26, a wedding photographer from Mendon, Mass., was stabbed during a wedding reception at Kingsley Camp Ground, Maine.",
+      "Halsing suffered serious injuries requiring emergency surgery after an 'unprovoked attack' and is expected to have a long recovery.",
+      "Andrew Manderson, 26, a wedding guest, was arrested and charged with elevated aggravated assault; he's held in Cumberland County Jail."
+    ]
+  },
+  {
     "title": "Conan O&#8217;Brien inspires grads, rips Trump administration at 2026 Harvard commencement",
     "url": "https://www.boston.com/culture/local-news/2026/05/28/conan-obrien-2026-harvard-commencement/",
     "author": "Kevin Slane",
@@ -7,9 +85,9 @@
     "published": "2026-05-28T17:54:11.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/conan-obrien-2026-harvard-commencement-6a187a10e8c35-768x432.jpg",
     "bullets": [
-      "Conan O'Brien delivered a humorous and inspirational speech at the 2026 Harvard commencement, addressing graduates with humility and wit.",
-      "O'Brien critiqued the Trump administration's policies on foreign students and joked about suing Harvard over personal grievances.",
-      "Sharing personal experiences, O'Brien emphasized adaptability and connection, encouraging graduates to prioritize community over individual achievement."
+      "Conan O'Brien delivered a 25-minute, humor-filled commencement address at Harvard, addressing graduates for the third time.",
+      "O'Brien criticized the Trump administration's efforts to limit foreign student enrollment and referenced his own comedic career.",
+      "He urged graduates to embrace humility and community, contrasting current political climate focused on individualism."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-05-28T17:40:48.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_03282026-no-kings-gomez-7-6a1870fb195ee-768x432.jpg",
     "bullets": [
-      "Governor Healey issues new guidance for schools, hospitals, and worship places on interacting with ICE agents.",
-      "Healey's executive order bans ICE civil arrests in state buildings and staging immigration operations on state property.",
-      "Massachusetts Legislature is working to finalize a bill preventing ICE in sensitive areas, following Healey's legislation."
+      "Gov. Maura Healey issued guidance for schools, hospitals, and worship places on interacting with ICE agents.",
+      "The guidance advises designated ICE contacts, protection of information, and requires judicial warrants for ICE entry.",
+      "Healey's executive order bans new 287(g) agreements, and prohibits ICE civil arrests in nonpublic state areas."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-05-28T17:05:16.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryantowersmet-6a1870edd1e26-768x432.jpg",
     "bullets": [
-      "Three teens allegedly attempted to climb the Old John Hancock Building's weather beacon Wednesday night, Boston police report.",
-      "The teens pushed past a security guard to exit, knocking him down, but he declined medical attention.",
-      "Police found no suspects or signs of forced entry; investigation into the incident is ongoing."
+      "Three teens reportedly attempted to climb the weather beacon atop the Old John Hancock Building in Boston.",
+      "Police were called to 200 Berkeley St. at 8:21 p.m. but found no suspects or forced entry on the rooftop.",
+      "The teens allegedly knocked a security guard to the ground and fled to Stuart Street; the investigation is ongoing."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-05-28T15:54:29.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-1-69c471e663f25-scaled.jpg",
     "bullets": [
-      "Johnathin Hutchins, 21, was clocked at 139 mph on a 2006 Suzuki GSX1300R in Swanzey, N.H.",
-      "Hutchins was arrested for reckless driving in a 50 mph zone on West Swanzey Road.",
-      "He was released on personal recognizance and is scheduled to appear in Keene District Court on July 1."
-    ]
-  },
-  {
-    "title": "Medford’s Julianne Nicholson, fresh off &#8216;Paradise,&#8217; is hitting the big screen with Brad Pitt",
-    "url": "https://www.boston.com/culture/entertainment/2026/05/28/medfords-julianne-nicholson-fresh-off-paradise-is-hitting-the-big-screen-with-brad-pitt/",
-    "author": "Lauren Daley",
-    "section": "Culture",
-    "published": "2026-05-28T14:58:29.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/FotoJet-2025-02-04T120648.169-6a182b972e1dc-768x432.webp",
-    "bullets": [
-      "Julianne Nicholson stars as 'Sinatra' in Hulu's 'Paradise', renewed for a third and final season.",
-      "Nicholson joins Brad Pitt in A24's 'The Riders', filmed in Greece, Brussels, and Ireland.",
-      "Nicholson, an Emmy winner, is predicted for another Emmy nomination for 'Paradise' in 2026."
-    ]
-  },
-  {
-    "title": "Man arrested in Harvard, MIT dorm break-ins",
-    "url": "https://www.boston.com/news/crime/2026/05/28/man-arrested-in-harvard-mit-dorm-break-ins/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-05-28T14:57:51.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/FS36DU3O7CGVPG265I44XUWELQ-6a0f46fd57b1e-768x432.jpg",
-    "bullets": [
-      "A 31-year-old man was arrested for breaking into dorms at Harvard and MIT.",
-      "Authorities charged him with assault, burglary, kidnapping, and unlawful entry with intent to commit a felony.",
-      "He is set to be arraigned in Cambridge District Court on Thursday following the incidents in May."
-    ]
-  },
-  {
-    "title": "Chris Sale admits he was &#8216;shocked&#8217; by Red Sox firing Alex Cora",
-    "url": "https://www.boston.com/sports/morning-sports-update/2026/05/28/chris-sale-admits-he-was-shocked-by-red-sox-firing-alex-cora/",
-    "author": "Hayden Bird",
-    "section": "Sports",
-    "published": "2026-05-28T14:29:47.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/Chris-Sale-Braves_Dodgers_Baseball__9229-6a1848b86186a-768x432.jpg",
-    "bullets": [
-      "Chris Sale was surprised by the Red Sox's decision to fire manager Alex Cora and his coaching staff.",
-      "Sale praised Cora's ability to connect with players, highlighting his effective communication across diverse backgrounds.",
-      "Since being traded to the Braves, Sale has excelled with a 2.36 ERA and a Cy Young Award win in 2024."
-    ]
-  },
-  {
-    "title": "A Mass. Hooters is closing its doors",
-    "url": "https://www.boston.com/food/restaurants/2026/05/28/a-mass-hooters-is-closing-its-doors/",
-    "author": "Samantha Genzer",
-    "section": "Food",
-    "published": "2026-05-28T14:27:05.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/05/707004269_1844697386666116_6631188720305808670_n-6a184fda27911.jpg",
-    "bullets": [
-      "The Hooters in Shrewsbury, Massachusetts, located at 291 Boston Turnpike, announced its closure on Facebook.",
-      "Shrewsbury Hooters thanked the community for support and memories, marking the end of its operations.",
-      "Hooters is rebranding, with original owners acquiring 140 locations to create a more family-friendly atmosphere."
-    ]
-  },
-  {
-    "title": "Local obituary: Madison Tesniere, 20-year-old from Raymond, N.H.",
-    "url": "https://www.boston.com/news/massachusetts-obituaries/2026/05/28/local-obituary-madison-tesniere-20-year-old-from-raymond-n-h/",
-    "author": "Boston.com Staff",
-    "section": "News",
-    "published": "2026-05-28T14:15:28.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-9.14.41-AM-6a184df155dcc.png",
-    "bullets": [
-      "Madison Tesniere, 20, passed away unexpectedly on May 23, 2026, in Lawrence, Massachusetts.",
-      "Maddi, known for her adventurous spirit, worked as a Med Tech in various New Hampshire health care facilities.",
-      "She is survived by her parents, siblings, and extended family; calling hours are on May 29, 2026."
-    ]
-  },
-  {
-    "title": "Registration to open for World Cup Fan Fest after city unveils 6 watch parties",
-    "url": "https://www.boston.com/sports/world-cup/2026/05/28/world-cup-fan-fest-boston-watch-parties/",
-    "author": "Samantha Genzer",
-    "section": "Sports",
-    "published": "2026-05-28T14:10:06.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/05/JFJZSBUIMUI6RJWXB3WSKFNQ4Y-6a1843b49869d-768x432.jpg",
-    "bullets": [
-      "Registration for the World Cup Fan Festival at Boston's City Hall Plaza opens Thursday at 2 p.m. through the Boston 26 website.",
-      "The free Fan Festival will run from June 12 through June 27, accommodating about 5,000 fans per day, with digital passes required.",
-      "Boston will host six World Cup watch parties; locations for some have been announced, additional sites to be revealed later."
+      "Johnathin Hutchins, 21, was arrested for allegedly driving 139 mph on a Suzuki motorcycle in Swanzey, NH.",
+      "The speeding incident occurred in a 50-mph zone on West Swanzey Road northbound on Tuesday evening.",
+      "Hutchins was charged with reckless driving and released on personal recognizance; court date set for July 1."
     ]
   }
 ]
