@@ -1,5 +1,31 @@
 [
   {
+    "title": "The ultimate walk around Boston debuts this weekend, and it’s 91 miles long",
+    "url": "https://www.boston.com/news/off-beat/2026/06/05/boston-boundless-trail-debuts/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-06-05T13:16:59.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Millers-River-Cambridge-6a21d97991d72-768x432.jpg",
+    "bullets": [
+      "The Boston Boundless Trail, a 91-mile urban hiking loop, debuts this weekend, tracing Boston's perimeter through its neighborhoods.",
+      "The trail, created by Walking City Trails, curates existing paths without new infrastructure, beginning in North End and ending in East Boston.",
+      "The trail aims to encourage exploration and address historic segregation, promoting social cross-pollination and discovering Boston's connected green spaces."
+    ]
+  },
+  {
+    "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+    "url": "https://www.boston.com/community/quizzes/2026/06/05/greater-boston-news-quiz-june-5-2026-meteor-hooters-aj-brown/",
+    "author": "Peter Chianca",
+    "section": "Community",
+    "published": "2026-06-05T10:44:22.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/armageddon-e1687829419978-6a21a1a26c7b1-768x432.jpeg",
+    "bullets": [
+      "Boston.com offers a Greater Boston news quiz to test residents' knowledge of local events.",
+      "The quiz covers recent trending stories in the Greater Boston area as of June 2026.",
+      "Peter Chianca has been Boston.com's general assignment editor since 2019."
+    ]
+  },
+  {
     "title": "New Hampshire man arrested in 1993 homicide of Maine woman",
     "url": "https://www.boston.com/news/crime/2026/06/04/new-hampshire-man-arrested-in-1993-homicide-of-maine-woman/",
     "author": "Darin Zullo",
@@ -7,9 +33,9 @@
     "published": "2026-06-05T02:17:23.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/06/danieljolly-6a222c174908c-scaled.jpeg",
     "bullets": [
-      "Daniel Jolly, 59, was arrested in Portsmouth, New Hampshire, for the 1993 murder of Maxine Bitomski in Kittery, Maine.",
-      "Jolly knew the victim through his job at a medical supply company that serviced Bitomski, according to police.",
-      "Maine State Police renewed the investigation in 2021, leading to Jolly's arrest; extradition plans to Maine are underway."
+      "Daniel Jolly, 59, was arrested in New Hampshire for the 1993 murder of Maxine Bitomski in Kittery, Maine.",
+      "Jolly worked for a medical supply company that provided services to Bitomski prior to her January 1993 death.",
+      "Maine State Police reopened the case in 2021, leading to Jolly's arrest after ongoing investigations."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-06-05T02:14:21.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Orioles_Red_Sox_Baseball__2846-6a222c12e5709-768x432.jpg",
     "bullets": [
-      "Red Sox pitcher Brayan Bello was demoted to Triple-A Worcester following a rough start against the Orioles.",
-      "Bello has struggled as a starter this season, holding a 16.88 ERA in the first inning over several games.",
-      "Despite strong bullpen performances, the Red Sox opted to send Bello down following continued starting struggles."
+      "The Red Sox demoted pitcher Brayan Bello to Triple-A Worcester following another poor start against the Orioles.",
+      "Bello has struggled with a 16.88 ERA in the first inning this season, impacting team performance.",
+      "Despite a strong 2025 season, Bello's recent starts led to his optioning to the minors for adjustments."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-06-05T01:55:40.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Attleboro police received 143 reports of teens riding e-bikes recklessly since November 2024.",
-      "A 16-year-old was charged after using an e-bike dangerously and confronting police in Attleboro.",
-      "Two teens attempted to steal a confiscated e-bike from police storage, leading to arrests."
+      "Since November 2024, Attleboro police have received 143 reports of teens riding e-bikes recklessly.",
+      "A 16-year-old was charged with multiple offenses after provoking an officer with dangerous e-bike riding.",
+      "Two other juveniles were arrested for attempting to steal the e-bike from police storage."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-06-05T01:35:57.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/northernlights-6a2221fd6f773-768x432.jpg",
     "bullets": [
-      "The aurora borealis may be visible over New England from Thursday night into Friday morning, says NOAA.",
-      "Peak viewing for the northern lights is expected between 10 p.m. and 2 a.m., avoiding light pollution is advised.",
-      "Auroras result from coronal mass ejections earlier this week; a smartphone may help capture the lights."
+      "The aurora borealis is expected to be visible over New England late Thursday into Friday morning, according to NOAA.",
+      "Peak viewing hours for the Northern Lights are projected between 10 p.m. and 2 a.m., weather permitting.",
+      "Skywatchers are encouraged to avoid light pollution and use cameras to capture the aurora's colors."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-06-05T00:30:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/2026_Subaru_Outback_31-6a221668eb803-768x432.jpg",
     "bullets": [
-      "Vehicle owners are not required to use the dealer for routine maintenance to retain their warranty.",
-      "Correct oil specification and quality filter use are necessary for non-dealer service to maintain the vehicle's warranty.",
-      "Newer Subaru engines may need specific oil standards, such as synthetic 0W-20 meeting Subaru specifications."
+      "Routine maintenance on leased vehicles, like the 2026 Subaru Outback, need not be done at a dealer to maintain warranty.",
+      "Non-dealer services should use correct oil specifications and quality filters; document service details for warranty coverage.",
+      "Subaru vehicles may require specific synthetic oils; confirm service providers use Subaru-compliant oil standards."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-06-05T00:25:13.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/06/canalesmartinez-6a220ec40db6a-scaled.jpeg",
     "bullets": [
-      "Enrique Canales-Martinez, 27, pleaded guilty to manslaughter for killing neighbor Jason Mayhew, receiving a 4-to-7-year prison sentence.",
-      "Mayhew was killed following an argument over loud music; Canales-Martinez shot Mayhew after he allegedly charged at him.",
-      "The victim's family criticized the sentence as too lenient, while the defense argued it was a case of self-defense."
+      "Enrique Canales-Martinez sentenced to 4-7 years for manslaughter in the death of neighbor Jason Mayhew in Worcester.",
+      "The argument over loud music escalated, resulting in Mayhew being shot twice by Canales-Martinez on June 21, 2025.",
+      "Mayhew’s family criticized the sentence, describing it as a 'slap in the face' following the court's decision."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-06-04T23:57:33.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/cop-opener-69c5b3a44c30e-scaled.jpeg",
     "bullets": [
-      "St. Paul's Episcopal Church in Holyoke canceled services and closed temporarily following a break-in and theft.",
-      "Stolen items included raffle prizes and food for a fundraiser supporting church renovations and a new daycare center.",
-      "A pizza party fundraiser will be held June 12 to help replace stolen items; new security measures are being implemented."
+      "St. Paul's Episcopal Church in Holyoke canceled services and closed after a theft targeting their fundraiser items.",
+      "Stolen items include food and raffle prizes for an annual golf tournament, supporting church renovations and daycare.",
+      "Holyoke police were contacted about suspicious activity; new security measures are being implemented at the church."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-06-04T23:32:57.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/02/Super_Bowl_Football_57007-698b807a1ad0a-768x432.jpg",
     "bullets": [
-      "Christian Gonzalez likely to sign contract extension with Patriots, increasing his salary beyond $2.2 million.",
-      "Gonzalez, absent from voluntary OTAs, aims to leverage for a better contract deal before season start.",
-      "Patriots coach Mike Vrabel expects Gonzalez at mandatory minicamp, emphasizing contract talks should remain private."
-    ]
-  },
-  {
-    "title": "Police investigating suspected arson at Boston&#8217;s Museum of African American History",
-    "url": "https://www.boston.com/news/local-news/2026/06/04/police-investigating-suspected-arson-at-bostons-museum-of-african-american-history/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-06-04T23:07:13.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouse22BlackHistory5-6a21fd74f247b-768x432.jpg",
-    "bullets": [
-      "Boston Police investigate a suspected arson labeled as a hate crime at the Museum of African American History.",
-      "A Juneteenth-themed package was set on fire outside the museum at 46 Joy St. in Beacon Hill, Boston.",
-      "Police seek public help to identify a white male suspect captured in surveillance images near the incident site."
-    ]
-  },
-  {
-    "title": "Woman, 69, killed in Swampscott fire",
-    "url": "https://www.boston.com/news/local-news/2026/06/04/woman-69-killed-in-swampscott-fire/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-06-04T22:30:02.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "A 69-year-old woman died after a fire in her Swampscott apartment on Thursday, authorities reported.",
-      "The fire occurred at a condominium complex on Loring Avenue and is under investigation by multiple agencies.",
-      "The woman's identity is withheld pending family notification, according to District Attorney Paul Tucker's office."
+      "Christian Gonzalez could sign a major contract extension with the Patriots this offseason, according to NFL insider Ian Rapoport.",
+      "Gonzalez is set to earn $2.2 million this season, with his salary jumping to $18.1 million under a fifth-year option in 2027.",
+      "Gonzalez's absence from voluntary OTAs may signal leverage tactics; Coach Vrabel expects him back for mandatory minicamp next week."
     ]
   }
 ]
