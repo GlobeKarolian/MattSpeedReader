@@ -1,5 +1,44 @@
 [
   {
+    "title": "Wellesley man pleads not guilty to stabbing his father to death at playground",
+    "url": "https://www.boston.com/news/crime/2026/06/26/wellesley-stabbing-father-james-bennett/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-06-26T15:37:24.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryancourt2met-6a3ea10cd6adf-768x432.jpg",
+    "bullets": [
+      "James Floyd Bennett III pleads not guilty for first-degree murder of his father at a Wellesley playground.",
+      "Police responded to Phillips Park following a 911 call; victim James Floyd Bennett Jr. died from multiple stab wounds.",
+      "Bennett III's attorney cited significant mental health issues; next court date set for July 10."
+    ]
+  },
+  {
+    "title": "Young boy hospitalized after falling from second-floor window in Worcester",
+    "url": "https://www.boston.com/news/local-news/2026/06/26/young-boy-hospitalized-after-falling-from-second-floor-window-in-worcester/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-06-26T13:33:26.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
+    "bullets": [
+      "A 4-year-old boy fell from a second-story window on Southold Road in Worcester and was hospitalized.",
+      "Worcester Police reported the incident happened at 5 p.m. Thursday, and the boy is now in stable condition.",
+      "The boy suffered bumps and bruises, but is expected to recover as the investigation into the fall continues."
+    ]
+  },
+  {
+    "title": "12-year-old dead, another child injured after bus collides with motorized scooter in Haverhill",
+    "url": "https://www.boston.com/news/local-news/2026/06/26/12-year-old-dead-another-seriously-injured-after-bus-collides-with-motorized-scooter-in-haverhill/",
+    "author": "Ross Cristantiello",
+    "section": "News",
+    "published": "2026-06-26T13:19:18.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
+    "bullets": [
+      "A 12-year-old girl died and another child was seriously injured after a bus collision on a motorized scooter in Haverhill.",
+      "The incident occurred at the intersection of Portland Street and 5th Avenue, with police receiving the report shortly before 4 p.m.",
+      "Haverhill Police and State Police are investigating, and witnesses are urged to contact the department with information."
+    ]
+  },
+  {
     "title": "4 takeaways from the U.S. loss against Türkiye in the World Cup",
     "url": "https://www.boston.com/sports/world-cup/2026/06/26/us-turkiye-world-cup-takeaways/",
     "author": "Hayden Bird",
@@ -7,9 +46,9 @@
     "published": "2026-06-26T11:36:26.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/US_Turkey_WCup_Soccer_48318-6a3dfa9f6b6ec-768x432.jpg",
     "bullets": [
-      "United States loses 3-2 to Türkiye in final group stage game of 2026 World Cup.",
-      "Auston Trusty scored early for the U.S., but Türkiye responded with goals from Arda Güler and Orkun Kökçü.",
-      "Despite loss, U.S. wins Group D and will face Bosnia and Herzegovina in the knockout stage."
+      "The United States lost to Türkiye 3-2 in their final group stage match of the 2026 World Cup.",
+      "Despite the loss, the U.S. won Group D and will face Bosnia and Herzegovina in the knockout stage.",
+      "Matt Turner started in goal for the U.S. as several regulars were rested with the group top spot secure."
     ]
   },
   {
@@ -20,9 +59,9 @@
     "published": "2026-06-26T10:26:02.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Ghana_England_WCup_Soccer_88897-6a3d414dd2794-768x432.jpg",
     "bullets": [
-      "Boston.com features a news quiz on recent Greater Boston events, testing readers' local news knowledge.",
-      "The quiz covers topics such as Mike Wankum's departure and Tall Ship visits to the area.",
-      "Peter Chianca has been the general assignment editor at Boston.com since 2019."
+      "Boston.com released a week-ending news quiz covering topics like Mike Wankum's departure and Tall Ship visits.",
+      "The Greater Boston News Quiz encourages locals to test their knowledge of recent regional news events.",
+      "Peter Chianca, Boston.com's general assignment editor, invites readers to stay updated through the weekly quiz."
     ]
   },
   {
@@ -33,9 +72,9 @@
     "published": "2026-06-26T03:43:36.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackidemconvention932-6a3de7b63c308-768x432.jpg",
     "bullets": [
-      "Rep. Seth Moulton allegedly knocked a phone from a questioner's hand at an event in Massachusetts.",
-      "Moulton's campaign claims the individual was a political tracker from America Rising, not a Fox News reporter.",
-      "Fox News denies paying the individual, stating they never compensate trackers for attending events."
+      "Rep. Seth Moulton allegedly knocked a phone from a person's hand at a campaign event, sparking controversy.",
+      "Moulton's campaign claims the individual was a 'paid political tracker' from America Rising, not a reporter.",
+      "Fox News denied paying the tracker, stating it never hires trackers to attend events and initially misidentified the person."
     ]
   },
   {
@@ -46,9 +85,9 @@
     "published": "2026-06-26T03:16:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Red-Sox-6a3dedb6308d0-768x432.jpg",
     "bullets": [
-      "Caleb Durbin's two-run homer led the Boston Red Sox to a 6-3 victory over the New York Yankees.",
-      "Connelly Early allowed two runs and struck out nine, helping the Red Sox win at Fenway Park for the first time this season.",
-      "Yankees starter Cam Schlittler lowered his ERA to 1.62 but left trailing 4-2 due to unearned runs and four errors."
+      "Caleb Durbin hit a two-run homer in the fifth inning, leading the Red Sox to a 6-3 win over the Yankees.",
+      "Connelly Early allowed two runs over six innings, striking out a season-high nine for the Red Sox victory.",
+      "Aroldis Chapman secured his 15th save as the Red Sox beat the Yankees at Fenway Park for the first time this season."
     ]
   },
   {
@@ -59,9 +98,9 @@
     "published": "2026-06-26T03:15:54.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/unnamed-1-6a3de445780ec-768x432.jpg",
     "bullets": [
-      "A car crashed into the Black Cow restaurant in Newburyport, injuring three people on Thursday evening.",
-      "The driver, a 67-year-old woman from Groveland, was uninjured and cooperating with police; alcohol is not suspected as a factor.",
-      "No structural damage was found, but the restaurant's bar area requires repairs; two men were hospitalized, a third declined treatment."
+      "A BMW X3 crashed into the Black Cow restaurant in Newburyport, injuring three customers on Thursday evening.",
+      "The 67-year-old driver from Groveland was uninjured and alcohol is not suspected to be a factor.",
+      "The building inspector found no structural damage; the restaurant remains open with repairs needed in the bar area."
     ]
   },
   {
@@ -72,9 +111,9 @@
     "published": "2026-06-26T02:56:25.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/IMG_5627-6a3de84aafaa6-768x432.jpg",
     "bullets": [
-      "A 58-year-old man was fatally stabbed Thursday night at Phillips Park in Wellesley, according to Norfolk County prosecutors.",
-      "James Floyd Bennett III, 26, was arrested and is expected to be arraigned Friday in Dedham District Court.",
-      "Prosecutors stated there is no public safety threat following the incident; investigations by State and Wellesley police continue."
+      "A 26-year-old man was arrested after a stabbing death in Phillips Park, Wellesley, Thursday night.",
+      "The victim, a 58-year-old man, was found with a stab wound and later died at Newton Wellesley Hospital.",
+      "The suspect, James Floyd Bennett III, is set to be arraigned in Dedham District Court; the investigation continues."
     ]
   },
   {
@@ -85,48 +124,9 @@
     "published": "2026-06-26T02:34:06.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/flock-1-6a3d9a7705851-768x432.jpeg",
     "bullets": [
-      "Framingham police will not renew their contract with Flock Safety after resident advocacy against license plate reader cameras.",
-      "The decision follows community concerns over privacy and data sharing, prompting the police to decommission the cameras by June 30.",
-      "A proposed ordinance will address use and oversight of license plate reader technology, ensuring data is used only for local enforcement."
-    ]
-  },
-  {
-    "title": "&#8216;Over a foot of manure&#8217;: Horses, mules among animals rescued from Western Mass. property, MSPCA says",
-    "url": "https://www.boston.com/news/local-news/2026/06/25/over-a-foot-of-manure-horses-mules-among-animals-rescued-from-western-mass-property-mspca-says/",
-    "author": "Carson Lyle",
-    "section": "News",
-    "published": "2026-06-26T01:58:01.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Several-of-the-animals-are-very-underweight-credit-MSPCA-Angell-6a3dd55f4dfa0-768x432.jpg",
-    "bullets": [
-      "Thirteen animals, including horses and mules, were rescued from unsanitary conditions in Western Massachusetts by the MSPCA-Angell.",
-      "Animals lived in over a foot of manure; several were underweight with overgrown hooves, making walking difficult.",
-      "Rescued animals are at MSPCA-Angell at Nevins Farm for treatment and adoption; MSPCA seeks more adopters."
-    ]
-  },
-  {
-    "title": "10 players Bruins could target in 1st round of 2026 NHL Draft",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/06/25/boston-bruins-nhl-hockey-draft-don-sweeney-prospects-first-round/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-06-26T01:18:44.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_LEE100625bruinsbrass4SPTS-4-6a3d9f5dbb8ff-768x432.jpg",
-    "bullets": [
-      "The Bruins are targeting prospects like Tommy Bleyl and Nikita Klepov in the first round of the 2026 NHL Draft.",
-      "Boston Bruins hold eight picks in the 2026 NHL Draft, including the 23rd overall in the first round.",
-      "Potential draftees include right-handed defenseman Tommy Bleyl and forward J.P. Hurlbert among others."
-    ]
-  },
-  {
-    "title": "Coyote warning issued in Beverly after dog attacked on trail",
-    "url": "https://www.boston.com/news/local-news/2026/06/25/coyote-warning-issued-in-beverly-after-dog-attacked-on-trail/",
-    "author": "Darin Zullo",
-    "section": "News",
-    "published": "2026-06-26T00:48:40.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/beverlycoyote-6a3dc3246ae37-768x432.jpg",
-    "bullets": [
-      "Beverly police issued a warning after a coyote attack on a dog near the Fox Hill Trail entrance Monday.",
-      "A coyote and pups were found in a den 30 feet from the trail entrance, prompting a caution to residents.",
-      "Police advise keeping dogs leashed and avoiding coyote dens to prevent incidents, due to their defensive behavior."
+      "Framingham Police will not renew their contract with Flock Safety due to privacy and surveillance concerns from residents.",
+      "The city's access to Flock's automated license plate reader system will end, and cameras will be decommissioned on June 30.",
+      "Framingham joins other Massachusetts communities like Cambridge and Natick in discontinuing Flock contracts over data sharing concerns."
     ]
   }
 ]
