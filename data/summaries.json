@@ -1,5 +1,70 @@
 [
   {
+    "title": "Boston-area restaurant chain takes Storrowing as opportunity to apologize, and plug their pizza",
+    "url": "https://www.boston.com/news/local-news/2026/06/30/boston-area-restaurant-chain-takes-storrowing-as-opportunity-to-apologize-and-plug-their-pizza/",
+    "author": "Peter Chianca",
+    "section": "News",
+    "published": "2026-06-30T15:22:33.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/06/storrowing-6a43d87f47387.jpeg",
+    "bullets": [
+      "Sal's Pizza truck gets stuck on Storrow Drive, owner issues public apology on Facebook.",
+      "The family-owned chain, Sal's Pizza, used the incident to promote their jumbo pizza slices.",
+      "Sal's Pizza was founded in 1990 and has over 100 locations in New England and Florida."
+    ]
+  },
+  {
+    "title": "As heat wave looms, more beaches close due to sewage spill",
+    "url": "https://www.boston.com/news/local-news/2026/06/30/as-heat-wave-looms-more-beaches-close-due-to-sewage-spill/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-06-30T14:39:17.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CraneBeach_09_031216mag-6a43d0235186d-768x432.jpg",
+    "bullets": [
+      "Beaches along the North Shore, including Crane and Plum Island, are closed due to a sewage spill in Haverhill.",
+      "Approximately 8 million gallons of untreated wastewater enter the Merrimack River daily after sewer main breaks in Haverhill.",
+      "Authorities work to divert wastewater as the holiday weekend nears, raising health and economic concerns in the region."
+    ]
+  },
+  {
+    "title": "Condom maker relocates headquarters to historic Lynn dairy creamery",
+    "url": "https://www.boston.com/news/business/2026/06/30/condom-maker-relocates-headquarters-to-historic-lynn-dairy-creamery/",
+    "author": "Beth Treffeisen",
+    "section": "News",
+    "published": "2026-06-30T14:12:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/©NahoKubota_3733-6a42cc9379797-768x432.jpg",
+    "bullets": [
+      "Global Protection Corp relocates headquarters from Boston Seaport to historic Lynn creamery at 630 Lynnway.",
+      "The move establishes Lynn as the nation's leading hub for condom shipments, handling 250 million annually.",
+      "Global Protection Corp's new 65,000-square-foot space accommodates manufacturing, fulfillment, and 60 employees."
+    ]
+  },
+  {
+    "title": "Supreme Court TPS decision leaves Haitian community, advocates reeling in Mass.",
+    "url": "https://www.boston.com/news/local-news/2026/06/30/supreme-court-tps-decision-leaves-haitian-community-advocates-reeling-in-mass/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-06-30T13:28:18.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_18haiti-03-6a43084e8c720-768x432.jpg",
+    "bullets": [
+      "The Supreme Court ruled 6-3 to end Temporary Protected Status for Haitian and Syrian immigrants, impacting 356,000 people nationwide.",
+      "Massachusetts, home to 45,000 TPS holders, braces for community and economic impacts, particularly in health care and education sectors.",
+      "Massachusetts officials are urging Congress to provide permanent legal protections for TPS holders, denouncing the ruling's potential consequences."
+    ]
+  },
+  {
+    "title": "In San Francisco, even $180,000 tech salaries are no longer enough",
+    "url": "https://www.boston.com/news/national-news/2026/06/30/in-san-francisco-even-180000-tech-salaries-are-no-longer-enough/",
+    "author": "New York Times Service",
+    "section": "News",
+    "published": "2026-06-30T13:24:13.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/https___nytapi.wieck_.com_feed-photos_aMjbU7vz-6a43c2d1b5dec-768x432.jpg",
+    "bullets": [
+      "Tech workers in San Francisco struggle with living costs, even with salaries over $180,000 due to rising rents.",
+      "The city's cost of living index shows expenses 65.6% above the national average, impacting housing affordability.",
+      "AI companies like OpenAI and Anthropic are creating new elites, further straining resources for other tech workers."
+    ]
+  },
+  {
     "title": "Inspired by its anti-Belichick coach, Paraguay forged a famous win in Foxborough",
     "url": "https://www.boston.com/sports/world-cup/2026/06/30/paraguay-germany-world-cup/",
     "author": "Hayden Bird",
@@ -7,9 +72,9 @@
     "published": "2026-06-30T12:39:52.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Paraguay-Win-Germany-World-Cup-Penalty-Kicks-Boston-Foxborough-6a43aaf8282b5-768x432.webp",
     "bullets": [
-      "Paraguay defeated Germany in a penalty shootout in the World Cup Round of 32 at Gillette Stadium.",
-      "Paraguayan coach Gustavo Alfaro described his team's victory as the greatest accomplishment of his career.",
-      "Germany missed three penalty kicks in the shootout, an unprecedented event in their World Cup history."
+      "Paraguay defeated Germany in a nail-biting penalty shootout in Foxborough, advancing to the World Cup Round of 16.",
+      "Coach Gustavo Alfaro led Paraguay to the unexpected victory, marking the nation's greatest World Cup win in history.",
+      "Germany missed three penalties in the shootout, an unprecedented occurrence in their World Cup history."
     ]
   },
   {
@@ -20,9 +85,9 @@
     "published": "2026-06-30T12:10:10.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/76ers_Celtics_Basketball_97_83-6a435156cb15d-768x432.jpg",
     "bullets": [
-      "Jaylen Brown is reportedly frustrated with the Celtics amid ongoing trade rumors this summer.",
-      "The Celtics continue to field trade offers for Brown, but it's unclear if they are actively looking to trade him.",
-      "Brown expressed a desire to remain with the Celtics, despite rumors connecting him to potential trades."
+      "Jaylen Brown is reportedly frustrated with the Celtics due to persistent trade rumors linking him to other teams.",
+      "The Celtics have continued to receive trade inquiries for Brown despite his significant contributions to last season's 56-win campaign.",
+      "Celtics President Brad Stevens remains noncommittal about Brown's future but stresses his importance to the team."
     ]
   },
   {
@@ -33,9 +98,9 @@
     "published": "2026-06-30T11:51:46.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/IMTHTTGDK5AG3HIWXQ46SDKZW4-6a434b4ab75c4-768x432.jpg",
     "bullets": [
-      "Willson Contreras hit a three-run homer in Red Sox's 6-3 win over the Nationals at Fenway Park.",
-      "Contreras was emotional due to recent devastating earthquakes in Venezuela, dedicating his home run to his country.",
-      "Contreras was ejected for challenging a non-reviewable check-swing call, causing further controversy and frustration."
+      "Red Sox first baseman Willson Contreras hit a three-run homer in a 6-3 win against the Nationals.",
+      "Contreras shed tears in the dugout over recent earthquakes in Venezuela, affecting his emotions during the game.",
+      "Contreras was ejected after challenging an umpire's ruling on his strikeout, deemed disrespectful by the umpire."
     ]
   },
   {
@@ -46,9 +111,9 @@
     "published": "2026-06-30T10:34:30.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Wellesley-College-6a42966dd54ab-768x432.jpg",
     "bullets": [
-      "Some Boston-area college costs exceed $100,000 annually, but most students pay less due to financial aid and scholarships.",
-      "Sticker prices include tuition, fees, room, and board, but actual student costs often differ significantly from published amounts.",
-      "Colleges often use endowments and tuition from wealthier families to subsidize lower-income students through financial aid."
+      "Published costs at some Boston-area colleges exceed $100,000 annually, but financial aid significantly reduces the actual cost for many students.",
+      "A significant portion of students receive institutional grants or aid, lowering the overall amount they pay at private colleges and universities.",
+      "Colleges use tuition from wealthier families to subsidize costs for lower-income students, offering merit scholarships and grants to aid affordability."
     ]
   },
   {
@@ -59,74 +124,9 @@
     "published": "2026-06-30T03:35:36.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2019_03_21_BostonGlobe.com_Arts_Images_Chin032019ArianaGrande_Arts1-6a4335443ae4c-768x432.jpg",
     "bullets": [
-      "Ariana Grande's TD Garden concerts on July 22 and July 24 rescheduled to July 23 and July 26 respectively.",
-      "TD Garden announced production challenges prompted the changes to ensure safe and intended delivery of the shows.",
-      "Tickets for the rescheduled dates will be honored, and ticket holders will receive direct communication with further details."
-    ]
-  },
-  {
-    "title": "Bruins prospect Dean Letourneau has gone from a project to a legitimate blue-chip talent",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/06/29/boston-bruins-nhl-hockey-dean-letourneau-boston-college-prospects/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-06-30T03:13:25.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/251107_BostonCollege_DeanLetourneau-6a43095c71d29-768x432.jpg",
-    "bullets": [
-      "Dean Letourneau scored 22 goals in his sophomore year at Boston College, improving from zero goals in his freshman year.",
-      "The 6-foot-7 Bruins prospect was a 2024 first-round draft pick and is now a leading talent in their pipeline.",
-      "Letourneau aims to dominate in his next college season before potentially advancing to the pro ranks."
-    ]
-  },
-  {
-    "title": "Why did City Hall&#8217;s FIFA Fan Festival close with some World Cup games left to play?",
-    "url": "https://www.boston.com/news/world-cup/2026/06/29/why-did-city-halls-fifa-fan-fest-close-with-some-world-cup-games-left-to-play/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-06-30T02:31:14.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/NYOYFTZO5LOJ7JRSROO3IL7XOE-6a4323e1d99fd-768x432.jpg",
-    "bullets": [
-      "Boston's FIFA Fan Festival at City Hall closed after the World Cup group stage, attracting over 155,000 visitors.",
-      "Financial constraints led to the festival's closure despite FIFA initially requiring festivals for the entire tournament duration.",
-      "Mayor Wu is exploring additional public viewing options in Boston for remaining World Cup matches after the Fan Fest closure."
-    ]
-  },
-  {
-    "title": "Could Bruins be a viable landing spot for Darnell Nurse via trade?",
-    "url": "https://www.boston.com/sports/boston-bruins/2026/06/29/boston-bruins-darnell-nurse-trade-rumors-nhl-hockey-edmonton-oilers/",
-    "author": "Conor Ryan",
-    "section": "Sports",
-    "published": "2026-06-30T01:14:23.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Oilers_Predators_Hockey_13817-6a43097949400-768x432.jpg",
-    "bullets": [
-      "Darnell Nurse, Oilers defenseman with a $9.25 million cap hit, has requested a trade after 12 seasons in Edmonton.",
-      "The Boston Bruins need defensive reinforcements and Nurse could boost their defense, specifically pairing with Charlie McAvoy.",
-      "Bruins face salary cap challenges with $7.7 million space, potentially trading players to acquire Nurse and address defensive weaknesses."
-    ]
-  },
-  {
-    "title": "Car carrying family of 3 pulled from Seekonk River in Rhode Island",
-    "url": "https://www.boston.com/news/local-news/2026/06/29/car-carrying-family-of-3-pulled-from-seekonk-river-in-rhode-island/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-06-29T22:23:36.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/IMG_1459-6a42ec038fc4e-768x432.jpeg",
-    "bullets": [
-      "A car with a family of three was retrieved from the Seekonk River near Taft Street boat ramp in Pawtucket, Rhode Island.",
-      "A jet ski rider heard the car enter the water and attempted rescue; another witness called 911 immediately.",
-      "Efforts involved Pawtucket and Rhode Island State Police, facing difficult dive conditions due to strong currents and poor visibility."
-    ]
-  },
-  {
-    "title": "Jamaica Mi Hungry closes restaurant, shifts focus back to food truck",
-    "url": "https://www.boston.com/food/food-news/2026/06/29/jamaica-mi-hungry-closes-returns-to-food-truck/",
-    "author": "Emily Turner",
-    "section": "Food",
-    "published": "2026-06-29T20:26:08.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2019/12/Coconut-shrimp-768x432.jpg",
-    "bullets": [
-      "Jamaica Mi Hungry has closed its Downtown Boston restaurant and will focus on catering and its food truck.",
-      "The food truck will stop at Kendall Square, MIT, and Boston Common weekly during the summer.",
-      "Chef Ernie Campbell founded Jamaica Mi Hungry in 2012, expanding from catering to food trucks and restaurants."
+      "Ariana Grande's TD Garden concerts on July 22 and 24 rescheduled to July 23 and 26 respectively.",
+      "The rescheduling is due to production challenges, ensuring full and safe delivery of the concerts.",
+      "All tickets remain valid for the new dates, and the July 25 show will proceed as originally scheduled."
     ]
   }
 ]
