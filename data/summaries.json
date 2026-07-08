@@ -1,5 +1,31 @@
 [
   {
+    "title": "Brothers, town employees, allegedly attacked homeless man in Holbrook and broke several of his bones",
+    "url": "https://www.boston.com/news/crime/2026/07/08/brothers-allegedly-attacked-homeless-man-holbrook/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-07-08T20:36:20.000Z",
+    "image": "https://www.boston.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.13.09-PM-6a4eaf6bf1be8.png",
+    "bullets": [
+      "Brothers Jesse and Jake Baxter are charged with assaulting a homeless man in Holbrook, breaking several bones.",
+      "The attack allegedly took place near Brookville Park on June 13; the victim was mistaken for another man.",
+      "Holbrook Police leveraged vehicle data and cameras to implicate the Baxters in the felony assault charges."
+    ]
+  },
+  {
+    "title": "&#8216;It&#8217;s about my life&#8217;: Why acclaimed Cambridge wine bar Dear Annie is closing",
+    "url": "https://www.boston.com/food/restaurants/2026/07/08/dear-annie-cambridge-closing/",
+    "author": "Emily Turner",
+    "section": "Food",
+    "published": "2026-07-08T20:17:44.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Q4SSMOB4IDG3TUHGM3B7GTRJDQ-6a3ba6e3cbe0e-768x432.jpg",
+    "bullets": [
+      "Dear Annie wine bar in Cambridge will close its dining room on July 31 to prioritize owner's family life.",
+      "Owner Lauren Friel plans to reopen in September with a focus on private and bespoke wine events.",
+      "Dear Annie, opened in 2021, gained national acclaim, appearing on lists by The New York Times and Bon Appétit."
+    ]
+  },
+  {
     "title": "Here&#8217;s the Celtics&#8217; 2026 Summer League roster and schedule",
     "url": "https://www.boston.com/sports/boston-celtics/2026/07/08/celtics-2026-summer-league-roster-schedule-comments/",
     "author": "Khari A. Thompson",
@@ -7,9 +33,9 @@
     "published": "2026-07-08T18:37:11.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/LAQIR3J7GBOUMEC32PRC6Y7IIQ-6a4e92c015512-768x432.jpg",
     "bullets": [
-      "Hugo Gonzalez, a second-year guard, headlines the Celtics' 2026 Summer League roster.",
-      "The roster includes 2026 draft picks Chris Cenac Jr. and Dillon Mitchell.",
-      "The Celtics' Summer League schedule starts on July 10 against the Raptors at Cox Pavilion."
+      "Celtics' Summer League roster features Hugo Gonzalez and first-round pick Chris Cenac Jr.",
+      "Celtics' Summer League games scheduled from July 10-15, all held at Cox Pavilion.",
+      "Amile Jefferson serves as head coach for the Celtics' 2026 Summer League team."
     ]
   },
   {
@@ -20,9 +46,9 @@
     "published": "2026-07-08T18:30:06.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/TKXSO6I4ZO57IIDZU7RZL4K7F4-6a35be1190ddd-768x432.jpg",
     "bullets": [
-      "Tartan Army donated $15,000 to the Massachusetts Child charity to assist students in need.",
-      "The Scottish fan club saved funds by using school buses for World Cup matches in Foxborough.",
-      "Donation will help students experiencing economic hardship purchase clothing, books, and school supplies."
+      "The Tartan Army donated $15,000 to the Massachusetts Child charity, benefiting students in need.",
+      "The donation resulted from savings by using school buses for transportation to World Cup matches in Foxborough.",
+      "The funds will assist Massachusetts students with economic hardships in purchasing clothing, books, and school supplies."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-07-08T17:57:38.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/CMB_OOH-Mock_Horiz_V2-6a4e7f13ebb1d-768x432.jpg",
     "bullets": [
-      "Cumberland Farms' parent company filed for a public offering, planning nationwide expansion and store renovations.",
-      "Plans include renovating 60 Cumberland Farms locations annually, targeting 600 to 700 rebranding across its U.S. network.",
-      "Cumberland Farms operates 1,500 retail locations with plans to introduce Krispy Krunch Chicken at selected sites."
+      "Cumberland Farms' parent company, EG Group, filed to go public, planning renovations and expansions nationwide.",
+      "The chain aims to refresh 60 Cumberland Farms stores annually, targeting 600 sites primarily in the Northeast.",
+      "Cumberland rebranded numerous stores; plans include introducing Krispy Krunch Chicken in 40 Loaf 'N Jug locations."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-07-08T16:43:54.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_greenhouse23chamber3-6a4e72e2c5b6b-768x432.jpg",
     "bullets": [
-      "Boston sues Meta, TikTok, Snapchat, and YouTube, alleging deliberate targeting of minors with addictive features.",
-      "The lawsuit is part of over 1,500 similar complaints and seeks compensation for student mental health support.",
-      "Boston Public Schools report rising mental health issues linked to social media, increasing support staff significantly since 2007."
+      "Boston Mayor Michelle Wu announced a lawsuit against Meta, TikTok, Snapchat, and YouTube targeting addictive features aimed at minors.",
+      "The suit will be consolidated with over 1,500 similar cases, seeking removal of features and compensation for mental health support.",
+      "Between 2015 and 2021, reports of persistent sadness among Boston high school students rose from 26.7% to 43.9%."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-07-08T16:43:21.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Serbia_Raspberries_96_99-6a4e6d683716c-768x432.jpg",
     "bullets": [
-      "Massachusetts reports 18 cyclosporiasis cases from May 1 to July 7, similar to usual seasonal numbers, says DPH.",
-      "The CDC reports 145 national cyclosporiasis cases through June 16, excluding nearly 800 cases in Michigan.",
-      "Cyclospora infections spread via contaminated food or water; past outbreaks linked to fresh produce like basil and raspberries."
+      "Massachusetts has reported 18 cases of cyclosporiasis since May 1, according to the state's Department of Public Health.",
+      "Cyclospora, a parasite causing diarrhea, spreads through contaminated food or water and has led to 145 reported cases nationwide.",
+      "Previous U.S. outbreaks linked to fresh produce like raspberries, basil, and scallions; washing can remove but cooking kills the parasite."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-07-08T15:56:56.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Jaylen-Brown-Celtics_Nuggets_Basketball_20725-6a4e718dd0488-768x432.jpg",
     "bullets": [
-      "Jaylen Brown revealed he is cousins with A.J. Brown, sharing a grandfather-grandson relationship.",
-      "Jaylen Brown, traded to the 76ers, and A.J. Brown, traded to the Patriots, both seek their second championships.",
-      "Jaylen Brown and A.J. Brown, both 29, have southern roots and won titles in their respective sports in 2024."
+      "Jaylen Brown revealed he and Patriots receiver A.J. Brown are cousins, sharing grandfathers who are brothers.",
+      "Both Jaylen and A.J. Brown, age 29, have won championships with different teams in 2024.",
+      "Jaylen was traded from the Celtics to the 76ers; A.J. moved from the Eagles to the Patriots in recent trades."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-07-08T15:53:27.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Carles-Gil-Revolution-MLS-All-Star-Selection-6a4e6dc7850e5-768x432.jpg",
     "bullets": [
-      "Carles Gil of New England Revolution named to the 2026 MLS All-Star roster for the fifth time.",
-      "The All-Star game will be against LIGA MX's All-Star squad in Charlotte on July 29.",
-      "Gil, 33, earned a coach’s selection with 5 goals and 4 assists in 14 games this season."
+      "Carles Gil was selected for the MLS All-Star Game, marking his fifth All-Star appearance.",
+      "The game will take place on July 29 at Bank of America Stadium in Charlotte.",
+      "Gil is the only Revolution player on the 29-member roster, named as a coach's selection."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-07-08T15:11:03.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/winslow-copy-6a4520f096cb7-768x432.jpg",
     "bullets": [
-      "Scott \"Scooter\" Winslow of Holbrook, Massachusetts, died after falling critically ill in Fiji from an infection possibly caused by an insect bite.",
-      "Winslow's condition worsened in Fiji, leading to his hospitalization in intensive care; a request for medflight to Mass General was denied.",
-      "Winslow's daughters traveled 8,000 miles to bid farewell before his passing, following a GoFundMe campaign to support the family."
-    ]
-  },
-  {
-    "title": "The Brigham and Women’s Hospital nurses strike is underway. Here&#8217;s what to know.",
-    "url": "https://www.boston.com/news/local-news/2026/07/08/brigham-and-womens-hospital-nurses-strike/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-07-08T15:04:10.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Kanto_-BrighamStrikeDay1_0016-6a4e5a2cb4c19-768x432.jpg",
-    "bullets": [
-      "Over 4,000 nurses strike at Brigham and Women's Hospital in Boston, organized by the Massachusetts Nurses Association.",
-      "The strike stems from failed negotiations over pay increases, health insurance, and workplace protections with Mass General Brigham.",
-      "The hospital remains operational, with replacement nurses covering shifts and patients advised to allow extra travel time."
-    ]
-  },
-  {
-    "title": "2 of the most charming main streets in America are in New England, according to Travel + Leisure",
-    "url": "https://www.boston.com/travel/new-england-travel/2026/07/08/the-most-charming-main-streets-in-america/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-07-08T14:52:16.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/10/VPORDWJE2W4T6K32U4DURCJY3I-68e018a69cfaf-768x432.jpg",
-    "bullets": [
-      "Nantucket, Massachusetts, and Brunswick, Maine, are highlighted as charming main streets by Travel + Leisure.",
-      "Nantucket's Main Street features 1800s Greek Revival homes, cafés, and boutiques, evoking historical charm.",
-      "Brunswick's Maine Street offers a community-driven atmosphere with independent shops and eateries since 1965."
+      "Scott 'Scooter' Winslow from Holbrook died after falling critically ill in Fiji during a trip that started in April.",
+      "Winslow developed a critical infection, possibly from an insect bite, and was admitted to an ICU in a local hospital.",
+      "A request to medflight Winslow to Mass General Hospital was denied, but his daughters managed to visit him before he passed away."
     ]
   }
 ]
