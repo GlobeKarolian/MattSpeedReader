@@ -1,5 +1,18 @@
 [
   {
+    "title": "Recent homes sales in Greater Boston (July 8)",
+    "url": "https://www.boston.com/real-estate/latest-sales/2026/07/08/recent-homes-sales-in-greater-boston-july-8/",
+    "author": "The Boston Globe",
+    "section": "Real Estate",
+    "published": "2026-07-08T09:00:00.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2022/08/transactions-illo-south-boston-scaled-1-62fcaf8fa4105-768x432.jpeg",
+    "bullets": [
+      "Abington homes sold for $750,000 and $525,000, built in 1973 and 1952 respectively, with three bedrooms each.",
+      "Acton's highest sale was a Colonial built in 2009, sold for $1,325,000, featuring four bedrooms and three baths.",
+      "The most expensive home in Arlington was built in 1909, sold for $2,230,000, with three bedrooms and three baths."
+    ]
+  },
+  {
     "title": "Foxborough files counterclaim to Patriots, Kraft Group’s lawsuit over annual stadium licensing fees",
     "url": "https://www.boston.com/news/local-news/2026/07/07/foxborough-files-counterclaim-to-patriots-kraft-groups-lawsuit-over-annual-stadium-licensing-fees/",
     "author": "Samantha Genzer",
@@ -7,9 +20,9 @@
     "published": "2026-07-08T03:45:53.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/HKIGHBB4UJHOVGDGTY5UIDG2ZU-6a4dc1d399de7-768x432.jpg",
     "bullets": [
-      "Foxborough filed a 61-page counterclaim against Kraft Sports & Entertainment over annual licensing fees for Gillette Stadium.",
-      "The town argues Kraft Sports must cover public safety costs for stadium events, not local taxpayers.",
-      "The legal dispute involves $1 million in new financial obligations tied to the stadium's 2026 entertainment license."
+      "Foxborough filed a counterclaim against Kraft Sports and New England Patriots over stadium's financial obligations.",
+      "The town argues the $1 million annual fees are public safety reimbursements, not unlawful licensing fees.",
+      "Foxborough seeks dismissal of the lawsuit and claims plaintiffs violated the lease's implied good faith agreement."
     ]
   },
   {
@@ -20,9 +33,9 @@
     "published": "2026-07-08T02:16:49.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-9.53.11-PM-6a4daf414bf13.png",
     "bullets": [
-      "UMass Lowell soccer player Tobias Forsythe died in a car crash in Ohio on July 5.",
-      "The truck driver, Asrarov Bekhzod, is charged with tampering with evidence after the crash.",
-      "Forsythe, 21, studied economics and was remembered as a passionate athlete and cherished teammate."
+      "UMass Lowell soccer player Tobias Forsythe, 21, died in a car crash in Ohio on July 5.",
+      "Forsythe's car was rear-ended by a semi truck; driver Asrarov Bekhzod is charged with evidence tampering.",
+      "Forsythe had transferred to UMass Lowell for the spring 2026 season, majoring in economics."
     ]
   },
   {
@@ -33,9 +46,9 @@
     "published": "2026-07-08T01:00:10.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Lumber_Mill_Explosion_42833-6a4d97c0d33c7-768x432.jpg",
     "bullets": [
-      "Alden J. Robbins, co-owner of Robbins Lumber, died from injuries sustained in a May 15 explosion and fire.",
-      "The explosion at Robbins Lumber injured 12 others and previously killed a firefighter and an assistant fire chief.",
-      "The cause of the explosion at the Maine lumber mill is under investigation, with rapid ignition cited as a factor."
+      "Alden J. Robbins, co-owner of Robbins Lumber in Searsmont, Maine, died from injuries sustained in a May 15 explosion.",
+      "The explosion and fire at Robbins Lumber have resulted in three deaths, including a firefighter and an assistant fire chief.",
+      "The explosion, determined accidental, injured 12 others and is being investigated by the Maine Department of Public Safety."
     ]
   },
   {
@@ -46,9 +59,9 @@
     "published": "2026-07-07T23:48:07.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/KAJJFTOXQFINQTDJWKWJHRNKUM-6a4d8040b6331-768x432.jpg",
     "bullets": [
-      "Plymouth County DA filed for a clerk-magistrate hearing to charge Brockton Mayor Moises Rodrigues with assault and battery.",
-      "The charge stems from allegations by a 17-year-old student accusing Mayor Rodrigues of inappropriate touching during a parade.",
-      "A previous harassment prevention order against Rodrigues was not extended, but his actions were called 'unwelcome' by a judge."
+      "Plymouth DA's office seeks assault and battery charge against Brockton Mayor Moises Rodrigues.",
+      "A clerk-magistrate hearing will determine if there's enough evidence for charges against Rodrigues.",
+      "Accusations stem from an alleged incident with a 17-year-old student at a Brockton parade."
     ]
   },
   {
@@ -59,9 +72,9 @@
     "published": "2026-07-07T21:36:33.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Untitled-design-34-6a4d699aad14a-768x432.jpg",
     "bullets": [
-      "Boston police seek public help to locate two suspects involved in a Roxbury shooting on June 30.",
-      "The suspects were last seen riding a moped in tandem down Schuyler Street towards Elm Hill Avenue.",
-      "Police released photos of the suspects, who wore black masks, and urged tips at (617) 343-4275."
+      "Boston Police seek public help locating two suspects from a moped tandem ride involved in Roxbury shots-fired incident.",
+      "The incident occurred on June 30 on Schuyler Street, with suspects seen heading towards Elm Hill Avenue.",
+      "Photos released show suspects wearing black masks; any information should be reported to detectives at (617) 343-4275."
     ]
   },
   {
@@ -72,9 +85,9 @@
     "published": "2026-07-07T21:00:09.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2025/11/Cavaliers_Celtics_Basketball_79178-5-69174f6606e2d-768x432.jpg",
     "bullets": [
-      "Jaylen Brown comforted six-year-old fan Giovanni Jean, upset over Brown's trade to the 76ers, during a meeting at MIT.",
-      "Jean's emotional reaction to the trade went viral, garnering over 1.1 million likes on Instagram.",
-      "Brown and Jean met at Brown's educational program, where Jean handed Brown a letter and received a hug."
+      "Jaylen Brown comforted six-year-old fan Giovanni Jean, whose emotional reaction to Brown's trade to the 76ers went viral.",
+      "Giovanni met Brown at his MIT program and expressed support, handing him a heartfelt letter.",
+      "Brown reassured the young fan they would remain friends, fulfilling a promise made via his Twitch stream."
     ]
   },
   {
@@ -85,9 +98,9 @@
     "published": "2026-07-07T20:35:26.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Xavier-Bautista-copy-6a4d5a1017e7e-768x432.jpg",
     "bullets": [
-      "Xavier Bautista was shot and killed in Cambridge early on July 4, with his body found nearly an hour later.",
-      "The Cambridge City Council ended the use of ShotSpotter technology, sparking debate after Bautista's death.",
-      "Cambridge officials acknowledged ShotSpotter could have reduced response time, as the shooting wasn't immediately reported to 911."
+      "Xavier Bautista, 32, was shot and killed in Cambridge on July 4; police were alerted by a passerby an hour later.",
+      "The shooting has intensified debate over Cambridge's decision to end its ShotSpotter contract, impacting gunshot detection response times.",
+      "Cambridge officials plan a community meeting to discuss the incident, while Bautista's family seeks justice through a GoFundMe campaign."
     ]
   },
   {
@@ -98,9 +111,9 @@
     "published": "2026-07-07T19:58:17.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/SJ6S4B3SRFGDHDTHDOVAIWICOY-6a4d52c07ee44-768x432.jpeg",
     "bullets": [
-      "Jaylen Brown traded from the Boston Celtics to the Philadelphia 76ers but continues his community projects in Boston.",
-      "Governor Maura Healey declared July 7 as 7uice Foundation Day in Massachusetts to honor Brown's impact.",
-      "Brown made the NBA All-Star team five times with the Celtics and plans to continue his philanthropy in Boston."
+      "Jaylen Brown was traded from the Boston Celtics to the Philadelphia 76ers, maintaining his dedication to Boston community work.",
+      "Brown's 7uice Foundation launched its fifth annual summer bridge program at M.I.T. in Cambridge, focusing on S.T.E.A.M subjects and leadership.",
+      "Massachusetts declared July 7th as 7uice Foundation Day, honoring Brown's contributions during his 10 seasons with the Celtics."
     ]
   },
   {
@@ -111,22 +124,9 @@
     "published": "2026-07-07T19:14:08.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/04/deluciasuspension-69cf125d99d39-scaled.jpg",
     "bullets": [
-      "John Tarshi, 25, of Lawrence faces drunk driving charges after crashing on I-95 near Exit 54A in Woburn.",
-      "Tarshi allegedly drove a Porsche the wrong way on the highway and refused field sobriety and breathalyzer tests.",
-      "A forged New Hampshire RMV document was found in Tarshi's car, and further charges may be pending."
-    ]
-  },
-  {
-    "title": "All the new movies and TV shows streaming now (July 2026)",
-    "url": "https://www.boston.com/culture/streaming/2026/07/07/new-movies-tv-streaming-july-2026/",
-    "author": "Kevin Slane",
-    "section": "Culture",
-    "published": "2026-07-07T18:59:46.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/new-movies-tv-shows-streaming-july-2026-6a4d472341998-768x432.jpeg",
-    "bullets": [
-      "Jennifer Garner stars in 'The Five-Star Weekend' on Peacock July 9, filmed on Nantucket with a notable ensemble cast.",
-      "HBO Max celebrates Shark Week with new shark content starting July 26, including the addition of 'Jaws' on Peacock.",
-      "HBO Max hosts the release of the Boston-filmed 'The Drama' on July 31, featuring highlights of new July releases."
+      "John Tarshi, 25, of Lawrence, arrested for drunk driving after crashing a Porsche on I-95 in Woburn.",
+      "Tarshi's vehicle, a 2017 Porsche 911 with a New Hampshire veteran plate, was traveling wrong-way before crash.",
+      "Potential charges include possession of a forged New Hampshire RMV document found in the Porsche's glove box."
     ]
   }
 ]
