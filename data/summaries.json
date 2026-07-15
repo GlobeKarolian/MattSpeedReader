@@ -1,5 +1,83 @@
 [
   {
+    "title": "5 of the best hotel restaurants in America are in New England, according to OpenTable",
+    "url": "https://www.boston.com/travel/restaurants/2026/07/15/best-hotel-restaurants-in-america-opentable/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-07-15T16:08:52.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/Contessa2-60d1e3f8187c2-768x432.jpg",
+    "bullets": [
+      "Five New England hotel restaurants made OpenTable's 2026 list of top 100 in America.",
+      "Massachusetts' Contessa and Mooo Beacon Hill, and Maine's Earth at Hidden Pond are on the list.",
+      "Michael Jordan's Steak House in Connecticut is highlighted for its upscale dining experience."
+    ]
+  },
+  {
+    "title": "Revolution&#8217;s Marko Mitrović reflected on World Cup memories",
+    "url": "https://www.boston.com/sports/new-england-revolution/2026/07/15/revolutions-marko-mitrovic-reflected-on-world-cup-memories/",
+    "author": "Sam Lattof",
+    "section": "Sports",
+    "published": "2026-07-15T16:03:05.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Marko-Mitrovic-6a57ac7eb1aaa-768x432.jpg",
+    "bullets": [
+      "Marko Mitrović shares childhood memories of watching the World Cup from Belgrade, starting with the 1982 tournament.",
+      "Mitrović recounts the 1990 World Cup excitement overshadowing his aunt's wedding due to Yugoslavia's match against Argentina.",
+      "As New England Revolution coach, Mitrović reflects on representing Serbia in youth soccer and coaching US teams in recent tournaments."
+    ]
+  },
+  {
+    "title": "Joe Mazzulla showcased MMA training regimen, spoke about its influence on coaching the Celtics",
+    "url": "https://www.boston.com/sports/morning-sports-update/2026/07/15/joe-mazzulla-mma-training-celtics/",
+    "author": "Hayden Bird",
+    "section": "Sports",
+    "published": "2026-07-15T15:54:45.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Joe-Mazzulla-MMA-Celtics-6a57a42c16706-768x432.jpg",
+    "bullets": [
+      "Joe Mazzulla trains in Brazilian jiu-jitsu with Eric Nicksick, contributing to his fitness and coaching strategies.",
+      "Mazzulla explores the psychological aspects of MMA, relating it to his coaching communication techniques with the Celtics.",
+      "Mazzulla plans to continue MMA training, aiming to use the mentality to enhance the team's performance."
+    ]
+  },
+  {
+    "title": "Report: Wrong-way driver who killed trooper had 9 drinks before Route 1 crash",
+    "url": "https://www.boston.com/news/local-news/2026/07/15/report-wrong-way-driver-trooper-kevin-trainor/",
+    "author": "Abby Patkin",
+    "section": "News",
+    "published": "2026-07-15T15:51:34.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/P74G2Q2HDDDUFSKMTRK54N4JYQ-6a4b785fd02aa-768x432.jpg",
+    "bullets": [
+      "Wrong-way driver Hernan Ramon Marrero had a blood alcohol level of 0.192, twice the legal limit, after drinking nine alcoholic beverages.",
+      "Trooper Kevin Trainor, 30, died following a head-on collision with Marrero on Route 1, returning from a public safety detail.",
+      "Traffic footage showed Marrero bypassed 'WRONG WAY' signs, drove 1.8 miles southbound in a northbound lane, causing the fatal crash."
+    ]
+  },
+  {
+    "title": "The best state to move to in 2026 is in New England — and it&#8217;s not Massachusetts",
+    "url": "https://www.boston.com/news/local-news/2026/07/15/best-state-to-move-to-2026-new-hampshire/",
+    "author": "Annie Jonas",
+    "section": "News",
+    "published": "2026-07-15T15:42:08.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_turner050125METRO05NHstatehouse9-1-6a579fcb5e006-768x432.jpg",
+    "bullets": [
+      "New Hampshire ranked No. 1 as the best state to move to in 2026, based on affordability, safety, and economic strength.",
+      "Maine ranked fifth, noted for its low violent crime rate and high air quality, contributing to its safety and quality of life.",
+      "Massachusetts, ranked sixth, excelled in healthcare and education but lagged in affordability and economic strength."
+    ]
+  },
+  {
+    "title": "Acclaimed Seaport restaurant Chickadee to close after 8 years",
+    "url": "https://www.boston.com/food/food-news/2026/07/15/chickadee-restaurant-closing/",
+    "author": "Emily Turner",
+    "section": "Food",
+    "published": "2026-07-15T15:19:35.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_LEE072920Chickadee1LIV-6a5792fa5d84f-768x432.jpg",
+    "bullets": [
+      "Chickadee, a James Beard-nominated restaurant in Boston's Seaport, is set to close on July 18 after eight years.",
+      "Opened by Chef John DaSilva and Ted Kilpatrick in 2018, Chickadee gained fame for its Mediterranean-inspired dishes.",
+      "The restaurant navigated the pandemic with a strong takeout program and hosted a popular monthly Cookbook Club series."
+    ]
+  },
+  {
     "title": "Man charged with boating under the influence after Mass. college student drowns in Connecticut",
     "url": "https://www.boston.com/news/local-news/2026/07/15/man-charged-with-boating-under-the-influence-after-mass-college-student-drowns-in-connecticut/",
     "author": "Beth Treffeisen",
@@ -7,9 +85,9 @@
     "published": "2026-07-15T15:07:16.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Michael Collins charged with boating under the influence after a fatal canoe accident in East Haddam, Connecticut.",
-      "Victim Dominick Tocci, a College of the Holy Cross student, drowned after canoe overturned on Lake Hayward.",
-      "Collins released on a promise to appear in court on July 23 following his arrest by Connecticut police."
+      "Michael Collins charged with boating under the influence after a canoe accident in Connecticut resulted in a drowning.",
+      "Dominick Tocci, a Holy Cross student, drowned after the canoe he was in overturned on Lake Hayward.",
+      "Collins was arrested on July 10 and is scheduled to appear in court on July 23."
     ]
   },
   {
@@ -20,9 +98,9 @@
     "published": "2026-07-15T14:16:31.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
     "bullets": [
-      "Fugitive Alan Marcus Lewis, wanted for a 2017 South End murder, was captured in Charlotte, North Carolina.",
-      "Lewis allegedly killed Brent Stevenson in a 2017 shooting; the incident led to a fatal car crash in Boston.",
-      "The U.S. Marshals located Lewis after a multi-year search; he had been living under assumed identities."
+      "Alan Marcus Lewis, wanted for a 2017 Boston murder, was captured by U.S. Marshals in Charlotte, North Carolina.",
+      "Lewis is charged in the fatal shooting of Brent Stevenson in Boston's South End on November 6, 2017.",
+      "After years on the run, Lewis was found living under assumed identities in multiple locations, including Texas and North Carolina."
     ]
   },
   {
@@ -33,9 +111,9 @@
     "published": "2026-07-15T14:10:32.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/DSC0858-6a568b9889cf2-768x432.jpg",
     "bullets": [
-      "Cape Cod Classics hosts over 20 events yearly, attracting nearly 500 members and raising over $11,000 for charity.",
-      "Smaller clubs like the Cape Cod British Car Club focus on specific themes, like classic British cars and local cruises.",
-      "Heritage Museums & Gardens volunteers restore historical cars, bringing 32 of 43 vehicles back to operational status."
+      "Cape Cod Classics hosts over 20 events annually, bringing together nearly 500 car enthusiasts and raising over $11,000 for charities.",
+      "British car enthusiasts gather at Cape Cod's Lemon Tree Shops, showcasing classic models and engaging in club-hosted charity events.",
+      "Heritage Museums & Gardens volunteers restored 32 out of 43 antique cars, preserving their historical operation and appearance."
     ]
   },
   {
@@ -46,87 +124,9 @@
     "published": "2026-07-15T13:26:51.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2019/04/amtrak-768x432.jpg",
     "bullets": [
-      "Amtrak warns of possible train delays in Northeast due to extreme heat from July 15 to July 17.",
-      "Trains may operate at reduced speeds during high temperatures, standard practice when tracks exceed 128 degrees.",
-      "Customers are advised to monitor train status on the Amtrak website or app for updates during heat advisory."
-    ]
-  },
-  {
-    "title": "Elin Hilderbrand talks &#8216;The Five-Star Weekend,&#8217; Nantucket, and her next book",
-    "url": "https://www.boston.com/culture/books/2026/07/15/elin-hilderbrand-five-star-weekend-tv-streaming/",
-    "author": "Lauren Daley",
-    "section": "Culture",
-    "published": "2026-07-15T12:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/U7A2IWEOZAQSIEDB2VAODSSDIA-6a4bd3480e02c-768x432.jpg",
-    "bullets": [
-      "Jennifer Garner stars in Peacock's adaptation of Elin Hilderbrand's novel 'The Five-Star Weekend,' filmed on Nantucket.",
-      "Elin Hilderbrand actively participated in the TV adaptation, providing insights into filming locations and island authenticity.",
-      "Hilderbrand's next projects include a sequel, 'The Thoroughbreds,' co-written with her daughter, releasing on September 15."
-    ]
-  },
-  {
-    "title": "Recent homes sales in Greater Boston (July 15)",
-    "url": "https://www.boston.com/real-estate/latest-sales/2026/07/15/recent-homes-sales-in-greater-boston-july-15/",
-    "author": "The Boston Globe",
-    "section": "Real Estate",
-    "published": "2026-07-15T09:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/10/house-orange-6705b939840fc-768x432.jpg",
-    "bullets": [
-      "Abington homes sold include a one-family Colonial on Old Farm Road for $1,225,000 and a 1928 bungalow for $550,000.",
-      "Acton's top property was a 2012 Colonial on Woodchester Drive, selling for $2,170,000, with several Great Road condos at $1,380,000.",
-      "Arlington's highest sale was a 1936 Colonial on Churchill Ave for $1,980,000, with a 1915 old-style home on Paul Revere Road at $899,000."
-    ]
-  },
-  {
-    "title": "Active-duty Everett firefighter dies from occupational cancer after 30 years of service, department says",
-    "url": "https://www.boston.com/news/local-news/2026/07/14/active-duty-everett-firefighter-dies-from-occupational-cancer-after-30-years-of-service-department-says/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-07-15T03:27:32.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Untitled-design-36-6a56f807ea84a-768x432.jpg",
-    "bullets": [
-      "Everett firefighter John Benoit, 63, dies of occupational cancer after over 30 years of service.",
-      "Benoit, a Wilmington resident, continued a family firefighting legacy after serving in the Air Force.",
-      "Benoit's wake is at JF Ward Funeral Home, Everett, followed by a funeral Mass at Our Lady of Grace Church."
-    ]
-  },
-  {
-    "title": "2 Dorchester women charged in alleged human trafficking scheme",
-    "url": "https://www.boston.com/news/crime/2026/07/14/2-dorchester-women-charged-in-alleged-human-trafficking-scheme/",
-    "author": "Samantha Genzer",
-    "section": "News",
-    "published": "2026-07-15T01:43:02.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-    "bullets": [
-      "Yuberkys Recci and Keysha Ortiz from Dorchester were charged with human trafficking, kidnapping, and multiple firearm offenses.",
-      "Recci allegedly coerced a homeless victim into sex work, confiscated her earnings, and held her captive in multiple locations.",
-      "Authorities linked the suspects to the crime through social media and GPS data; both were held without bail pending a hearing."
-    ]
-  },
-  {
-    "title": "&#8216;Brilliant, unique soul&#8217;: Mother remembers Fall River teen who drowned in pond",
-    "url": "https://www.boston.com/news/local-news/2026/07/14/brilliant-unique-soul-mother-remembers-fall-river-teen-who-drowned-in-pond/",
-    "author": "Audrey Cooney",
-    "section": "News",
-    "published": "2026-07-15T01:15:54.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-8.35.33-PM-6a56dc18e8de5-768x432.png",
-    "bullets": [
-      "Tristan Major, 17, drowned at South Watuppa Pond in Fall River on July 12; his body was recovered by police divers.",
-      "Mother Kailyn Lord described her son Rohan Rhys as intelligent and unique, with future plans including a therapeutic horse ranch.",
-      "Fall River Public Schools offered counseling after the incident; authorities do not suspect foul play in the drowning."
-    ]
-  },
-  {
-    "title": "Jennifer Garner posts throwback video of karaoke night at Nantucket restaurant",
-    "url": "https://www.boston.com/food/food-news/2026/07/14/jennifer-garner-posts-throwback-video-of-karaoke-night-at-nantucket-restaurant/",
-    "author": "Samantha Genzer",
-    "section": "Food",
-    "published": "2026-07-14T23:27:44.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/SMOVEMV7YIF3YCX6B4T3YSVFAA-6a56c2ee9f4f6-768x432.jpg",
-    "bullets": [
-      "Jennifer Garner shared a throwback video of a karaoke night at Gaslight in Nantucket, recorded on September 30, 2025.",
-      "The video features Garner and \"The Five-Star Weekend\" co-stars singing ABBA's \"Dancing Queen\" with local guide Bill Jamieson.",
-      "Garner expressed fondness for the experience while filming in Nantucket and praised the island's attractions and activities."
+      "Amtrak warns of potential train delays due to extreme heat in the Northeast from July 15 to 17.",
+      "Temperatures in Boston reached the 90s, prompting Mayor Michelle Wu to issue a heat advisory.",
+      "Amtrak reduces train speeds when track temperatures exceed 128 degrees as a safety measure."
     ]
   }
 ]
