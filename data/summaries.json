@@ -1,15 +1,41 @@
 [
   {
+    "title": "A &#8216;once-in-a-lifetime&#8217; weekend on Boston Harbor",
+    "url": "https://www.boston.com/travel/scenic-six/2026/07/16/a-once-in-a-lifetime-weekend-on-boston-harbor/",
+    "author": "Kristi Palma",
+    "section": "Travel",
+    "published": "2026-07-16T12:58:46.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/image-6a58ccc0460c2-768x432.png",
+    "bullets": [
+      "Dozens of tall ships paraded into Boston Harbor for Sail Boston 2026, featuring ships like Amerigo Vespucci and ARA Libertad.",
+      "Three New England hotels ranked among the world's best by Travel + Leisure, including XV Beacon in Boston at No. 55.",
+      "A new boutique hotel, The Harborvale, opened on Lake Champlain in Burlington, Vermont, offering sunset toasts and live music."
+    ]
+  },
+  {
+    "title": "2026-27 Bruins lineup 1.0: Predicting Boston’s lines, D pairs after start to offseason",
+    "url": "https://www.boston.com/sports/boston-bruins/2026/07/16/boston-bruins-lineup-depth-chart-lines-d-pair-pastrnak-nhl-hockey-mcavoy/",
+    "author": "Conor Ryan",
+    "section": "Sports",
+    "published": "2026-07-16T12:21:09.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Bruins_Devils_Hockey_91296-6a5893a1d598a-768x432.jpg",
+    "bullets": [
+      "Fraser Minten could join David Pastrnak and Morgan Geekie on the Bruins' top line for the 2026-27 season.",
+      "Frederic Brunet is paired with Charlie McAvoy, despite McAvoy's six-game suspension at the start of the season.",
+      "Jeremy Swayman will remain the primary goalie with Michael DiPietro as backup, following DiPietro's strong AHL performance."
+    ]
+  },
+  {
     "title": "12-acre horse farm in MetroWest lists for $1.9m",
     "url": "https://www.boston.com/real-estate/on-the-market/2026/07/16/little-brook-horse-farm-carlisle/",
     "author": "Regina Cole",
     "section": "Real Estate",
     "published": "2026-07-16T11:00:00.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/photo_online_002-6a57d39e071f4-768x432.jpg",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/photo_online_000-6a57d3280ace6-768x432.jpg",
     "bullets": [
-      "Little Brook Farm in Carlisle, a 12.6-acre horse property, is listed for $1.995 million.",
-      "The property includes an updated 4,646 square-foot farmhouse and a custom-designed barn with equestrian facilities.",
-      "There is potential for subdivision, with zoning allowing at least two buildable lots from the 12-acre property."
+      "Little Brook Farm in Carlisle, a 12.6-acre horse farm, is listed for $1,995,000.",
+      "The property includes a farmhouse, custom-designed barn, and equestrian facilities with leased horse stalls.",
+      "Possibility exists to subdivide the land, with trails accessing conservation areas like Great Brook State Park."
     ]
   },
   {
@@ -21,8 +47,8 @@
     "image": "https://www.boston.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.17.58-PM-6a584deb921bd.png",
     "bullets": [
       "Gorham, NH Police Chief Jimmy Willhoite placed on leave after video shows him grabbing a man by the throat.",
-      "The incident, involving Stephen Gregory, occurred at the police station and is under state investigation.",
-      "Gregory was reportedly arrested that night, though he disputes this claim; charges include simple assault and disorderly conduct."
+      "The incident is under investigation by the NH Department of Justice Public Integrity Unit and Police Standards Council.",
+      "Stephen Gregory claims he was assaulted by Willhoite during a police station confrontation after reporting a threat."
     ]
   },
   {
@@ -33,9 +59,9 @@
     "published": "2026-07-16T00:04:36.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2025/04/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_02_19_BostonGlobe.com_Metro_Images_BEDFORD_20170219_HOMICIDE_003-68113ba0b1df2-scaled.jpg",
     "bullets": [
-      "A 29-year-old man was fatally shot at 15 York St. in Dorchester on Wednesday morning, police reported.",
-      "Boston EMS pronounced the man dead at the scene, but authorities have not yet released his identity.",
-      "No arrests have been made; Boston Police urge the public for information via their CrimeStoppers Program."
+      "A 29-year-old man was shot and killed on York St. in Dorchester, Boston, Wednesday morning.",
+      "Police and EMS responded to the scene, where the man was declared dead. His identity remains undisclosed.",
+      "Authorities have not made any arrests and urge anyone with information to contact the Boston Police CrimeStoppers Program."
     ]
   },
   {
@@ -46,9 +72,9 @@
     "published": "2026-07-15T22:25:58.000Z",
     "image": "https://www.boston.com/wp-content/uploads/2026/03/cop-opener-69c5b3a44c30e-scaled.jpeg",
     "bullets": [
-      "U.S. Marshals arrested Cerron Wilcox-Buford and Laquan Burris for charges related to a mass shooting on Blue Hill Avenue.",
-      "The June 27 shooting resulted in one death and four hospitalizations; Jose Dantes was pronounced dead at the scene.",
-      "Wilcox-Buford and Burris pled not guilty and are held on $1 million and $250,000 bail, respectively, pending August hearings."
+      "Two Boston men were arrested in connection with a June mass shooting on Blue Hill Avenue, leaving one dead, four injured.",
+      "Cerron Wilcox-Buford and Laquan Burris face charges including assault to murder and assault with a dangerous weapon.",
+      "Wilcox-Buford and Burris are held on $1 million and $250,000 bail, respectively; both have pleaded not guilty."
     ]
   },
   {
@@ -59,9 +85,9 @@
     "published": "2026-07-15T22:10:47.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/2CDPBQKVYLA5B7PNDSBL4AD73I-6a57fa1b78501-768x432.jpg",
     "bullets": [
-      "Massachusetts reported 18 cases of cyclosporiasis from May 1 to July 1, consistent with usual seasonal levels.",
-      "The state is not experiencing the cyclospora outbreak affecting Midwestern states, reports the Department of Public Health.",
-      "Past cyclospora outbreaks in the U.S. linked to fresh produce; symptoms include diarrhea and nausea, treatable with antibiotics."
+      "Massachusetts reported 18 cases of cyclosporiasis from May 1 to July 1, aligning with typical seasonal patterns.",
+      "The Midwestern outbreak of cyclospora, affecting over 400 people, hasn't impacted Massachusetts, according to state officials.",
+      "Cyclospora transmitted via contaminated food/water, with symptoms like diarrhea and nausea; previous outbreaks linked to fresh produce."
     ]
   },
   {
@@ -72,9 +98,9 @@
     "published": "2026-07-15T20:33:34.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/parade-of-sail-6a57e0a9423ad-768x432.jpg",
     "bullets": [
-      "Courageous Sailing Center in Boston adapted its summer camp logistics due to Tall Ships docking nearby at Pier 4.",
-      "Piers Park Sailing Center reported 300 youths participated in sailing instruction during Sail Boston 250.",
-      "Community Boating, Inc. engages youth in sailing, with tall ships crew joining Charles River activities."
+      "Sail Boston 250 brings tall ships and thousands of visitors, posing logistical challenges for local sailing programs.",
+      "Courageous Sailing Center used the Mystic River to continue youth programs during the event's busy period.",
+      "Community Boating, Inc. engaged festival-goers with educational tents and regular programs to promote sailing interest."
     ]
   },
   {
@@ -85,9 +111,9 @@
     "published": "2026-07-15T20:31:18.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanfire3met-6a57e758cc8aa-768x432.jpg",
     "bullets": [
-      "Massachusetts issues an air quality alert due to smoke from Canadian wildfires, effective until 12 a.m. Thursday.",
-      "The alert warns that PM2.5 levels could be unhealthy for sensitive groups including those with respiratory conditions.",
-      "Residents are advised to limit outdoor activities and check air quality forecasts via the MassDEP’s MassAir map."
+      "Massachusetts has issued a statewide air quality alert due to smoke from Canadian wildfires affecting air quality.",
+      "The alert is in effect through 12 a.m. Thursday, with air quality labeled 'unhealthy for sensitive groups.'",
+      "Residents, especially sensitive groups, are advised to limit prolonged outdoor activities and monitor symptoms like shortness of breath."
     ]
   },
   {
@@ -98,35 +124,9 @@
     "published": "2026-07-15T20:29:35.000Z",
     "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/IMG_9757-6a57ae9071d57-768x432.jpeg",
     "bullets": [
-      "The tall ship Oosterschelde from the Netherlands is docked at Rowes Wharf for Sail Boston 2026.",
-      "Oosterschelde, built in 1918, offers public tours daily from 10 a.m. to 10 p.m. during the event.",
-      "Oosterschelde will continue its journey to Quincy, Canada, Spain, and France before returning to the Netherlands."
-    ]
-  },
-  {
-    "title": "Brittney Spencer found Bob Dylan in her dressing room. Here&#8217;s what happened next.",
-    "url": "https://www.boston.com/culture/music/2026/07/15/brittney-spencer-found-bob-dylan-in-her-dressing-room-heres-what-happened-next/",
-    "author": "Lauren Daley",
-    "section": "Culture",
-    "published": "2026-07-15T17:38:40.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/More_Arm_Space_RT_20230330_FONTAINE_BRITTNEY_SPENCER_SHOT_01_0166_1_2-6a57bf8756533-768x432.jpg",
-    "bullets": [
-      "Brittney Spencer encountered Bob Dylan in her dressing room after a performance at the Outlaw Music Fest in 2024.",
-      "Dylan, intrigued by Spencer's music, eventually asked her to join his summer tour in New England.",
-      "Spencer's recent career includes collaborations with notable artists like Willie Nelson, Beyonce, and Lucinda Williams."
-    ]
-  },
-  {
-    "title": "5 of the best hotel restaurants in America are in New England, according to OpenTable",
-    "url": "https://www.boston.com/travel/restaurants/2026/07/15/best-hotel-restaurants-in-america-opentable/",
-    "author": "Kristi Palma",
-    "section": "Travel",
-    "published": "2026-07-15T16:08:52.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/Contessa2-60d1e3f8187c2-768x432.jpg",
-    "bullets": [
-      "Five New England hotel restaurants ranked among OpenTable's 2026 top 100 in America.",
-      "Contessa at The Newbury Boston and Mooo Beacon Hill featured on the list from Massachusetts.",
-      "Earth at Hidden Pond and White Barn Inn Restaurant in Maine, plus Michael Jordan’s Steak House in Connecticut included."
+      "Oosterschelde, a 164-foot Dutch tall ship from 1918, is open for public tours at Sail Boston 2026.",
+      "The ship will remain in Massachusetts, moving to Quincy for tours from July 16-19 before sailing to other countries.",
+      "Rowes Wharf Sea Grille offers special Dutch martinis and snacks in celebration of the Oosterschelde's visit."
     ]
   }
 ]
