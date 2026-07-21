@@ -1,5 +1,31 @@
 [
   {
+    "title": "Boston police looking to identify man who allegedly assaulted Downtown Crossing worker",
+    "url": "https://www.boston.com/news/local-news/2026/07/20/boston-police-looking-to-identify-man-who-allegedly-assaulted-downtown-crossing-worker/",
+    "author": "Samantha Genzer",
+    "section": "News",
+    "published": "2026-07-21T02:26:22.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Untitled-design-25-6a5ed27818c88-768x432.png",
+    "bullets": [
+      "Local News The suspect allegedly punched and kicked the worker before placing him in a headlock, police say.",
+      "A photo of the suspect accused of physically and verbally assaulting an employee in the area of Downtown Crossing.",
+      "Boston Police Department Boston police are seeking the public’s help in identifying a man who is suspected of physically assaulting an employee in the Downtown Crossing area on Friday."
+    ]
+  },
+  {
+    "title": "Red-hot Red Sox extend winning streak to 14, topping Orioles 6-5",
+    "url": "https://www.boston.com/uncategorized/boston-red-sox/2026/07/20/red-hot-red-sox-extend-winning-streak-to-14-topping-orioles-6-5/",
+    "author": "The Associated Press",
+    "section": "Uncategorized",
+    "published": "2026-07-21T02:04:49.000Z",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/Red-Sox-6a5ed27ee5434-768x432.jpg",
+    "bullets": [
+      "Boston Red Sox The Red Sox would match a club record with a win Tuesday night.",
+      "Boston won 15 straight in 1946 on a team led by future Hall of Famer Ted Williams.",
+      "Jarren Duran (left) greets Caleb Durbin at home plate after Durbin hit a solo home run to give the Red Sox the lead in the eighth inning."
+    ]
+  },
+  {
     "title": "Wu, Army Corps of Engineers release $10B plan to prevent $41B in future flood damage",
     "url": "https://www.boston.com/news/local-news/2026/07/20/wu-army-corps-of-engineers-release-10b-plan-to-prevent-41b-in-future-flood-damage/",
     "author": "Samantha Genzer",
@@ -78,16 +104,16 @@
     ]
   },
   {
-    "title": "Here’s what meteorologists are saying about thunderstorms and wind Tuesday-Wednesday",
+    "title": "Here’s what meteorologists are saying about thunderstorms and wind Tuesday and Wednesday",
     "url": "https://www.boston.com/weather/local-news/2026/07/20/heres-what-meteorologists-are-saying-about-thunderstorms-and-wind-tuesday-wednesday/",
-    "author": "Peter Chianca",
+    "author": "Peter Chianca and Jack Pickell",
     "section": "Weather",
     "published": "2026-07-20T17:49:54.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackirain040-6a5e5dcd47fdb-768x432.jpg",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/weather-6a5ee7a95aa73-768x432.jpg",
     "bullets": [
-      "Local News \"Localized wind damage is the main risk, to go along with torrential rain which could cause street flooding.",
-      "\" A pedestrian deals with strong winds and rain on Clarendon Street in Boston’s Back Bay earlier this month.",
-      "John Tlumacki/Boston Globe By Peter Chianca July 20, 2026 | 1:49 PM Less than a minute to read ShareSend this article to your social connections."
+      "Local News \"A spike in humidity Tuesday-Wednesday will fuel scattered showers, downpours and t-storms.",
+      "\" Christiana Botic for The Boston Globe/File ShareSend this article to your social connections.",
+      "National Weather Service: ‘Showers & scattered t-storms develop late Tue and especially Tue night."
     ]
   },
   {
@@ -101,32 +127,6 @@
       "Local News “To me, every single case that Michael Proctor worked on needs to be looked at.",
       "” Massachusetts State Trooper Michael Proctor faced a tough cross examination by defense attorney Alan Jackson during Karen Read's first trial on June 12, 2024.",
       "Greg Derr / The Patriot Ledger, Pool By Abby Patkin July 20, 2026 | 1:43 PM 3 minutes to read ShareSend this article to your social connections."
-    ]
-  },
-  {
-    "title": "Community Healthlink more than doubles layoffs as closure nears",
-    "url": "https://www.boston.com/news/local-news/2026/07/20/community-healthlink-more-than-doubles-layoffs-as-closure-nears/",
-    "author": "Beth Treffeisen",
-    "section": "News",
-    "published": "2026-07-20T17:30:54.000Z",
-    "image": "https://www.boston.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-1.26.36-PM-6a5e5a6bdd6df.png",
-    "bullets": [
-      "Local News The Worcester-based behavioral health provider now plans to lay off 231 workers, up from 78 announced in May, as it prepares to close.",
-      "Many employees are expected to join new operators.",
-      "ShareSend this article to your social connections."
-    ]
-  },
-  {
-    "title": "New England soccer’s thriving ecosystem views USL’s promotion-relegation plan with excitement and uncertainty",
-    "url": "https://www.boston.com/sports/world-cup/2026/07/20/new-england-soccer-usl-promotion-relegation/",
-    "author": "Seth Macomber",
-    "section": "Sports",
-    "published": "2026-07-20T17:10:14.000Z",
-    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/New-England-Soccer-Promotion-Relegation-Portland-Hearts-of-Pine-6a5e55714eb03-768x432.jpg",
-    "bullets": [
-      "World Cup “It allows you a chance to dream.",
-      "” Dana Ricker, head capo of the Dirigo Union, leads Portland Hearts of Pine fans during a game on Aug.",
-      "6, 2025."
     ]
   }
 ]
